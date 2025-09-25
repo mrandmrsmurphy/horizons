@@ -4,23 +4,22 @@ book: "Genesis"
 chapter: 1
 verse: 2
 section: Creation Story
+tags: ['perfect','']
 ---
 ![[/Greek/Genesis/001/Genesis-001-002G.md#Text]]
 ![[/Hebrew/Genesis/001/Genesis-001-002H.md#Text]]
 
-{{Perfect}}
-
 ## Analysis
 
 #### Words
-- **<s>and</s>** — The verbs of this verse describe a condition, not an action.  Hence, this verse cannot be taken as development ''after'' verse one, but must be an elaboration on it. (Collins, ''Science and Faith'', p88)
+- **~~and~~** — The verbs of this verse describe a condition, not an action.  Hence, this verse cannot be taken as development ''after'' verse one, but must be an elaboration on it. (Collins, ''Science and Faith'', p88)
 - **was** — cannot mean 'became'.
 - **darkness** — the evil overtones of this word are intentional.  Just as this image of an incomplete Creation being made full develops, so too we see that redemption is a replacement of the darkness with light.
-- **hovered** — [[Deuteronomy/32/11]] uses this rare word in the sense of a bird flying in the same position over something.
+- **hovered** — [[Deuteronomy-32-11]] uses this rare word in the sense of a bird flying in the same position over something.
 - **face** — occurs twice, as if the earth were oriented toward God and his Spirit.
 
 #### Phrases
-- **formless and void** — "rhymes" in Hebrew, mentioned again in [[Jeremiah/4/23]].  Earth is not like heaven from the beginning; it is unorganized, it is in need of content, and it is dark.
+- **formless and void** — "rhymes" in Hebrew, mentioned again in [[Jeremiah-4-23]].  Earth is not like heaven from the beginning; it is unorganized, it is in need of content, and it is dark.
 
 #### Concepts
 

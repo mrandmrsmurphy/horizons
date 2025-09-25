@@ -13,12 +13,12 @@ section: Creation Story
 ## Analysis
 
 ### Words
-- **created** — ([[Help:Hebrew:ברא|ברא]]) This word is only used only of God and His activities (in the Qal). The verb here is finite and cannot be rendered ''to create'' or ''when creating''.
-- **heaven** — a region, which is seen into later ([[Exodus/24]]).  Also called "the third heaven".
+- **created** — ([[/Hebrew/Lexicon/ברא|ברא]]) This word is only used only of God and His activities (in the Qal). The verb here is finite and cannot be rendered ''to create'' or ''when creating''.
+- **heaven** — a region, which is seen into later ([[Exodus-24]]).  Also called "the third heaven".
 - **earth** — a region, which (in the next verse) is not yet organized.
 
 ### Phrases
-- **In the beginning** — These opening words are intentionally echoed in [[John/1/1]].  In Hebrew, they are a noun phrase and cannot be translated as 'began', which is a verb . The inseparable preposition is on the word 'began', not God, so we cannot say "when God".
+- **In the beginning** — These opening words are intentionally echoed in [[John-1-1]].  In Hebrew, they are a noun phrase and cannot be translated as 'began', which is a verb . The inseparable preposition is on the word 'began', not God, so we cannot say "when God".
 - **the heavens and the earth** — is a merismus, signifying everything.
 
 ### Concepts
@@ -28,4 +28,4 @@ section: Creation Story
 
 * God created space and time, all of nature as well as the laws of nature.  Such thoughts are too great for us, yet they must shape all our thoughts of this world.
 
-See also [[Nehemiah/9/6]] and [[[Psalm/33/6]]
+See also [[Nehemiah-9-6]] and [[Psalm-33-6]]
