@@ -1,0 +1,82 @@
+---
+language: greek
+book: Isaiah
+chapter: 66
+verse: 1
+tokens:
+  - form: "οὕτως"
+    lemma: "ΟΥΤΩΣ"
+    morph: ""
+  - form: "λέγει"
+    lemma: "ΛΕΓΩ"
+    morph: 3SPIA
+  - form: "κύριος"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: NSM
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "οὐρανός"
+    lemma: "ΟΥΡΑΝΟΣ"
+    morph: NSM
+  - form: "μοι"
+    lemma: "ΕΓΩ"
+    morph: DS
+  - form: "θρόνος"
+    lemma: "ΘΡΟΝΟΣ"
+    morph: NSM
+  - form: "ἡ"
+    lemma: "Ο"
+    morph: NSF
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "γῆ"
+    lemma: "ΓΗ"
+    morph: NSF
+  - form: "ὑποπόδιον"
+    lemma: "ΥΠΟΠΟΔΙΟΝ"
+    morph: NSN
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPM
+  - form: "ποδῶν"
+    lemma: "ΠΟΥΣ"
+    morph: GPM
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ποῖον"
+    lemma: "ΠΟΙΟΣ"
+    morph: ASM
+  - form: "οἶκον"
+    lemma: "ΟΙΚΟΣ"
+    morph: ASM
+  - form: "οἰκοδομήσετέ"
+    lemma: "ΟΙΚΟΔΟΜΕΩ"
+    morph: 2PFIA
+  - form: "μοι"
+    lemma: "ΕΓΩ"
+    morph: DS
+  - form: "ἢ"
+    lemma: "Η"
+    morph: ""
+  - form: "ποῖος"
+    lemma: "ΠΟΙΟΣ"
+    morph: NSM
+  - form: "τόπος"
+    lemma: "ΤΟΠΟΣ"
+    morph: NSM
+  - form: "τῆς"
+    lemma: "Ο"
+    morph: GSF
+  - form: "καταπαύσεώς"
+    lemma: "ΚΑΤΑΠΑΥΣΙΣ"
+    morph: GSF
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+---
+
+## Text
+<span class="tok" title="ΟΥΤΩΣ">[[/Greek/Lexicon/ΟΥΤΩΣ/οὕτως]]</span> <span class="tok" title="ΛΕΓΩ — 3SPIA">[[/Greek/Lexicon/ΛΕΓΩ/λέγει]][[/Greek/Morphology/3SPIA|ˑ]]</span> <span class="tok" title="ΚΥΡΙΟΣ — NSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ/κύριος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο/ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΟΥΡΑΝΟΣ — NSM">[[/Greek/Lexicon/ΟΥΡΑΝΟΣ/οὐρανός]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — DS">[[/Greek/Lexicon/ΕΓΩ/μοι]][[/Greek/Morphology/DS|ˑ]]</span> <span class="tok" title="ΘΡΟΝΟΣ — NSM">[[/Greek/Lexicon/ΘΡΟΝΟΣ/θρόνος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο/ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ/δὲ]]</span> <span class="tok" title="ΓΗ — NSF">[[/Greek/Lexicon/ΓΗ/γῆ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΥΠΟΠΟΔΙΟΝ — NSN">[[/Greek/Lexicon/ΥΠΟΠΟΔΙΟΝ/ὑποπόδιον]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="Ο — GPM">[[/Greek/Lexicon/Ο/τῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΠΟΥΣ — GPM">[[/Greek/Lexicon/ΠΟΥΣ/ποδῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ/μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΠΟΙΟΣ — ASM">[[/Greek/Lexicon/ΠΟΙΟΣ/ποῖον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΟΙΚΟΣ — ASM">[[/Greek/Lexicon/ΟΙΚΟΣ/οἶκον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΟΙΚΟΔΟΜΕΩ — 2PFIA">[[/Greek/Lexicon/ΟΙΚΟΔΟΜΕΩ/οἰκοδομήσετέ]][[/Greek/Morphology/2PFIA|ˑ]]</span> <span class="tok" title="ΕΓΩ — DS">[[/Greek/Lexicon/ΕΓΩ/μοι]][[/Greek/Morphology/DS|ˑ]]</span> <span class="tok" title="Η">[[/Greek/Lexicon/Η/ἢ]]</span> <span class="tok" title="ΠΟΙΟΣ — NSM">[[/Greek/Lexicon/ΠΟΙΟΣ/ποῖος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΤΟΠΟΣ — NSM">[[/Greek/Lexicon/ΤΟΠΟΣ/τόπος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — GSF">[[/Greek/Lexicon/Ο/τῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΚΑΤΑΠΑΥΣΙΣ — GSF">[[/Greek/Lexicon/ΚΑΤΑΠΑΥΣΙΣ/καταπαύσεώς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ/μου]][[/Greek/Morphology/GS|ˑ]]</span>

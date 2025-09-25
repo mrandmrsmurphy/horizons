@@ -1,0 +1,18 @@
+---
+title: "Numbers 20:6"
+book: "Numbers"
+chapter: 20
+verse: 6
+---
+![[/Greek/Numbers/020/Numbers-020-006G.md#Text]]
+![[/Hebrew/Numbers/020/Numbers-020-006H.md#Text]]
+
+## Analysis
+
+#### Words
+
+#### Phrases
+
+#### Concepts
+
+## Reflections

@@ -1,0 +1,103 @@
+---
+language: greek
+book: Matthew
+chapter: 3
+verse: 11
+tokens:
+  - form: "ἐγὼ"
+    lemma: "ΕΓΩ"
+    morph: NS
+  - form: "μὲν"
+    lemma: "ΜΕΝ"
+    morph: ""
+  - form: "ὑμᾶς"
+    lemma: "ΣΥ"
+    morph: AP
+  - form: "βαπτίζω"
+    lemma: "ΒΑΠΤΙΖΩ"
+    morph: 1SPIA
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "ὕδατι"
+    lemma: "ΥΔΩΡ"
+    morph: DSN
+  - form: "εἰς"
+    lemma: "ΕΙΣ"
+    morph: ""
+  - form: "μετάνοιαν·"
+    lemma: "ΜΕΤΑΝΟΙΑ"
+    morph: ASF
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "ὀπίσω"
+    lemma: "ΟΠΙΣΩ"
+    morph: ""
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ἐρχόμενος"
+    lemma: "ΕΡΧΟΜΑΙ"
+    morph: PMP-NSM
+  - form: "ἰσχυρότερός"
+    lemma: "ΙΣΧΥΡΟΣ"
+    morph: C-NSM
+  - form: "μού"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ἐστιν,"
+    lemma: "ΕΙΜΙ"
+    morph: 3SPIA
+  - form: "οὗ"
+    lemma: "ΟΣ"
+    morph: GSM
+  - form: "οὐκ"
+    lemma: "ΟΥ"
+    morph: ""
+  - form: "εἰμὶ"
+    lemma: "ΕΙΜΙ"
+    morph: 1SPIA
+  - form: "ἱκανὸς"
+    lemma: "ΙΚΑΝΟΣ"
+    morph: NSM
+  - form: "τὰ"
+    lemma: "Ο"
+    morph: APN
+  - form: "ὑποδήματα"
+    lemma: "ΥΠΟΔΗΜΑ"
+    morph: APN
+  - form: "βαστάσαι·"
+    lemma: "ΒΑΣΤΑΖΩ"
+    morph: AAI
+  - form: "αὐτὸς"
+    lemma: "ΑΥΤΟΣ"
+    morph: NSM
+  - form: "ὑμᾶς"
+    lemma: "ΣΥ"
+    morph: AP
+  - form: "βαπτίσει"
+    lemma: "ΒΑΠΤΙΖΩ"
+    morph: 3SFIA
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "πνεύματι"
+    lemma: "ΠΝΕΥΜΑ"
+    morph: DSN
+  - form: "ἁγίῳ"
+    lemma: "ΑΓΙΟΣ"
+    morph: DSN
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "πυρί·"
+    lemma: "ΠΥΡ"
+    morph: DSN
+---
+
+## Text
+<span class="tok" title="ΕΓΩ — NS">[[/Greek/Lexicon/ΕΓΩ/ἐγὼ]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΜΕΝ">[[/Greek/Lexicon/ΜΕΝ/μὲν]]</span> <span class="tok" title="ΣΥ — AP">[[/Greek/Lexicon/ΣΥ/ὑμᾶς]][[/Greek/Morphology/AP|ˑ]]</span> <span class="tok" title="ΒΑΠΤΙΖΩ — 1SPIA">[[/Greek/Lexicon/ΒΑΠΤΙΖΩ/βαπτίζω]][[/Greek/Morphology/1SPIA|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ/ἐν]]</span> <span class="tok" title="ΥΔΩΡ — DSN">[[/Greek/Lexicon/ΥΔΩΡ/ὕδατι]][[/Greek/Morphology/DSN|ˑ]]</span> <span class="tok" title="ΕΙΣ">[[/Greek/Lexicon/ΕΙΣ/εἰς]]</span> <span class="tok" title="ΜΕΤΑΝΟΙΑ — ASF">[[/Greek/Lexicon/ΜΕΤΑΝΟΙΑ/μετάνοιαν·]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο/ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ/δὲ]]</span> <span class="tok" title="ΟΠΙΣΩ">[[/Greek/Lexicon/ΟΠΙΣΩ/ὀπίσω]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ/μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΕΡΧΟΜΑΙ — PMP-NSM">[[/Greek/Lexicon/ΕΡΧΟΜΑΙ/ἐρχόμενος]][[/Greek/Morphology/PMP-NSM|ˑ]]</span> <span class="tok" title="ΙΣΧΥΡΟΣ — C-NSM">[[/Greek/Lexicon/ΙΣΧΥΡΟΣ/ἰσχυρότερός]][[/Greek/Morphology/C-NSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ/μού]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΕΙΜΙ — 3SPIA">[[/Greek/Lexicon/ΕΙΜΙ/ἐστιν,]][[/Greek/Morphology/3SPIA|ˑ]]</span> <span class="tok" title="ΟΣ — GSM">[[/Greek/Lexicon/ΟΣ/οὗ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ/οὐκ]]</span> <span class="tok" title="ΕΙΜΙ — 1SPIA">[[/Greek/Lexicon/ΕΙΜΙ/εἰμὶ]][[/Greek/Morphology/1SPIA|ˑ]]</span> <span class="tok" title="ΙΚΑΝΟΣ — NSM">[[/Greek/Lexicon/ΙΚΑΝΟΣ/ἱκανὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — APN">[[/Greek/Lexicon/Ο/τὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΥΠΟΔΗΜΑ — APN">[[/Greek/Lexicon/ΥΠΟΔΗΜΑ/ὑποδήματα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΒΑΣΤΑΖΩ — AAI">[[/Greek/Lexicon/ΒΑΣΤΑΖΩ/βαστάσαι·]][[/Greek/Morphology/AAI|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — NSM">[[/Greek/Lexicon/ΑΥΤΟΣ/αὐτὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΣΥ — AP">[[/Greek/Lexicon/ΣΥ/ὑμᾶς]][[/Greek/Morphology/AP|ˑ]]</span> <span class="tok" title="ΒΑΠΤΙΖΩ — 3SFIA">[[/Greek/Lexicon/ΒΑΠΤΙΖΩ/βαπτίσει]][[/Greek/Morphology/3SFIA|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ/ἐν]]</span> <span class="tok" title="ΠΝΕΥΜΑ — DSN">[[/Greek/Lexicon/ΠΝΕΥΜΑ/πνεύματι]][[/Greek/Morphology/DSN|ˑ]]</span> <span class="tok" title="ΑΓΙΟΣ — DSN">[[/Greek/Lexicon/ΑΓΙΟΣ/ἁγίῳ]][[/Greek/Morphology/DSN|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΠΥΡ — DSN">[[/Greek/Lexicon/ΠΥΡ/πυρί·]][[/Greek/Morphology/DSN|ˑ]]</span>

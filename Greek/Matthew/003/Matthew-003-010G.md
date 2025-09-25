@@ -1,0 +1,76 @@
+---
+language: greek
+book: Matthew
+chapter: 3
+verse: 10
+tokens:
+  - form: "ἤδη"
+    lemma: "ΗΔΗ"
+    morph: ""
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "ἡ"
+    lemma: "Ο"
+    morph: NSF
+  - form: "ἀξίνη"
+    lemma: "ΑΞΙΝΗ"
+    morph: NSF
+  - form: "πρὸς"
+    lemma: "ΠΡΟΣ"
+    morph: ""
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "ῥίζαν"
+    lemma: "ΡΙΖΑ"
+    morph: ASF
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPN
+  - form: "δένδρων"
+    lemma: "ΔΕΝΔΡΟΝ"
+    morph: GPN
+  - form: "κεῖται·"
+    lemma: "ΚΕΙΜΑΙ"
+    morph: 3SPIM
+  - form: "πᾶν"
+    lemma: "ΠΑΣ"
+    morph: NSN
+  - form: "οὖν"
+    lemma: "ΟΥΝ"
+    morph: ""
+  - form: "δένδρον"
+    lemma: "ΔΕΝΔΡΟΝ"
+    morph: NSN
+  - form: "μὴ"
+    lemma: "ΜΗ"
+    morph: ""
+  - form: "ποιοῦν"
+    lemma: "ΠΟΙΕΩ"
+    morph: PAP-NSN
+  - form: "καρπὸν"
+    lemma: "ΚΑΡΠΟΣ"
+    morph: ASM
+  - form: "καλὸν"
+    lemma: "ΚΑΛΟΣ"
+    morph: ASM
+  - form: "ἐκκόπτεται"
+    lemma: "ΕΚΚΟΠΤΩ"
+    morph: 3SPIM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἰς"
+    lemma: "ΕΙΣ"
+    morph: ""
+  - form: "πῦρ"
+    lemma: "ΠΥΡ"
+    morph: ASN
+  - form: "βάλλεται."
+    lemma: "ΒΑΛΛΩ"
+    morph: 3SPIM
+---
+
+## Text
+<span class="tok" title="ΗΔΗ">[[/Greek/Lexicon/ΗΔΗ/ἤδη]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ/δὲ]]</span> <span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο/ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΑΞΙΝΗ — NSF">[[/Greek/Lexicon/ΑΞΙΝΗ/ἀξίνη]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΠΡΟΣ">[[/Greek/Lexicon/ΠΡΟΣ/πρὸς]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο/τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΡΙΖΑ — ASF">[[/Greek/Lexicon/ΡΙΖΑ/ῥίζαν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="Ο — GPN">[[/Greek/Lexicon/Ο/τῶν]][[/Greek/Morphology/GPN|ˑ]]</span> <span class="tok" title="ΔΕΝΔΡΟΝ — GPN">[[/Greek/Lexicon/ΔΕΝΔΡΟΝ/δένδρων]][[/Greek/Morphology/GPN|ˑ]]</span> <span class="tok" title="ΚΕΙΜΑΙ — 3SPIM">[[/Greek/Lexicon/ΚΕΙΜΑΙ/κεῖται·]][[/Greek/Morphology/3SPIM|ˑ]]</span> <span class="tok" title="ΠΑΣ — NSN">[[/Greek/Lexicon/ΠΑΣ/πᾶν]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="ΟΥΝ">[[/Greek/Lexicon/ΟΥΝ/οὖν]]</span> <span class="tok" title="ΔΕΝΔΡΟΝ — NSN">[[/Greek/Lexicon/ΔΕΝΔΡΟΝ/δένδρον]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ/μὴ]]</span> <span class="tok" title="ΠΟΙΕΩ — PAP-NSN">[[/Greek/Lexicon/ΠΟΙΕΩ/ποιοῦν]][[/Greek/Morphology/PAP-NSN|ˑ]]</span> <span class="tok" title="ΚΑΡΠΟΣ — ASM">[[/Greek/Lexicon/ΚΑΡΠΟΣ/καρπὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΑΛΟΣ — ASM">[[/Greek/Lexicon/ΚΑΛΟΣ/καλὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΕΚΚΟΠΤΩ — 3SPIM">[[/Greek/Lexicon/ΕΚΚΟΠΤΩ/ἐκκόπτεται]][[/Greek/Morphology/3SPIM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΕΙΣ">[[/Greek/Lexicon/ΕΙΣ/εἰς]]</span> <span class="tok" title="ΠΥΡ — ASN">[[/Greek/Lexicon/ΠΥΡ/πῦρ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΒΑΛΛΩ — 3SPIM">[[/Greek/Lexicon/ΒΑΛΛΩ/βάλλεται.]][[/Greek/Morphology/3SPIM|ˑ]]</span>

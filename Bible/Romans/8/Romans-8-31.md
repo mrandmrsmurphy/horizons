@@ -1,0 +1,19 @@
+---
+title: "Romans 8:31"
+book: "Romans"
+chapter: 8
+verse: 31
+author: Apostle Paul
+---
+![[/Greek/Romans/008/Romans-008-031G.md#Text]]
+![[/Hebrew/Romans/008/Romans-008-031H.md#Text]]
+
+## Analysis
+
+#### Words
+
+#### Phrases
+
+#### Concepts
+
+## Reflections

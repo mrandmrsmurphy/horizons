@@ -1,0 +1,43 @@
+---
+language: greek
+book: 1 Chronicles
+chapter: 11
+verse: 9
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐπορεύετο"
+    lemma: "ΠΟΡΕΥΟΜΑΙ"
+    morph: 3SIIM
+  - form: "Δαυΐδ"
+    lemma: "ΔΑΥΙΔ"
+    morph: NSM
+  - form: "πορευόμενος"
+    lemma: "ΠΟΡΕΥΟΜΑΙ"
+    morph: PMP-NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "μεγαλυνόμενος"
+    lemma: "ΜΕΓΑΛΥΝΩ"
+    morph: PMP-NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "κύριος"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: NSM
+  - form: "παντοκράτωρ"
+    lemma: "ΠΑΝΤΟΚΡΑΤΩΡ"
+    morph: NSM
+  - form: "μετ'"
+    lemma: "ΜΕΤΑ"
+    morph: ""
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+---
+
+## Text
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΠΟΡΕΥΟΜΑΙ — 3SIIM">[[/Greek/Lexicon/ΠΟΡΕΥΟΜΑΙ/ἐπορεύετο]][[/Greek/Morphology/3SIIM|ˑ]]</span> <span class="tok" title="ΔΑΥΙΔ — NSM">[[/Greek/Lexicon/ΔΑΥΙΔ/Δαυΐδ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΠΟΡΕΥΟΜΑΙ — PMP-NSM">[[/Greek/Lexicon/ΠΟΡΕΥΟΜΑΙ/πορευόμενος]][[/Greek/Morphology/PMP-NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΜΕΓΑΛΥΝΩ — PMP-NSM">[[/Greek/Lexicon/ΜΕΓΑΛΥΝΩ/μεγαλυνόμενος]][[/Greek/Morphology/PMP-NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΚΥΡΙΟΣ — NSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ/κύριος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΠΑΝΤΟΚΡΑΤΩΡ — NSM">[[/Greek/Lexicon/ΠΑΝΤΟΚΡΑΤΩΡ/παντοκράτωρ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΜΕΤΑ">[[/Greek/Lexicon/ΜΕΤΑ/μετ']]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ/αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span>

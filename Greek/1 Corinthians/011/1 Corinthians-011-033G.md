@@ -1,0 +1,70 @@
+---
+language: greek
+book: 1 Corinthians
+chapter: 11
+verse: 33
+tokens:
+  - form: "εὐσεβὴς"
+    lemma: "ΕΥΣΕΒΗΣ"
+    morph: NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "φοβούμενος"
+    lemma: "ΦΟΒΕΩ"
+    morph: PMP-NSM
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "Θεὸν"
+    lemma: "ΘΕΟΣ"
+    morph: ASM
+  - form: "σὺν"
+    lemma: "ΣΥΝ"
+    morph: ""
+  - form: "παντὶ"
+    lemma: "ΠΑΣ"
+    morph: DSM
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSM
+  - form: "οἴκῳ"
+    lemma: "ΟΙΚΟΣ"
+    morph: DSM
+  - form: "αὐτοῦ,"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "ποιῶν"
+    lemma: "ΠΟΙΕΩ"
+    morph: PAP-NSM
+  - form: "ἐλεημοσύνας"
+    lemma: "ΕΛΕΗΜΟΣΥΝΗ"
+    morph: APF
+  - form: "πολλὰς"
+    lemma: "ΠΟΛΥΣ"
+    morph: APF
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSM
+  - form: "λαῷ"
+    lemma: "ΛΑΟΣ"
+    morph: DSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "δεόμενος"
+    lemma: "ΔΕΟΜΑΙ"
+    morph: PMP-NSM
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "Θεοῦ"
+    lemma: "ΘΕΟΣ"
+    morph: GSM
+  - form: "διαπαντός,"
+    lemma: "ΔΙΑΠΑΝΤΟΣ"
+    morph: ""
+---
+
+## Text
+<span class="tok" title="ΕΥΣΕΒΗΣ — NSM">[[/Greek/Lexicon/ΕΥΣΕΒΗΣ/εὐσεβὴς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΦΟΒΕΩ — PMP-NSM">[[/Greek/Lexicon/ΦΟΒΕΩ/φοβούμενος]][[/Greek/Morphology/PMP-NSM|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο/τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — ASM">[[/Greek/Lexicon/ΘΕΟΣ/Θεὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΣΥΝ">[[/Greek/Lexicon/ΣΥΝ/σὺν]]</span> <span class="tok" title="ΠΑΣ — DSM">[[/Greek/Lexicon/ΠΑΣ/παντὶ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο/τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΟΙΚΟΣ — DSM">[[/Greek/Lexicon/ΟΙΚΟΣ/οἴκῳ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ/αὐτοῦ,]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΠΟΙΕΩ — PAP-NSM">[[/Greek/Lexicon/ΠΟΙΕΩ/ποιῶν]][[/Greek/Morphology/PAP-NSM|ˑ]]</span> <span class="tok" title="ΕΛΕΗΜΟΣΥΝΗ — APF">[[/Greek/Lexicon/ΕΛΕΗΜΟΣΥΝΗ/ἐλεημοσύνας]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="ΠΟΛΥΣ — APF">[[/Greek/Lexicon/ΠΟΛΥΣ/πολλὰς]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο/τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΛΑΟΣ — DSM">[[/Greek/Lexicon/ΛΑΟΣ/λαῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΔΕΟΜΑΙ — PMP-NSM">[[/Greek/Lexicon/ΔΕΟΜΑΙ/δεόμενος]][[/Greek/Morphology/PMP-NSM|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο/τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — GSM">[[/Greek/Lexicon/ΘΕΟΣ/Θεοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΔΙΑΠΑΝΤΟΣ">[[/Greek/Lexicon/ΔΙΑΠΑΝΤΟΣ/διαπαντός,]]</span>

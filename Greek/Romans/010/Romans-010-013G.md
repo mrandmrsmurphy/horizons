@@ -1,0 +1,37 @@
+---
+language: greek
+book: Romans
+chapter: 10
+verse: 13
+tokens:
+  - form: "πᾶς"
+    lemma: "ΠΑΣ"
+    morph: NSM
+  - form: "γὰρ"
+    lemma: "ΓΑΡ"
+    morph: ""
+  - form: "ὃς"
+    lemma: "ΟΣ"
+    morph: NSM
+  - form: "ἂν"
+    lemma: "ΑΝ"
+    morph: ""
+  - form: "ἐπικαλέσηται"
+    lemma: "ΕΠΙΚΑΛΕΩ"
+    morph: 3SASM
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: ASN
+  - form: "ὄνομα"
+    lemma: "ΟΝΟΜΑ"
+    morph: ASN
+  - form: "κυρίου"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: GSM
+  - form: "σωθήσεται."
+    lemma: "ΣΩΖΩ"
+    morph: 3SFIP
+---
+
+## Text
+<span class="tok" title="ΠΑΣ — NSM">[[/Greek/Lexicon/ΠΑΣ/πᾶς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΓΑΡ">[[/Greek/Lexicon/ΓΑΡ/γὰρ]]</span> <span class="tok" title="ΟΣ — NSM">[[/Greek/Lexicon/ΟΣ/ὃς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΝ">[[/Greek/Lexicon/ΑΝ/ἂν]]</span> <span class="tok" title="ΕΠΙΚΑΛΕΩ — 3SASM">[[/Greek/Lexicon/ΕΠΙΚΑΛΕΩ/ἐπικαλέσηται]][[/Greek/Morphology/3SASM|ˑ]]</span> <span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο/τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΟΝΟΜΑ — ASN">[[/Greek/Lexicon/ΟΝΟΜΑ/ὄνομα]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΚΥΡΙΟΣ — GSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ/κυρίου]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΣΩΖΩ — 3SFIP">[[/Greek/Lexicon/ΣΩΖΩ/σωθήσεται.]][[/Greek/Morphology/3SFIP|ˑ]]</span>

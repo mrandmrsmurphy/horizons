@@ -1,0 +1,18 @@
+---
+title: "Numbers 22:41"
+book: "Numbers"
+chapter: 22
+verse: 41
+---
+![[/Greek/Numbers/022/Numbers-022-041G.md#Text]]
+![[/Hebrew/Numbers/022/Numbers-022-041H.md#Text]]
+
+## Analysis
+
+#### Words
+
+#### Phrases
+
+#### Concepts
+
+## Reflections

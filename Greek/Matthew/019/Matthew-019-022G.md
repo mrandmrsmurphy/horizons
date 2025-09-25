@@ -1,0 +1,43 @@
+---
+language: greek
+book: Matthew
+chapter: 19
+verse: 22
+tokens:
+  - form: "ἀκούσας"
+    lemma: "ΑΚΟΥΩ"
+    morph: AAP-NSM
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "νεανίσκος"
+    lemma: "ΝΕΑΝΙΣΚΟΣ"
+    morph: NSM
+  - form: "ἀπῆλθεν"
+    lemma: "ΑΠΕΡΧΟΜΑΙ"
+    morph: 3SAIA
+  - form: "λυπούμενος·"
+    lemma: "ΛΥΠΕΩ"
+    morph: PMP-NSM
+  - form: "ἦν"
+    lemma: "ΕΙΜΙ"
+    morph: 3SIIA
+  - form: "γὰρ"
+    lemma: "ΓΑΡ"
+    morph: ""
+  - form: "ἔχων"
+    lemma: "ΕΧΩ"
+    morph: PAP-NSM
+  - form: "κτήματα"
+    lemma: "ΚΤΗΜΑ"
+    morph: APN
+  - form: "πολλά."
+    lemma: "ΠΟΛΥΣ"
+    morph: APN
+---
+
+## Text
+<span class="tok" title="ΑΚΟΥΩ — AAP-NSM">[[/Greek/Lexicon/ΑΚΟΥΩ/ἀκούσας]][[/Greek/Morphology/AAP-NSM|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ/δὲ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο/ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΝΕΑΝΙΣΚΟΣ — NSM">[[/Greek/Lexicon/ΝΕΑΝΙΣΚΟΣ/νεανίσκος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΠΕΡΧΟΜΑΙ — 3SAIA">[[/Greek/Lexicon/ΑΠΕΡΧΟΜΑΙ/ἀπῆλθεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΛΥΠΕΩ — PMP-NSM">[[/Greek/Lexicon/ΛΥΠΕΩ/λυπούμενος·]][[/Greek/Morphology/PMP-NSM|ˑ]]</span> <span class="tok" title="ΕΙΜΙ — 3SIIA">[[/Greek/Lexicon/ΕΙΜΙ/ἦν]][[/Greek/Morphology/3SIIA|ˑ]]</span> <span class="tok" title="ΓΑΡ">[[/Greek/Lexicon/ΓΑΡ/γὰρ]]</span> <span class="tok" title="ΕΧΩ — PAP-NSM">[[/Greek/Lexicon/ΕΧΩ/ἔχων]][[/Greek/Morphology/PAP-NSM|ˑ]]</span> <span class="tok" title="ΚΤΗΜΑ — APN">[[/Greek/Lexicon/ΚΤΗΜΑ/κτήματα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΠΟΛΥΣ — APN">[[/Greek/Lexicon/ΠΟΛΥΣ/πολλά.]][[/Greek/Morphology/APN|ˑ]]</span>

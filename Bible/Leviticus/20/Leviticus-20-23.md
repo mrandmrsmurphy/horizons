@@ -1,0 +1,18 @@
+---
+title: "Leviticus 20:23"
+book: "Leviticus"
+chapter: 20
+verse: 23
+---
+![[/Greek/Leviticus/020/Leviticus-020-023G.md#Text]]
+![[/Hebrew/Leviticus/020/Leviticus-020-023H.md#Text]]
+
+## Analysis
+
+#### Words
+
+#### Phrases
+
+#### Concepts
+
+## Reflections

@@ -1,0 +1,37 @@
+---
+language: greek
+book: Matthew
+chapter: 18
+verse: 11
+tokens:
+  - form: "ἦλθεν"
+    lemma: "ΕΡΧΟΜΑΙ"
+    morph: 3SAIA
+  - form: "γὰρ"
+    lemma: "ΓΑΡ"
+    morph: ""
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "υἱὸς"
+    lemma: "ΥΙΟΣ"
+    morph: NSM
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "ἀνθρώπου"
+    lemma: "ΑΝΘΡΩΠΟΣ"
+    morph: GSM
+  - form: "σῶσαι"
+    lemma: "ΣΩΖΩ"
+    morph: AAI
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: ASN
+  - form: "ἀπολωλός"
+    lemma: "ΑΠΟΛΛΥΜΙ"
+    morph: RAP-ASN
+---
+
+## Text
+<span class="tok" title="ΕΡΧΟΜΑΙ — 3SAIA">[[/Greek/Lexicon/ΕΡΧΟΜΑΙ/ἦλθεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΓΑΡ">[[/Greek/Lexicon/ΓΑΡ/γὰρ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο/ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΥΙΟΣ — NSM">[[/Greek/Lexicon/ΥΙΟΣ/υἱὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο/τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΑΝΘΡΩΠΟΣ — GSM">[[/Greek/Lexicon/ΑΝΘΡΩΠΟΣ/ἀνθρώπου]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΣΩΖΩ — AAI">[[/Greek/Lexicon/ΣΩΖΩ/σῶσαι]][[/Greek/Morphology/AAI|ˑ]]</span> <span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο/τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΑΠΟΛΛΥΜΙ — RAP-ASN">[[/Greek/Lexicon/ΑΠΟΛΛΥΜΙ/ἀπολωλός]][[/Greek/Morphology/RAP-ASN|ˑ]]</span>
