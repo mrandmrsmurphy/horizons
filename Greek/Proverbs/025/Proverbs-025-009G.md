@@ -25,4 +25,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΑΝΑΧΩΡΕΩ — 2SPMA">[[/Greek/Lexicon/ΑΝΑΧΩΡΕΩ/ἀναχώρει]][[/Greek/Morphology/2SPMA|ˑ]]</span> <span class="tok" title="ΕΙΣ">[[/Greek/Lexicon/ΕΙΣ/εἰς]]</span> <span class="tok" title="Ο — APN">[[/Greek/Lexicon/Ο/τὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΟΠΙΣΩ">[[/Greek/Lexicon/ΟΠΙΣΩ/ὀπίσω]]</span> <span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ/μὴ]]</span> <span class="tok" title="ΚΑΤΑΦΡΟΝΕΩ — 2SPMA">[[/Greek/Lexicon/ΚΑΤΑΦΡΟΝΕΩ/καταφρόνει,]][[/Greek/Morphology/2SPMA|ˑ]]</span>
+<span class="tok" title="ΑΝΑΧΩΡΕΩ — 2SPMA">[[/Greek/Lexicon/ΑΝΑΧΩΡΕΩ|ἀναχώρει]][[/Greek/Morphology/2SPMA|ˑ]]</span> <span class="tok" title="ΕΙΣ">[[/Greek/Lexicon/ΕΙΣ|εἰς]]</span> <span class="tok" title="Ο — APN">[[/Greek/Lexicon/Ο|τὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΟΠΙΣΩ">[[/Greek/Lexicon/ΟΠΙΣΩ|ὀπίσω]]</span> <span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ|μὴ]]</span> <span class="tok" title="ΚΑΤΑΦΡΟΝΕΩ — 2SPMA">[[/Greek/Lexicon/ΚΑΤΑΦΡΟΝΕΩ|καταφρόνει,]][[/Greek/Morphology/2SPMA|ˑ]]</span>

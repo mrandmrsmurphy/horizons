@@ -13,4 +13,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΠΑΝΤΟΤΕ">[[/Greek/Lexicon/ΠΑΝΤΟΤΕ/πάντοτε]]</span> <span class="tok" title="ΧΑΙΡΩ — 2PPMA">[[/Greek/Lexicon/ΧΑΙΡΩ/χαίρετε,]][[/Greek/Morphology/2PPMA|ˑ]]</span>
+<span class="tok" title="ΠΑΝΤΟΤΕ">[[/Greek/Lexicon/ΠΑΝΤΟΤΕ|πάντοτε]]</span> <span class="tok" title="ΧΑΙΡΩ — 2PPMA">[[/Greek/Lexicon/ΧΑΙΡΩ|χαίρετε,]][[/Greek/Morphology/2PPMA|ˑ]]</span>

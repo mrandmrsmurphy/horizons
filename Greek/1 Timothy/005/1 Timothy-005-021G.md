@@ -22,4 +22,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΔΙΑΜΑΡΤΥΡΟΜΑΙ — 1SPIM">[[/Greek/Lexicon/ΔΙΑΜΑΡΤΥΡΟΜΑΙ/Διαμαρτύρομαι]][[/Greek/Morphology/1SPIM|ˑ]]</span> <span class="tok" title="ΕΝΩΠΙΟΝ">[[/Greek/Lexicon/ΕΝΩΠΙΟΝ/ἐνώπιον]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο/τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — GSM">[[/Greek/Lexicon/ΘΕΟΣ/Θεοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span>
+<span class="tok" title="ΔΙΑΜΑΡΤΥΡΟΜΑΙ — 1SPIM">[[/Greek/Lexicon/ΔΙΑΜΑΡΤΥΡΟΜΑΙ|Διαμαρτύρομαι]][[/Greek/Morphology/1SPIM|ˑ]]</span> <span class="tok" title="ΕΝΩΠΙΟΝ">[[/Greek/Lexicon/ΕΝΩΠΙΟΝ|ἐνώπιον]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — GSM">[[/Greek/Lexicon/ΘΕΟΣ|Θεοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span>

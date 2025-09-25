@@ -16,4 +16,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο/Ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΦΙΛΑΔΕΛΦΙΑ — NSF">[[/Greek/Lexicon/ΦΙΛΑΔΕΛΦΙΑ/φιλαδελφία]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΜΕΝΩ — 3SPMA">[[/Greek/Lexicon/ΜΕΝΩ/μενέτω.]][[/Greek/Morphology/3SPMA|ˑ]]</span>
+<span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο|Ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΦΙΛΑΔΕΛΦΙΑ — NSF">[[/Greek/Lexicon/ΦΙΛΑΔΕΛΦΙΑ|φιλαδελφία]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΜΕΝΩ — 3SPMA">[[/Greek/Lexicon/ΜΕΝΩ|μενέτω.]][[/Greek/Morphology/3SPMA|ˑ]]</span>

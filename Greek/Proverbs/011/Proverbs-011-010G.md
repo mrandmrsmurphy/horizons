@@ -22,4 +22,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ/ἐν]]</span> <span class="tok" title="ΑΓΑΘΟΣ — DPM">[[/Greek/Lexicon/ΑΓΑΘΟΣ/ἀγαθοῖς]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΔΙΚΑΙΟΣ — GPM">[[/Greek/Lexicon/ΔΙΚΑΙΟΣ/δικαίων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΚΑΤΟΡΘΟΩ — 3SAIA">[[/Greek/Lexicon/ΚΑΤΟΡΘΟΩ/κατώρθωσεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΠΟΛΙΣ — NSF">[[/Greek/Lexicon/ΠΟΛΙΣ/πόλις,]][[/Greek/Morphology/NSF|ˑ]]</span>
+<span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΑΓΑΘΟΣ — DPM">[[/Greek/Lexicon/ΑΓΑΘΟΣ|ἀγαθοῖς]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΔΙΚΑΙΟΣ — GPM">[[/Greek/Lexicon/ΔΙΚΑΙΟΣ|δικαίων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΚΑΤΟΡΘΟΩ — 3SAIA">[[/Greek/Lexicon/ΚΑΤΟΡΘΟΩ|κατώρθωσεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΠΟΛΙΣ — NSF">[[/Greek/Lexicon/ΠΟΛΙΣ|πόλις,]][[/Greek/Morphology/NSF|ˑ]]</span>

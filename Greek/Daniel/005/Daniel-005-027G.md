@@ -25,4 +25,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΙΣΤΗΜΙ — 3SAIP">[[/Greek/Lexicon/ΙΣΤΗΜΙ/ἐστάθη]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ/ἐν]]</span> <span class="tok" title="ΖΥΓΟΣ — DSM">[[/Greek/Lexicon/ΖΥΓΟΣ/ζυγῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΕΥΡΙΣΚΩ — 3SAIP">[[/Greek/Lexicon/ΕΥΡΙΣΚΩ/εὑρέθη]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="ΥΣΤΕΡΕΩ — PAP-NSF">[[/Greek/Lexicon/ΥΣΤΕΡΕΩ/ὑστεροῦσα]][[/Greek/Morphology/PAP-NSF|ˑ]]</span>
+<span class="tok" title="ΙΣΤΗΜΙ — 3SAIP">[[/Greek/Lexicon/ΙΣΤΗΜΙ|ἐστάθη]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΖΥΓΟΣ — DSM">[[/Greek/Lexicon/ΖΥΓΟΣ|ζυγῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΥΡΙΣΚΩ — 3SAIP">[[/Greek/Lexicon/ΕΥΡΙΣΚΩ|εὑρέθη]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="ΥΣΤΕΡΕΩ — PAP-NSF">[[/Greek/Lexicon/ΥΣΤΕΡΕΩ|ὑστεροῦσα]][[/Greek/Morphology/PAP-NSF|ˑ]]</span>

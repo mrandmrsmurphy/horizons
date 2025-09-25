@@ -13,4 +13,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ/οὐ]]</span> <span class="tok" title="ΜΟΙΧΕΥΩ — 2SFIA">[[/Greek/Lexicon/ΜΟΙΧΕΥΩ/μοιχεύσεις]][[/Greek/Morphology/2SFIA|ˑ]]</span>
+<span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ|οὐ]]</span> <span class="tok" title="ΜΟΙΧΕΥΩ — 2SFIA">[[/Greek/Lexicon/ΜΟΙΧΕΥΩ|μοιχεύσεις]][[/Greek/Morphology/2SFIA|ˑ]]</span>

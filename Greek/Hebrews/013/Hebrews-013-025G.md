@@ -22,4 +22,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο/Ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΧΑΡΙΣ — NSF">[[/Greek/Lexicon/ΧΑΡΙΣ/χάρις]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΜΕΤΑ">[[/Greek/Lexicon/ΜΕΤΑ/μετὰ]]</span> <span class="tok" title="ΠΑΣ — GPM">[[/Greek/Lexicon/ΠΑΣ/πάντων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΣΥ — GP">[[/Greek/Lexicon/ΣΥ/ὑμῶν.]][[/Greek/Morphology/GP|ˑ]]</span>
+<span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο|Ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΧΑΡΙΣ — NSF">[[/Greek/Lexicon/ΧΑΡΙΣ|χάρις]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΜΕΤΑ">[[/Greek/Lexicon/ΜΕΤΑ|μετὰ]]</span> <span class="tok" title="ΠΑΣ — GPM">[[/Greek/Lexicon/ΠΑΣ|πάντων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΣΥ — GP">[[/Greek/Lexicon/ΣΥ|ὑμῶν.]][[/Greek/Morphology/GP|ˑ]]</span>

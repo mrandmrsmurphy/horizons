@@ -25,4 +25,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΠΡΟΣ">[[/Greek/Lexicon/ΠΡΟΣ/πρὸς]]</span> <span class="tok" title="ΣΑΜΑΙΑΣ — ASM">[[/Greek/Lexicon/ΣΑΜΑΙΑΣ/σαμαιαν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο/τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΝΕΛΑΜΙΤΗΣ — ASM">[[/Greek/Lexicon/ΝΕΛΑΜΙΤΗΣ/νελαμίτην]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΛΕΓΩ — 2SFIA">[[/Greek/Lexicon/ΛΕΓΩ/ἐρεῖς]][[/Greek/Morphology/2SFIA|ˑ]]</span>
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΠΡΟΣ">[[/Greek/Lexicon/ΠΡΟΣ|πρὸς]]</span> <span class="tok" title="ΣΑΜΑΙΑΣ — ASM">[[/Greek/Lexicon/ΣΑΜΑΙΑΣ|σαμαιαν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΝΕΛΑΜΙΤΗΣ — ASM">[[/Greek/Lexicon/ΝΕΛΑΜΙΤΗΣ|νελαμίτην]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΛΕΓΩ — 2SFIA">[[/Greek/Lexicon/ΛΕΓΩ|ἐρεῖς]][[/Greek/Morphology/2SFIA|ˑ]]</span>

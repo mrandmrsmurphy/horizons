@@ -22,4 +22,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΚΡΕΙΣΣΩΝ — NPM">[[/Greek/Lexicon/ΚΡΕΙΣΣΩΝ/κρείσσους]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΕΛΕΓΧΟΣ — NPM">[[/Greek/Lexicon/ΕΛΕΓΧΟΣ/ἔλεγχοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΑΠΟΚΑΛΥΠΤΩ — RMP-NPM">[[/Greek/Lexicon/ΑΠΟΚΑΛΥΠΤΩ/ἀποκεκαλυμμένοι]][[/Greek/Morphology/RMP-NPM|ˑ]]</span> <span class="tok" title="ΚΡΥΠΤΩ — PMP-GSF">[[/Greek/Lexicon/ΚΡΥΠΤΩ/κρυπτομένης]][[/Greek/Morphology/PMP-GSF|ˑ]]</span> <span class="tok" title="ΦΙΛΙΑ — GSF">[[/Greek/Lexicon/ΦΙΛΙΑ/φιλίας]][[/Greek/Morphology/GSF|ˑ]]</span>
+<span class="tok" title="ΚΡΕΙΣΣΩΝ — NPM">[[/Greek/Lexicon/ΚΡΕΙΣΣΩΝ|κρείσσους]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΕΛΕΓΧΟΣ — NPM">[[/Greek/Lexicon/ΕΛΕΓΧΟΣ|ἔλεγχοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΑΠΟΚΑΛΥΠΤΩ — RMP-NPM">[[/Greek/Lexicon/ΑΠΟΚΑΛΥΠΤΩ|ἀποκεκαλυμμένοι]][[/Greek/Morphology/RMP-NPM|ˑ]]</span> <span class="tok" title="ΚΡΥΠΤΩ — PMP-GSF">[[/Greek/Lexicon/ΚΡΥΠΤΩ|κρυπτομένης]][[/Greek/Morphology/PMP-GSF|ˑ]]</span> <span class="tok" title="ΦΙΛΙΑ — GSF">[[/Greek/Lexicon/ΦΙΛΙΑ|φιλίας]][[/Greek/Morphology/GSF|ˑ]]</span>

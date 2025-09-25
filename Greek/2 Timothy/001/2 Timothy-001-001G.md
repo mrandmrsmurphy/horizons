@@ -13,4 +13,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΠΑΥΛΟΣ — NSM">[[/Greek/Lexicon/ΠΑΥΛΟΣ/Παῦλος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΠΟΣΤΟΛΟΣ — NSM">[[/Greek/Lexicon/ΑΠΟΣΤΟΛΟΣ/ἀπόστολος]][[/Greek/Morphology/NSM|ˑ]]</span>
+<span class="tok" title="ΠΑΥΛΟΣ — NSM">[[/Greek/Lexicon/ΠΑΥΛΟΣ|Παῦλος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΠΟΣΤΟΛΟΣ — NSM">[[/Greek/Lexicon/ΑΠΟΣΤΟΛΟΣ|ἀπόστολος]][[/Greek/Morphology/NSM|ˑ]]</span>

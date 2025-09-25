@@ -16,4 +16,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΛΕΜΝΑ — NS">[[/Greek/Lexicon/ΛΕΜΝΑ/λεμνα]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΙΘΑΚ — NS">[[/Greek/Lexicon/ΙΘΑΚ/ιθακ]][[/Greek/Morphology/NS|ˑ]]</span>
+<span class="tok" title="ΛΕΜΝΑ — NS">[[/Greek/Lexicon/ΛΕΜΝΑ|λεμνα]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΙΘΑΚ — NS">[[/Greek/Lexicon/ΙΘΑΚ|ιθακ]][[/Greek/Morphology/NS|ˑ]]</span>

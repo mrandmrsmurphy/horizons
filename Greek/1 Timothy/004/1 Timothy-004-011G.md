@@ -19,4 +19,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΠΑΡΑΓΓΕΛΛΩ — 2SPMA">[[/Greek/Lexicon/ΠΑΡΑΓΓΕΛΛΩ/Παράγγελλε]][[/Greek/Morphology/2SPMA|ˑ]]</span> <span class="tok" title="ΟΥΤΟΣ — APN">[[/Greek/Lexicon/ΟΥΤΟΣ/ταῦτα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΔΙΔΑΣΚΩ — 2SPMA">[[/Greek/Lexicon/ΔΙΔΑΣΚΩ/δίδασκε.]][[/Greek/Morphology/2SPMA|ˑ]]</span>
+<span class="tok" title="ΠΑΡΑΓΓΕΛΛΩ — 2SPMA">[[/Greek/Lexicon/ΠΑΡΑΓΓΕΛΛΩ|Παράγγελλε]][[/Greek/Morphology/2SPMA|ˑ]]</span> <span class="tok" title="ΟΥΤΟΣ — APN">[[/Greek/Lexicon/ΟΥΤΟΣ|ταῦτα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΔΙΔΑΣΚΩ — 2SPMA">[[/Greek/Lexicon/ΔΙΔΑΣΚΩ|δίδασκε.]][[/Greek/Morphology/2SPMA|ˑ]]</span>

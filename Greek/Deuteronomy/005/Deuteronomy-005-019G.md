@@ -13,4 +13,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ/οὐ]]</span> <span class="tok" title="ΚΛΕΠΤΩ — 2SFIA">[[/Greek/Lexicon/ΚΛΕΠΤΩ/κλέψεις]][[/Greek/Morphology/2SFIA|ˑ]]</span>
+<span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ|οὐ]]</span> <span class="tok" title="ΚΛΕΠΤΩ — 2SFIA">[[/Greek/Lexicon/ΚΛΕΠΤΩ|κλέψεις]][[/Greek/Morphology/2SFIA|ˑ]]</span>

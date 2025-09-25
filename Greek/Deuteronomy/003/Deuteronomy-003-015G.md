@@ -25,4 +25,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο/τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΜΑΧΙΡ — DSM">[[/Greek/Lexicon/ΜΑΧΙΡ/μαχιρ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΔΙΔΩΜΙ — 1SAIA">[[/Greek/Lexicon/ΔΙΔΩΜΙ/ἔδωκα]][[/Greek/Morphology/1SAIA|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο/τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΓΑΛΑΑΔ — ASF">[[/Greek/Lexicon/ΓΑΛΑΑΔ/γαλααδ]][[/Greek/Morphology/ASF|ˑ]]</span>
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο|τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΜΑΧΙΡ — DSM">[[/Greek/Lexicon/ΜΑΧΙΡ|μαχιρ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΔΙΔΩΜΙ — 1SAIA">[[/Greek/Lexicon/ΔΙΔΩΜΙ|ἔδωκα]][[/Greek/Morphology/1SAIA|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΓΑΛΑΑΔ — ASF">[[/Greek/Lexicon/ΓΑΛΑΑΔ|γαλααδ]][[/Greek/Morphology/ASF|ˑ]]</span>

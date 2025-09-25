@@ -25,4 +25,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΑΔΑΜ — NSM">[[/Greek/Lexicon/ΑΔΑΜ/Ἀδὰμ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΓΑΡ">[[/Greek/Lexicon/ΓΑΡ/γὰρ]]</span> <span class="tok" title="ΠΡΩΤΟΣ — S-NSM">[[/Greek/Lexicon/ΠΡΩΤΟΣ/πρῶτος]][[/Greek/Morphology/S-NSM|ˑ]]</span> <span class="tok" title="ΠΛΑΣΣΩ — 3SAIP">[[/Greek/Lexicon/ΠΛΑΣΣΩ/ἐπλάσθη,]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="ΕΙΤΑ">[[/Greek/Lexicon/ΕΙΤΑ/εἶτα]]</span> <span class="tok" title="ΕΥΑ — NSF">[[/Greek/Lexicon/ΕΥΑ/Εὔα·]][[/Greek/Morphology/NSF|ˑ]]</span>
+<span class="tok" title="ΑΔΑΜ — NSM">[[/Greek/Lexicon/ΑΔΑΜ|Ἀδὰμ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΓΑΡ">[[/Greek/Lexicon/ΓΑΡ|γὰρ]]</span> <span class="tok" title="ΠΡΩΤΟΣ — S-NSM">[[/Greek/Lexicon/ΠΡΩΤΟΣ|πρῶτος]][[/Greek/Morphology/S-NSM|ˑ]]</span> <span class="tok" title="ΠΛΑΣΣΩ — 3SAIP">[[/Greek/Lexicon/ΠΛΑΣΣΩ|ἐπλάσθη,]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="ΕΙΤΑ">[[/Greek/Lexicon/ΕΙΤΑ|εἶτα]]</span> <span class="tok" title="ΕΥΑ — NSF">[[/Greek/Lexicon/ΕΥΑ|Εὔα·]][[/Greek/Morphology/NSF|ˑ]]</span>

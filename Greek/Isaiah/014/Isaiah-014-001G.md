@@ -10,4 +10,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΚΑΙ — ΕΛΕΕΩ">[[/Greek/Lexicon/ΚΑΙ/καὶPG]][[/Greek/Morphology/ΕΛΕΕΩ|ˑ]]</span>
+<span class="tok" title="ΚΑΙ — ΕΛΕΕΩ">[[/Greek/Lexicon/ΚΑΙ|καὶPG]][[/Greek/Morphology/ΕΛΕΕΩ|ˑ]]</span>

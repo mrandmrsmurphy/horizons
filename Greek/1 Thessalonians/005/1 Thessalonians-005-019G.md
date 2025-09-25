@@ -19,4 +19,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο/τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΠΝΕΥΜΑ — ASN">[[/Greek/Lexicon/ΠΝΕΥΜΑ/πνεῦμα]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ/μὴ]]</span> <span class="tok" title="ΣΒΕΝΝΥΜΙ — 2PPMA">[[/Greek/Lexicon/ΣΒΕΝΝΥΜΙ/σβέννυτε,]][[/Greek/Morphology/2PPMA|ˑ]]</span>
+<span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΠΝΕΥΜΑ — ASN">[[/Greek/Lexicon/ΠΝΕΥΜΑ|πνεῦμα]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ|μὴ]]</span> <span class="tok" title="ΣΒΕΝΝΥΜΙ — 2PPMA">[[/Greek/Lexicon/ΣΒΕΝΝΥΜΙ|σβέννυτε,]][[/Greek/Morphology/2PPMA|ˑ]]</span>

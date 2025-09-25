@@ -16,4 +16,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΕΠΙΦΑΙΝΩ — 1SFIM">[[/Greek/Lexicon/ΕΠΙΦΑΙΝΩ/ἐπιφανοῦμαι]][[/Greek/Morphology/1SFIM|ˑ]]</span> <span class="tok" title="ΣΥ — DP">[[/Greek/Lexicon/ΣΥ/ὑμῖν]][[/Greek/Morphology/DP|ˑ]]</span>
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΠΙΦΑΙΝΩ — 1SFIM">[[/Greek/Lexicon/ΕΠΙΦΑΙΝΩ|ἐπιφανοῦμαι]][[/Greek/Morphology/1SFIM|ˑ]]</span> <span class="tok" title="ΣΥ — DP">[[/Greek/Lexicon/ΣΥ|ὑμῖν]][[/Greek/Morphology/DP|ˑ]]</span>

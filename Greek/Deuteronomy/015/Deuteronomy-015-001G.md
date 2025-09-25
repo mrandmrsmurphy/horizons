@@ -22,4 +22,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΔΙΑ">[[/Greek/Lexicon/ΔΙΑ/δι']]</span> <span class="tok" title="ΕΠΤΑ">[[/Greek/Lexicon/ΕΠΤΑ/ἑπτὰ]]</span> <span class="tok" title="ΕΤΟΣ — GPN">[[/Greek/Lexicon/ΕΤΟΣ/ἐτῶν]][[/Greek/Morphology/GPN|ˑ]]</span> <span class="tok" title="ΠΟΙΕΩ — 2SFIA">[[/Greek/Lexicon/ΠΟΙΕΩ/ποιήσεις]][[/Greek/Morphology/2SFIA|ˑ]]</span> <span class="tok" title="ΑΦΕΣΙΣ — ASF">[[/Greek/Lexicon/ΑΦΕΣΙΣ/ἄφεσιν]][[/Greek/Morphology/ASF|ˑ]]</span>
+<span class="tok" title="ΔΙΑ">[[/Greek/Lexicon/ΔΙΑ|δι']]</span> <span class="tok" title="ΕΠΤΑ">[[/Greek/Lexicon/ΕΠΤΑ|ἑπτὰ]]</span> <span class="tok" title="ΕΤΟΣ — GPN">[[/Greek/Lexicon/ΕΤΟΣ|ἐτῶν]][[/Greek/Morphology/GPN|ˑ]]</span> <span class="tok" title="ΠΟΙΕΩ — 2SFIA">[[/Greek/Lexicon/ΠΟΙΕΩ|ποιήσεις]][[/Greek/Morphology/2SFIA|ˑ]]</span> <span class="tok" title="ΑΦΕΣΙΣ — ASF">[[/Greek/Lexicon/ΑΦΕΣΙΣ|ἄφεσιν]][[/Greek/Morphology/ASF|ˑ]]</span>

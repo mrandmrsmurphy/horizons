@@ -25,4 +25,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΑΚΟΥΩ — 3SAIA">[[/Greek/Lexicon/ΑΚΟΥΩ/ἤκουσεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΜΩΥΣΗΣ — NSM">[[/Greek/Lexicon/ΜΩΥΣΗΣ/Μωυσῆς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΑΡΕΣΚΩ — 3SAIA">[[/Greek/Lexicon/ΑΡΕΣΚΩ/ἤρεσεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — DSM">[[/Greek/Lexicon/ΑΥΤΟΣ/αὐτῷ]][[/Greek/Morphology/DSM|ˑ]]</span>
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΑΚΟΥΩ — 3SAIA">[[/Greek/Lexicon/ΑΚΟΥΩ|ἤκουσεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΜΩΥΣΗΣ — NSM">[[/Greek/Lexicon/ΜΩΥΣΗΣ|Μωυσῆς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΑΡΕΣΚΩ — 3SAIA">[[/Greek/Lexicon/ΑΡΕΣΚΩ|ἤρεσεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — DSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῷ]][[/Greek/Morphology/DSM|ˑ]]</span>

@@ -22,4 +22,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΛΕΓΩ — 3SAIA">[[/Greek/Lexicon/ΛΕΓΩ/εἶπεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΒΡΑΑΜ — NSM">[[/Greek/Lexicon/ΑΒΡΑΑΜ/αβρααμ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — NS">[[/Greek/Lexicon/ΕΓΩ/ἐγὼ]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΟΜΝΥΜΙ — 1SFIM">[[/Greek/Lexicon/ΟΜΝΥΜΙ/ὀμοῦμαι]][[/Greek/Morphology/1SFIM|ˑ]]</span>
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΕΓΩ — 3SAIA">[[/Greek/Lexicon/ΛΕΓΩ|εἶπεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΒΡΑΑΜ — NSM">[[/Greek/Lexicon/ΑΒΡΑΑΜ|αβρααμ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — NS">[[/Greek/Lexicon/ΕΓΩ|ἐγὼ]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΟΜΝΥΜΙ — 1SFIM">[[/Greek/Lexicon/ΟΜΝΥΜΙ|ὀμοῦμαι]][[/Greek/Morphology/1SFIM|ˑ]]</span>

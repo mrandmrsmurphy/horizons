@@ -22,4 +22,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο/ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ/δὲ]]</span> <span class="tok" title="ΣΠΑΤΑΛΑΩ — PAP-NSF">[[/Greek/Lexicon/ΣΠΑΤΑΛΑΩ/σπαταλῶσα]][[/Greek/Morphology/PAP-NSF|ˑ]]</span> <span class="tok" title="ΖΑΩ — PAP-NSF">[[/Greek/Lexicon/ΖΑΩ/ζῶσα]][[/Greek/Morphology/PAP-NSF|ˑ]]</span> <span class="tok" title="ΘΝΗΣΚΩ — 3SRIA">[[/Greek/Lexicon/ΘΝΗΣΚΩ/τέθνηκεν.]][[/Greek/Morphology/3SRIA|ˑ]]</span>
+<span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο|ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="ΣΠΑΤΑΛΑΩ — PAP-NSF">[[/Greek/Lexicon/ΣΠΑΤΑΛΑΩ|σπαταλῶσα]][[/Greek/Morphology/PAP-NSF|ˑ]]</span> <span class="tok" title="ΖΑΩ — PAP-NSF">[[/Greek/Lexicon/ΖΑΩ|ζῶσα]][[/Greek/Morphology/PAP-NSF|ˑ]]</span> <span class="tok" title="ΘΝΗΣΚΩ — 3SRIA">[[/Greek/Lexicon/ΘΝΗΣΚΩ|τέθνηκεν.]][[/Greek/Morphology/3SRIA|ˑ]]</span>

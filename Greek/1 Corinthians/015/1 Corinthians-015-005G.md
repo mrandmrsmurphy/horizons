@@ -28,4 +28,4 @@ tokens:
 ---
 
 ## Text
-<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ/καὶ]]</span> <span class="tok" title="ΟΤΙ">[[/Greek/Lexicon/ΟΤΙ/ὅτι]]</span> <span class="tok" title="ΟΡΑΩ — 3SAIP">[[/Greek/Lexicon/ΟΡΑΩ/ὤφθη]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="ΚΗΦΑΣ — DSM">[[/Greek/Lexicon/ΚΗΦΑΣ/Κηφᾷ,]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΕΠΕΙΤΑ">[[/Greek/Lexicon/ΕΠΕΙΤΑ/ἔπειτα]]</span> <span class="tok" title="Ο — DPM">[[/Greek/Lexicon/Ο/τοῖς]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΔΩΔΕΚΑ">[[/Greek/Lexicon/ΔΩΔΕΚΑ/δώδεκα·]]</span>
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΟΤΙ">[[/Greek/Lexicon/ΟΤΙ|ὅτι]]</span> <span class="tok" title="ΟΡΑΩ — 3SAIP">[[/Greek/Lexicon/ΟΡΑΩ|ὤφθη]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="ΚΗΦΑΣ — DSM">[[/Greek/Lexicon/ΚΗΦΑΣ|Κηφᾷ,]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΕΠΕΙΤΑ">[[/Greek/Lexicon/ΕΠΕΙΤΑ|ἔπειτα]]</span> <span class="tok" title="Ο — DPM">[[/Greek/Lexicon/Ο|τοῖς]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΔΩΔΕΚΑ">[[/Greek/Lexicon/ΔΩΔΕΚΑ|δώδεκα·]]</span>
