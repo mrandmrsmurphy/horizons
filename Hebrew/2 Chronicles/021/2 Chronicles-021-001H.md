@@ -1,0 +1,65 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 21
+verse: 1
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּשְׁכַּב
+  lemma: שׁכב
+  morph: QWq3MS
+- form: יְהֹושָׁפָט
+  lemma: יְהֹושָׁפָט
+  morph: MSA
+- form: עִם
+  lemma: עִם
+  morph: X
+- form: אֲבֹתָיו
+  lemma: אָב
+  morph: MPA
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּקָּבֵר
+  lemma: קבר
+  morph: NWq3MS
+- form: עִם
+  lemma: עִם
+  morph: X
+- form: אֲבֹתָיו
+  lemma: אָב
+  morph: MPA
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: עִיר
+  lemma: עִיר
+  morph: FSC
+- form: דָּוִיד
+  lemma: דָּוִד
+  morph: MSA
+  affixes: דּ
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּמְלֹךְ
+  lemma: מלך
+  morph: QWq3MS
+- form: יְהֹורָם
+  lemma: יְהֹורָם
+  morph: MSA
+- form: בְּנֹו
+  lemma: בֵּן
+  morph: MSA
+  affixes: בּ
+- form: תַּחְתָּיו
+  lemma: תַּחַת
+  morph: MPA
+---
+וַיִּשְׁכַּב יְהֹושָׁפָט עִם־אֲבֹתָיו וַיִּקָּבֵר עִם־אֲבֹתָיו בְּעִיר דָּוִיד וַיִּמְלֹךְ יְהֹורָם בְּנֹו תַּחְתָּיו׃

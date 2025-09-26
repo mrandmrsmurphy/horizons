@@ -1,0 +1,70 @@
+---
+language: hebrew
+book: Jeremiah
+chapter: 30
+verse: 24
+tokens:
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יָשׁוּב
+  lemma: שׁוב
+  morph: QI3MS
+- form: חֲרֹון
+  lemma: חָרֹון
+  morph: MSC
+- form: אַף
+  lemma: אַף
+  morph: MSC
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: עַד
+  lemma: עַד
+  morph: X
+- form: עֲשֹׂתֹו
+  lemma: עשׂה
+  morph: QIcunknown
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: עַד
+  lemma: עַד
+  morph: X
+- form: הֲקִימֹו
+  lemma: קום
+  morph: HIcunknown
+  affixes: הֲ
+- form: מְזִמֹּות
+  lemma: מְזִמָּה
+  morph: FPC
+  affixes: מְ
+- form: לִבֹּו
+  lemma: לֵב
+  morph: MSA
+  affixes: ל
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: אַחֲרִית
+  lemma: אַחֲרִית
+  morph: FSC
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: יָּמִים
+  lemma: יֹום
+  morph: MPA
+- form: תִּתְבֹּונְנוּ
+  lemma: בין
+  morph: HtI2MP
+- form: בָהּ
+  lemma: בְּ
+  morph: X
+  affixes: ב
+---
+לֹא יָשׁוּב חֲרֹון אַף־יְהוָה עַד־עֲשֹׂתֹו וְעַד־הֲקִימֹו מְזִמֹּות לִבֹּו בְּאַחֲרִית הַיָּמִים תִּתְבֹּונְנוּ בָהּ׃

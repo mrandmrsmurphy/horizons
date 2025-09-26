@@ -1,0 +1,87 @@
+---
+language: hebrew
+book: Jeremiah
+chapter: 8
+verse: 12
+tokens:
+- form: הֹבִשׁוּ
+  lemma: יבשׁ
+  morph: HP3P
+  affixes: ה
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: תֹועֵבָה
+  lemma: תֹּועֵבָה
+  morph: FSA
+- form: עָשׂוּ
+  lemma: עשׂה
+  morph: QP3P
+- form: גַּם
+  lemma: גַּם
+  morph: X
+- form: בֹּושׁ
+  lemma: בושׁ
+  morph: QIaunknown
+  affixes: בּ
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יֵבֹשׁוּ
+  lemma: בושׁ
+  morph: QI3MP
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הִכָּלֵם
+  lemma: כלם
+  morph: NIcunknown
+  affixes: ה
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יָדָעוּ
+  lemma: ידע
+  morph: QP3P
+- form: לָכֵן
+  lemma: לָכֵן
+  morph: X
+  affixes: ל
+- form: יִפְּלוּ
+  lemma: נפל
+  morph: QI3MP
+- form: בַ
+  lemma: בְּ
+  morph: X
+  affixes: ב
+- form: ''
+  lemma: הַ
+  morph: X
+- form: נֹּפְלִים
+  lemma: נפל
+  morph: QPtunknownMP
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: עֵת
+  lemma: עֵת
+  morph: SC
+- form: פְּקֻדָּתָם
+  lemma: פְּקֻדָּה
+  morph: FSA
+- form: יִכָּשְׁלוּ
+  lemma: כשׁל
+  morph: NI3MP
+- form: אָמַר
+  lemma: אמר
+  morph: QP3MS
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+---
+הֹבִשׁוּ כִּי תֹועֵבָה עָשׂוּ גַּם־בֹּושׁ לֹא־יֵבֹשׁוּ וְהִכָּלֵם לֹא יָדָעוּ לָכֵן יִפְּלוּ בַנֹּפְלִים בְּעֵת פְּקֻדָּתָם יִכָּשְׁלוּ אָמַר יְהוָה׃ ס׃

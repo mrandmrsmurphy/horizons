@@ -1,0 +1,46 @@
+---
+language: hebrew
+book: Exodus
+chapter: 26
+verse: 15
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: עָשִׂיתָ
+  lemma: עשׂה
+  morph: QP2MS
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: קְּרָשִׁים
+  lemma: קֶרֶשׁ
+  morph: MPA
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: ''
+  lemma: הַ
+  morph: X
+- form: מִּשְׁכָּן
+  lemma: מִשְׁכָּן
+  morph: MSA
+  affixes: מּ
+- form: עֲצֵי
+  lemma: עֵץ
+  morph: MPC
+- form: שִׁטִּים
+  lemma: שִׁטָּה
+  morph: FPA
+  affixes: ש
+- form: עֹמְדִים
+  lemma: עמד
+  morph: QPtunknownMP
+---
+וְעָשִׂיתָ אֶת־הַקְּרָשִׁים לַמִּשְׁכָּן עֲצֵי שִׁטִּים עֹמְדִים׃

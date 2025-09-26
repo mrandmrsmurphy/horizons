@@ -1,0 +1,69 @@
+---
+language: hebrew
+book: Isaiah
+chapter: 36
+verse: 5
+tokens:
+- form: אָמַרְתִּי
+  lemma: אמר
+  morph: QP1S
+- form: אַךְ
+  lemma: אַךְ
+  morph: X
+- form: דְּבַר
+  lemma: דָּבָר
+  morph: MSC
+  affixes: דּ
+- form: שְׂפָתַיִם
+  lemma: שָׂפָה
+  morph: FDA
+  affixes: ש
+- form: עֵצָה
+  lemma: עֵצָה
+  morph: FSA
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: גְבוּרָה
+  lemma: גְּבוּרָה
+  morph: FSA
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: ''
+  lemma: הַ
+  morph: X
+- form: מִּלְחָמָה
+  lemma: מִלְחָמָה
+  morph: FSA
+  affixes: מּ
+- form: עַתָּה
+  lemma: עַתָּה
+  morph: X
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: מִי
+  lemma: מִי
+  morph: X
+  affixes: מ
+- form: בָטַחְתָּ
+  lemma: בטח
+  morph: QP2MS
+  affixes: ב
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: מָרַדְתָּ
+  lemma: מרד
+  morph: QP2MS
+  affixes: מ
+- form: בִּי
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+---
+אָמַרְתִּי אַךְ־דְּבַר־שְׂפָתַיִם עֵצָה וּגְבוּרָה לַמִּלְחָמָה עַתָּה עַל־מִי בָטַחְתָּ כִּי מָרַדְתָּ בִּי׃

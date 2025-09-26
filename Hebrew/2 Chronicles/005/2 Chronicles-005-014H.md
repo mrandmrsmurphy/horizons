@@ -1,0 +1,87 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 5
+verse: 14
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יָכְלוּ
+  lemma: יכל
+  morph: QP3P
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: כֹּהֲנִים
+  lemma: כֹּהֵן
+  morph: MPA
+  affixes: כּ
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: עֲמֹוד
+  lemma: עמד
+  morph: QIcunknown
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: שָׁרֵת
+  lemma: שׁרת
+  morph: PIcunknown
+  affixes: ש
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: פְּנֵי
+  lemma: פָּנֶה
+  morph: MPC
+- form: הֶ
+  lemma: הַ
+  morph: X
+  affixes: הֶ
+- form: עָנָן
+  lemma: עָנָן
+  morph: MSA
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: מָלֵא
+  lemma: מלא
+  morph: QP3MS
+  affixes: מ
+- form: כְבֹוד
+  lemma: כָּבֹוד
+  morph: SC
+  affixes:
+  - כְ
+  - ב
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: בֵּית
+  lemma: בַּיִת
+  morph: MSC
+  affixes: בּ
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: אֱלֹהִים
+  lemma: אֱלֹהִים
+  morph: MPA
+---
+וְלֹא־יָכְלוּ הַכֹּהֲנִים לַעֲמֹוד לְשָׁרֵת מִפְּנֵי הֶעָנָן כִּי־מָלֵא כְבֹוד־יְהוָה אֶת־בֵּית הָאֱלֹהִים׃ פ׃

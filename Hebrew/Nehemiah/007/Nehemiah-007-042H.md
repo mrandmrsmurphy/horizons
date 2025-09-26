@@ -1,0 +1,25 @@
+---
+language: hebrew
+book: Nehemiah
+chapter: 7
+verse: 42
+tokens:
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: חָרִם
+  lemma: חָרִם
+  morph: MSA
+- form: אֶלֶף
+  lemma: אֶלֶף
+  morph: SA
+- form: שִׁבְעָה
+  lemma: שֶׁבַע
+  morph: FSA
+  affixes: ש
+- form: עָשָׂר
+  lemma: עָשָׂר
+  morph: SA
+---
+בְּנֵי חָרִם אֶלֶף שִׁבְעָה עָשָׂר׃ פ׃

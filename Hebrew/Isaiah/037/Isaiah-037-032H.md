@@ -1,0 +1,59 @@
+---
+language: hebrew
+book: Isaiah
+chapter: 37
+verse: 32
+tokens:
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: ירוּשָׁלִַם
+  lemma: יְרוּשָׁלִַם
+  morph: SA
+- form: תֵּצֵא
+  lemma: יצא
+  morph: QI3FS
+- form: שְׁאֵרִית
+  lemma: שְׁאֵרִית
+  morph: FSA
+  affixes: ש
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: פְלֵיטָה
+  lemma: פְּלֵיטָה
+  morph: FSA
+- form: מֵ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: הַר
+  lemma: הַר
+  morph: MSC
+  affixes: הַ
+- form: צִיֹּון
+  lemma: צִיֹּון
+  morph: SA
+- form: קִנְאַת
+  lemma: קִנְאָה
+  morph: FSC
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: צְבָאֹות
+  lemma: צָבָא
+  morph: MPA
+- form: תַּעֲשֶׂה
+  lemma: עשׂה
+  morph: QI3FS
+- form: זֹּאת
+  lemma: זֹאת
+  morph: FS
+---
+כִּי מִירוּשָׁלִַם תֵּצֵא שְׁאֵרִית וּפְלֵיטָה מֵהַר צִיֹּון קִנְאַת יְהוָה צְבָאֹות תַּעֲשֶׂה־זֹּאת׃ ס׃

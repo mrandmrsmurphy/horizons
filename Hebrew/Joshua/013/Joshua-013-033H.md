@@ -1,0 +1,75 @@
+---
+language: hebrew
+book: Joshua
+chapter: 13
+verse: 33
+tokens:
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: שֵׁבֶט
+  lemma: שֵׁבֶט
+  morph: MSC
+  affixes: ש
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: לֵּוִי
+  lemma: לֵוִי
+  morph: MSA
+  affixes: לּ
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: נָתַן
+  lemma: נתן
+  morph: QP3MS
+- form: מֹשֶׁה
+  lemma: מֹשֶׁה
+  morph: MSA
+  affixes: מ
+- form: נַחֲלָה
+  lemma: נַחֲלָה
+  morph: FSA
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֱלֹהֵי
+  lemma: אֱלֹהִים
+  morph: MPC
+- form: יִשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+- form: הוּא
+  lemma: הוּא
+  morph: MS
+  affixes:
+  - ה
+  - וּ
+- form: נַחֲלָתָם
+  lemma: נַחֲלָה
+  morph: FSA
+- form: כַּ
+  lemma: כְּ
+  morph: X
+  affixes: כּ
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: דִּבֶּר
+  lemma: דבר
+  morph: PP3MS
+  affixes: דּ
+- form: לָהֶם
+  lemma: לְ
+  morph: X
+  affixes: ל
+---
+וּלְשֵׁבֶט הַלֵּוִי לֹא־נָתַן מֹשֶׁה נַחֲלָה יְהוָה אֱלֹהֵי יִשְׂרָאֵל הוּא נַחֲלָתָם כַּאֲשֶׁר דִּבֶּר לָהֶם׃

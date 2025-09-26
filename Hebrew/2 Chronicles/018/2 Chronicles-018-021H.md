@@ -1,0 +1,85 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 18
+verse: 21
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יֹּאמֶר
+  lemma: אמר
+  morph: QWq3MS
+- form: אֵצֵא
+  lemma: יצא
+  morph: QI1S
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הָיִיתִי
+  lemma: היה
+  morph: QP1S
+  affixes: הָ
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: רוּחַ
+  lemma: רוּחַ
+  morph: SC
+- form: שֶׁקֶר
+  lemma: שֶׁקֶר
+  morph: MSA
+  affixes: ש
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: פִי
+  lemma: פֶּה
+  morph: MSC
+- form: כָּל
+  lemma: כֹּל
+  morph: MSC
+  affixes: כּ
+- form: נְבִיאָיו
+  lemma: נָבִיא
+  morph: MPA
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יֹּאמֶר
+  lemma: אמר
+  morph: QWq3MS
+- form: תְּפַתֶּה
+  lemma: פתה
+  morph: PI2MS
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: גַם
+  lemma: גַּם
+  morph: X
+- form: תּוּכָל
+  lemma: יכל
+  morph: QI2MS
+- form: צֵא
+  lemma: יצא
+  morph: QIm2MS
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: עֲשֵׂה
+  lemma: עשׂה
+  morph: QIm2MS
+- form: כֵן
+  lemma: כֵּן
+  morph: X
+  affixes: כ
+---
+וַיֹּאמֶר אֵצֵא וְהָיִיתִי לְרוּחַ שֶׁקֶר בְּפִי כָּל־נְבִיאָיו וַיֹּאמֶר תְּפַתֶּה וְגַם־תּוּכָל צֵא וַעֲשֵׂה־כֵן׃

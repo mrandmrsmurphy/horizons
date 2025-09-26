@@ -1,0 +1,43 @@
+---
+language: hebrew
+book: Nehemiah
+chapter: 7
+verse: 30
+tokens:
+- form: אַנְשֵׁי
+  lemma: אִישׁ
+  morph: MPC
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: רָמָה
+  lemma: רָמָה
+  morph: SA
+- form: וָ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: גָבַע
+  lemma: גֶּבַע
+  morph: SA
+- form: שֵׁשׁ
+  lemma: שֵׁשׁ
+  morph: SC
+  affixes: ש
+- form: מֵאֹות
+  lemma: מֵאָה
+  morph: FPA
+  affixes: מ
+- form: עֶשְׂרִים
+  lemma: עֶשְׂרִים
+  morph: MPA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֶחָד
+  lemma: אֶחָד
+  morph: SA
+---
+אַנְשֵׁי הָרָמָה וָגָבַע שֵׁשׁ מֵאֹות עֶשְׂרִים וְאֶחָד׃ ס׃

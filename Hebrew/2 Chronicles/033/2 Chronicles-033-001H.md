@@ -1,0 +1,64 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 33
+verse: 1
+tokens:
+- form: בֶּן
+  lemma: בֵּן
+  morph: MSC
+  affixes: בּ
+- form: שְׁתֵּים
+  lemma: שְׁנַיִם
+  morph: FDA
+  affixes: ש
+- form: עֶשְׂרֵה
+  lemma: עֶשְׂרֵה
+  morph: SA
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: מְנַשֶּׁה
+  lemma: מְנַשֶּׁה
+  morph: SA
+  affixes: מְ
+- form: בְ
+  lemma: בְּ
+  morph: X
+  affixes: בְ
+- form: מָלְכֹו
+  lemma: מלך
+  morph: QIcunknown
+  affixes: מ
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: חֲמִשִּׁים
+  lemma: חָמֵשׁ
+  morph: MPA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: חָמֵשׁ
+  lemma: חָמֵשׁ
+  morph: SA
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: מָלַךְ
+  lemma: מלך
+  morph: QP3MS
+  affixes: מ
+- form: בִּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: ירוּשָׁלִָם
+  lemma: יְרוּשָׁלִַם
+  morph: SA
+---
+בֶּן־שְׁתֵּים עֶשְׂרֵה שָׁנָה מְנַשֶּׁה בְמָלְכֹו וַחֲמִשִּׁים וְחָמֵשׁ שָׁנָה מָלַךְ בִּירוּשָׁלִָם׃

@@ -1,0 +1,79 @@
+---
+language: hebrew
+book: Exodus
+chapter: 39
+verse: 8
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יַּעַשׂ
+  lemma: עשׂה
+  morph: QWq3MS
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: חֹשֶׁן
+  lemma: חֹשֶׁן
+  morph: MSA
+- form: מַעֲשֵׂה
+  lemma: מַעֲשֶׂה
+  morph: MSC
+  affixes: מ
+- form: חֹשֵׁב
+  lemma: חשׁב
+  morph: QPtunknownMS
+- form: כְּ
+  lemma: כְּ
+  morph: X
+  affixes: כּ
+- form: מַעֲשֵׂה
+  lemma: מַעֲשֶׂה
+  morph: MSC
+  affixes: מ
+- form: אֵפֹד
+  lemma: אֵפֹד
+  morph: MSA
+- form: זָהָב
+  lemma: זָהָב
+  morph: MSA
+- form: תְּכֵלֶת
+  lemma: תְּכֵלֶת
+  morph: FSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אַרְגָּמָן
+  lemma: אַרְגָּמָן
+  morph: MSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: תֹולַעַת
+  lemma: תֹּולַעַת
+  morph: FSC
+- form: שָׁנִי
+  lemma: שָׁנִי
+  morph: MSA
+  affixes: ש
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: שֵׁשׁ
+  lemma: שֵׁשׁ
+  morph: MSA
+  affixes: ש
+- form: מָשְׁזָר
+  lemma: שׁזר
+  morph: HoXunknownMS
+  affixes: מ
+---
+וַיַּעַשׂ אֶת־הַחֹשֶׁן מַעֲשֵׂה חֹשֵׁב כְּמַעֲשֵׂה אֵפֹד זָהָב תְּכֵלֶת וְאַרְגָּמָן וְתֹולַעַת שָׁנִי וְשֵׁשׁ מָשְׁזָר׃

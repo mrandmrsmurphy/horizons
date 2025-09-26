@@ -1,0 +1,44 @@
+---
+language: hebrew
+book: Psalms
+chapter: 18
+verse: 18
+tokens:
+- form: יַצִּילֵנִי
+  lemma: נצל
+  morph: HI3MS
+- form: מֵ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: אֹיְבִי
+  lemma: איב
+  morph: QPtunknownMS
+- form: עָז
+  lemma: עַז
+  morph: MSA
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: שֹּׂנְאַי
+  lemma: שׂנא
+  morph: QPtunknownMP
+  affixes: ש
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: אָמְצוּ
+  lemma: אמץ
+  morph: QP3P
+- form: מִמֶּנִּי
+  lemma: מִן
+  morph: X
+  affixes: מ
+---
+יַצִּילֵנִי מֵאֹיְבִי עָז וּמִשֹּׂנְאַי כִּי־אָמְצוּ מִמֶּנִּי׃

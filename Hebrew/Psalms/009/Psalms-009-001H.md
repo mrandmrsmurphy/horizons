@@ -1,0 +1,45 @@
+---
+language: hebrew
+book: Psalms
+chapter: 9
+verse: 1
+tokens:
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: ''
+  lemma: הַ
+  morph: X
+- form: מְנַצֵּחַ
+  lemma: נצח
+  morph: PPtunknownMS
+  affixes: מְ
+- form: עַלְמוּת
+  lemma: עַלְמוּת
+  morph: FSA
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: ''
+  lemma: הַ
+  morph: X
+- form: בֵּן
+  lemma: בֵּן
+  morph: MSA
+  affixes: בּ
+- form: מִזְמֹור
+  lemma: מִזְמֹור
+  morph: MSA
+  affixes: מ
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: דָוִד
+  lemma: דָּוִד
+  morph: MSA
+  affixes: ד
+---
+לַמְנַצֵּחַ עַלְמוּת לַבֵּן מִזְמֹור לְדָוִד׃

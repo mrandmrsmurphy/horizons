@@ -1,0 +1,85 @@
+---
+language: hebrew
+book: 1 Chronicles
+chapter: 29
+verse: 27
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: יָּמִים
+  lemma: יֹום
+  morph: MPA
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: מָלַךְ
+  lemma: מלך
+  morph: QP3MS
+  affixes: מ
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: יִשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+- form: אַרְבָּעִים
+  lemma: אַרְבַּע
+  morph: MPA
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: חֶבְרֹון
+  lemma: חֶבְרֹון
+  morph: SA
+- form: מָלַךְ
+  lemma: מלך
+  morph: QP3MS
+  affixes: מ
+- form: שֶׁבַע
+  lemma: שֶׁבַע
+  morph: SA
+  affixes: ש
+- form: שָׁנִים
+  lemma: שָׁנָה
+  morph: FPA
+  affixes: ש
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: בִ
+  lemma: בְּ
+  morph: X
+  affixes: ב
+- form: ירוּשָׁלִַם
+  lemma: יְרוּשָׁלִַם
+  morph: SA
+- form: מָלַךְ
+  lemma: מלך
+  morph: QP3MS
+  affixes: מ
+- form: שְׁלֹשִׁים
+  lemma: שָׁלֹשׁ
+  morph: MPA
+  affixes: ש
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: שָׁלֹושׁ
+  lemma: שָׁלֹשׁ
+  morph: SA
+  affixes: ש
+---
+וְהַיָּמִים אֲשֶׁר מָלַךְ עַל־יִשְׂרָאֵל אַרְבָּעִים שָׁנָה בְּחֶבְרֹון מָלַךְ שֶׁבַע שָׁנִים וּבִירוּשָׁלִַם מָלַךְ שְׁלֹשִׁים וְשָׁלֹושׁ׃

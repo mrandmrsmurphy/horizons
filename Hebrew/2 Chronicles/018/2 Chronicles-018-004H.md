@@ -1,0 +1,55 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 18
+verse: 4
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יֹּאמֶר
+  lemma: אמר
+  morph: QWq3MS
+- form: יְהֹושָׁפָט
+  lemma: יְהֹושָׁפָט
+  morph: MSA
+- form: אֶל
+  lemma: אֶל
+  morph: X
+- form: מֶלֶךְ
+  lemma: מֶלֶךְ
+  morph: MSC
+  affixes: מ
+- form: יִשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+- form: דְּרָשׁ
+  lemma: דרשׁ
+  morph: QIm2MS
+  affixes: דּ
+- form: נָא
+  lemma: נָא
+  morph: X
+- form: כַ
+  lemma: כְּ
+  morph: X
+  affixes: כ
+- form: ''
+  lemma: הַ
+  morph: X
+- form: יֹּום
+  lemma: יֹום
+  morph: MSA
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: דְּבַר
+  lemma: דָּבָר
+  morph: MSC
+  affixes: דּ
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+---
+וַיֹּאמֶר יְהֹושָׁפָט אֶל־מֶלֶךְ יִשְׂרָאֵל דְּרָשׁ־נָא כַיֹּום אֶת־דְּבַר יְהוָה׃

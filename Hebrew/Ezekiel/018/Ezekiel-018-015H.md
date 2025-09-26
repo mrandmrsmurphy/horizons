@@ -1,0 +1,69 @@
+---
+language: hebrew
+book: Ezekiel
+chapter: 18
+verse: 15
+tokens:
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: הֶ
+  lemma: הַ
+  morph: X
+  affixes: הֶ
+- form: הָרִים
+  lemma: הַר
+  morph: MPA
+  affixes: הָ
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: אָכָל
+  lemma: אכל
+  morph: QP3MS
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: עֵינָיו
+  lemma: עַיִן
+  morph: FDA
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: נָשָׂא
+  lemma: נשׂא
+  morph: QP3MS
+- form: אֶל
+  lemma: אֶל
+  morph: X
+- form: גִּלּוּלֵי
+  lemma: גִּלּוּלִים
+  morph: MPC
+- form: בֵּית
+  lemma: בַּיִת
+  morph: MSC
+  affixes: בּ
+- form: יִשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: אֵשֶׁת
+  lemma: אִשָּׁה
+  morph: FSC
+- form: רֵעֵהוּ
+  lemma: רֵעַ
+  morph: MSA
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: טִמֵּא
+  lemma: טמא
+  morph: PP3MS
+---
+עַל־הֶהָרִים לֹא אָכָל וְעֵינָיו לֹא נָשָׂא אֶל־גִּלּוּלֵי בֵּית יִשְׂרָאֵל אֶת־אֵשֶׁת רֵעֵהוּ לֹא טִמֵּא׃

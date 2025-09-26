@@ -1,0 +1,45 @@
+---
+language: hebrew
+book: Ezekiel
+chapter: 12
+verse: 8
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יְהִי
+  lemma: היה
+  morph: QWq3MS
+- form: דְבַר
+  lemma: דָּבָר
+  morph: MSC
+  affixes:
+  - דְ
+  - ב
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֵלַי
+  lemma: אֶל
+  morph: X
+- form: בַּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: ''
+  lemma: הַ
+  morph: X
+- form: בֹּקֶר
+  lemma: בֹּקֶר
+  morph: MSA
+  affixes: בּ
+- form: לֵ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: אמֹר
+  lemma: אמר
+  morph: QIcunknown
+---
+וַיְהִי דְבַר־יְהוָה אֵלַי בַּבֹּקֶר לֵאמֹר׃

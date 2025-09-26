@@ -1,0 +1,90 @@
+---
+language: hebrew
+book: Leviticus
+chapter: 27
+verse: 33
+tokens:
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יְבַקֵּר
+  lemma: בקר
+  morph: PI3MS
+- form: בֵּין
+  lemma: בַּיִן
+  morph: MSC
+  affixes: בּ
+- form: טֹוב
+  lemma: טֹוב
+  morph: MSA
+- form: לָ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: רַע
+  lemma: רַע
+  morph: MSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יְמִירֶנּוּ
+  lemma: מור
+  morph: HI3MS
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אִם
+  lemma: אִם
+  morph: X
+- form: הָמֵר
+  lemma: מור
+  morph: HIaunknown
+  affixes:
+  - הָ
+  - מ
+- form: יְמִירֶנּוּ
+  lemma: מור
+  morph: HI3MS
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הָיָה
+  lemma: היה
+  morph: QP3MS
+  affixes: הָ
+- form: הוּא
+  lemma: הוּא
+  morph: MS
+  affixes:
+  - ה
+  - וּ
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: תְמוּרָתֹו
+  lemma: תְּמוּרָה
+  morph: FSA
+- form: יִהְיֶה
+  lemma: היה
+  morph: QI3MS
+- form: קֹדֶשׁ
+  lemma: קֹדֶשׁ
+  morph: MSA
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יִגָּאֵל
+  lemma: גאל
+  morph: NI3MS
+---
+לֹא יְבַקֵּר בֵּין־טֹוב לָרַע וְלֹא יְמִירֶנּוּ וְאִם־הָמֵר יְמִירֶנּוּ וְהָיָה־הוּא וּתְמוּרָתֹו יִהְיֶה־קֹדֶשׁ לֹא יִגָּאֵל׃

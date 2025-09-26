@@ -1,0 +1,77 @@
+---
+language: hebrew
+book: Jeremiah
+chapter: 52
+verse: 8
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּרְדְּפוּ
+  lemma: רדף
+  morph: QWq3MP
+- form: חֵיל
+  lemma: חַיִל
+  morph: MSC
+- form: כַּשְׂדִּים
+  lemma: כַּשְׂדִּי
+  morph: MPA
+  affixes: כּ
+- form: אַחֲרֵי
+  lemma: אַחַר
+  morph: MPC
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: מֶּלֶךְ
+  lemma: מֶלֶךְ
+  morph: MSA
+  affixes: מּ
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יַּשִּׂיגוּ
+  lemma: נשׂג
+  morph: HWq3MP
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: צִדְקִיָּהוּ
+  lemma: צִדְקִיָּהוּ
+  morph: MSA
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: עַרְבֹת
+  lemma: עֲרָבָה
+  morph: FPC
+- form: יְרֵחֹו
+  lemma: יְרִיחֹוֿ יְרִחֹו
+  morph: SA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: כָל
+  lemma: כֹּל
+  morph: MSC
+  affixes: כ
+- form: חֵילֹו
+  lemma: חַיִל
+  morph: MSA
+- form: נָפֹצוּ
+  lemma: פוץ
+  morph: NP3P
+- form: מֵ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: עָלָיו
+  lemma: עַל
+  morph: X
+---
+וַיִּרְדְּפוּ חֵיל־כַּשְׂדִּים אַחֲרֵי הַמֶּלֶךְ וַיַּשִּׂיגוּ אֶת־צִדְקִיָּהוּ בְּעַרְבֹת יְרֵחֹו וְכָל־חֵילֹו נָפֹצוּ מֵעָלָיו׃

@@ -1,0 +1,35 @@
+---
+language: hebrew
+book: Isaiah
+chapter: 37
+verse: 5
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יָּבֹאוּ
+  lemma: בוא
+  morph: QWq3MP
+- form: עַבְדֵי
+  lemma: עֶבֶד
+  morph: MPC
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: מֶּלֶךְ
+  lemma: מֶלֶךְ
+  morph: MSA
+  affixes: מּ
+- form: חִזְקִיָּהוּ
+  lemma: חִזְקִיָּהוּ
+  morph: MSA
+- form: אֶל
+  lemma: אֶל
+  morph: X
+- form: יְשַׁעְיָהוּ
+  lemma: יְשַׁעְיָהוּ
+  morph: MSA
+---
+וַיָּבֹאוּ עַבְדֵי הַמֶּלֶךְ חִזְקִיָּהוּ אֶל־יְשַׁעְיָהוּ׃

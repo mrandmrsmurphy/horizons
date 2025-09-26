@@ -1,0 +1,47 @@
+---
+language: hebrew
+book: Psalms
+chapter: 105
+verse: 1
+tokens:
+- form: הֹודוּ
+  lemma: ידה
+  morph: HIm2MP
+  affixes: ה
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: יהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: קִרְאוּ
+  lemma: קרא
+  morph: QIm2MP
+- form: בִּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: שְׁמֹו
+  lemma: שֵׁם
+  morph: MSA
+  affixes: ש
+- form: הֹודִיעוּ
+  lemma: ידע
+  morph: HIm2MP
+  affixes: ה
+- form: בָ
+  lemma: בְּ
+  morph: X
+  affixes: ב
+- form: ''
+  lemma: הַ
+  morph: X
+- form: עַמִּים
+  lemma: עַם
+  morph: MPA
+- form: עֲלִילֹותָיו
+  lemma: עֲלִילָה
+  morph: FPA
+---
+הֹודוּ לַיהוָה קִרְאוּ בִּשְׁמֹו הֹודִיעוּ בָעַמִּים עֲלִילֹותָיו׃

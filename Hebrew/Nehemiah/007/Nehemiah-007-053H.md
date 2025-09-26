@@ -1,0 +1,30 @@
+---
+language: hebrew
+book: Nehemiah
+chapter: 7
+verse: 53
+tokens:
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: בַקְבּוּק
+  lemma: בַּקְבּוּק
+  morph: MSA
+  affixes: ב
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: חֲקוּפָא
+  lemma: חֲקוּפָא
+  morph: MSA
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: חַרְחוּר
+  lemma: חַרְחוּר
+  morph: MSA
+---
+בְּנֵי־בַקְבּוּק בְּנֵי־חֲקוּפָא בְּנֵי חַרְחוּר׃

@@ -1,0 +1,46 @@
+---
+language: hebrew
+book: Exodus
+chapter: 40
+verse: 16
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יַּעַשׂ
+  lemma: עשׂה
+  morph: QWq3MS
+- form: מֹשֶׁה
+  lemma: מֹשֶׁה
+  morph: MSA
+  affixes: מ
+- form: כְּ
+  lemma: כְּ
+  morph: X
+  affixes: כּ
+- form: כֹל
+  lemma: כֹּל
+  morph: MSC
+  affixes: כ
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: צִוָּה
+  lemma: צוה
+  morph: PP3MS
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֹתֹו
+  lemma: אֵת
+  morph: X
+- form: כֵּן
+  lemma: כֵּן
+  morph: X
+  affixes: כּ
+- form: עָשָׂה
+  lemma: עשׂה
+  morph: QP3MS
+---
+וַיַּעַשׂ מֹשֶׁה כְּכֹל אֲשֶׁר צִוָּה יְהוָה אֹתֹו כֵּן עָשָׂה׃ ס׃

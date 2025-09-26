@@ -1,0 +1,75 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 26
+verse: 1
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּקְחוּ
+  lemma: לקח
+  morph: QWq3MP
+- form: כָּל
+  lemma: כֹּל
+  morph: MSC
+  affixes: כּ
+- form: עַם
+  lemma: עַם
+  morph: MSC
+- form: יְהוּדָה
+  lemma: יְהוּדָה
+  morph: SA
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: עֻזִּיָּהוּ
+  lemma: עֻזִּיָּהוּ
+  morph: MSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הוּא
+  lemma: הוּא
+  morph: MS
+  affixes:
+  - ה
+  - וּ
+- form: בֶּן
+  lemma: בֵּן
+  morph: MSC
+  affixes: בּ
+- form: שֵׁשׁ
+  lemma: שֵׁשׁ
+  morph: SC
+  affixes: ש
+- form: עֶשְׂרֵה
+  lemma: עֶשְׂרֵה
+  morph: SA
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יַּמְלִיכוּ
+  lemma: מלך
+  morph: HWq3MP
+- form: אֹתֹו
+  lemma: אֵת
+  morph: X
+- form: תַּחַת
+  lemma: תַּחַת
+  morph: MSC
+- form: אָבִיו
+  lemma: אָב
+  morph: MSA
+- form: אֲמַצְיָהוּ
+  lemma: אֲמַצְיָהוּ
+  morph: MSA
+---
+וַיִּקְחוּ כָּל־עַם יְהוּדָה אֶת־עֻזִּיָּהוּ וְהוּא בֶּן־שֵׁשׁ עֶשְׂרֵה שָׁנָה וַיַּמְלִיכוּ אֹתֹו תַּחַת אָבִיו אֲמַצְיָהוּ׃

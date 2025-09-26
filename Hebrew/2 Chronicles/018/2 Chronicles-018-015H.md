@@ -1,0 +1,77 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 18
+verse: 15
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יֹּאמֶר
+  lemma: אמר
+  morph: QWq3MS
+- form: אֵלָיו
+  lemma: אֶל
+  morph: X
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: מֶּלֶךְ
+  lemma: מֶלֶךְ
+  morph: MSA
+  affixes: מּ
+- form: עַד
+  lemma: עַד
+  morph: X
+- form: כַּ
+  lemma: כְּ
+  morph: X
+  affixes: כּ
+- form: מֶּה
+  lemma: מָה
+  morph: X
+  affixes: מּ
+- form: פְעָמִים
+  lemma: פַּעַם
+  morph: FPA
+- form: אֲנִי
+  lemma: אֲנִי
+  morph: S
+- form: מַשְׁבִּיעֶךָ
+  lemma: שׁבע
+  morph: HPtunknownMS
+  affixes: מ
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: תְדַבֵּר
+  lemma: דבר
+  morph: PI2MS
+- form: אֵלַי
+  lemma: אֶל
+  morph: X
+- form: רַק
+  lemma: רַק
+  morph: X
+- form: אֱמֶת
+  lemma: אֶמֶת
+  morph: FSA
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: שֵׁם
+  lemma: שֵׁם
+  morph: MSC
+  affixes: ש
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+---
+וַיֹּאמֶר אֵלָיו הַמֶּלֶךְ עַד־כַּמֶּה פְעָמִים אֲנִי מַשְׁבִּיעֶךָ אֲשֶׁר לֹא־תְדַבֵּר אֵלַי רַק־אֱמֶת בְּשֵׁם יְהוָה׃

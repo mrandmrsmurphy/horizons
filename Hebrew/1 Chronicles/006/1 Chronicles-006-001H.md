@@ -1,0 +1,30 @@
+---
+language: hebrew
+book: 1 Chronicles
+chapter: 6
+verse: 1
+tokens:
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: לֵוִי
+  lemma: לֵוִי
+  morph: SA
+  affixes: ל
+- form: גֵּרְשֹׁם
+  lemma: גֵּרְשֹׁם
+  morph: MSA
+- form: קְהָת
+  lemma: קְהָת
+  morph: MSA
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: מְרָרִי
+  lemma: מְרָרִי
+  morph: MSA
+  affixes: מְ
+---
+בְּנֵי לֵוִי גֵּרְשֹׁם קְהָת וּמְרָרִי׃

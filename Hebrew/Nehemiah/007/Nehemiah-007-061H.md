@@ -1,0 +1,93 @@
+---
+language: hebrew
+book: Nehemiah
+chapter: 7
+verse: 61
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֵלֶּה
+  lemma: אֵלֶּה
+  morph: P
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: עֹולִים
+  lemma: עלה
+  morph: QPtunknownMP
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: תֵּל מֶלַח
+  lemma: תֵּל מֶלַח
+  morph: SA
+- form: תֵּל חַרְשָׁא
+  lemma: תֵּל חַרְשָׁא
+  morph: SA
+- form: כְּרוּב
+  lemma: כְּרוּב
+  morph: SA
+  affixes: כּ
+- form: אַדֹּון
+  lemma: אַדֹּון
+  morph: SA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אִמֵּר
+  lemma: אִמֵּר
+  morph: MSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יָכְלוּ
+  lemma: יכל
+  morph: QP3P
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: הַגִּיד
+  lemma: נגד
+  morph: HIcunknown
+  affixes: הַ
+- form: בֵּית
+  lemma: בַּיִת
+  morph: MSC
+  affixes: בּ
+- form: אֲבֹותָם
+  lemma: אָב
+  morph: MPA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: זַרְעָם
+  lemma: זֶרַע
+  morph: MSA
+- form: אִם
+  lemma: אִם
+  morph: X
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: יִּשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+- form: הֵם
+  lemma: הֵם
+  morph: MP
+  affixes: הֵ
+---
+וְאֵלֶּה הָעֹולִים מִתֵּל מֶלַח תֵּל חַרְשָׁא כְּרוּב אַדֹּון וְאִמֵּר וְלֹא יָכְלוּ לְהַגִּיד בֵּית־אֲבֹותָם וְזַרְעָם אִם מִיִּשְׂרָאֵל הֵם׃

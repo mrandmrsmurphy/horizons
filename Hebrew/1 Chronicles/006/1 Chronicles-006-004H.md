@@ -1,0 +1,54 @@
+---
+language: hebrew
+book: 1 Chronicles
+chapter: 6
+verse: 4
+tokens:
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: מְרָרִי
+  lemma: מְרָרִי
+  morph: MSA
+  affixes: מְ
+- form: מַחְלִי
+  lemma: מַחְלִי
+  morph: MSA
+  affixes: מ
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: מֻשִׁי
+  lemma: מוּשִׁי
+  morph: MSA
+  affixes: מ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֵלֶּה
+  lemma: אֵלֶּה
+  morph: P
+- form: מִשְׁפְּחֹות
+  lemma: מִשְׁפָּחָה
+  morph: FPC
+  affixes: מ
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: לֵּוִי
+  lemma: לֵוִי
+  morph: MSA
+  affixes: לּ
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: אֲבֹותֵיהֶם
+  lemma: אָב
+  morph: MPA
+---
+בְּנֵי מְרָרִי מַחְלִי וּמֻשִׁי וְאֵלֶּה מִשְׁפְּחֹות הַלֵּוִי לַאֲבֹותֵיהֶם׃

@@ -1,0 +1,39 @@
+---
+language: hebrew
+book: Psalms
+chapter: 53
+verse: 4
+tokens:
+- form: כֻּלֹּו
+  lemma: כֹּל
+  morph: MSA
+  affixes: כּ
+- form: סָג
+  lemma: סוג
+  morph: QP3MS
+- form: יַחְדָּו
+  lemma: יַחְדָּו
+  morph: X
+- form: נֶאֱלָחוּ
+  lemma: אלח
+  morph: NP3P
+- form: אֵין
+  lemma: אַיִן
+  morph: MSC
+- form: עֹשֵׂה
+  lemma: עשׂה
+  morph: QPtunknownMS
+- form: טֹוב
+  lemma: טֹוב
+  morph: MSA
+- form: אֵין
+  lemma: אַיִן
+  morph: MSC
+- form: גַּם
+  lemma: גַּם
+  morph: X
+- form: אֶחָד
+  lemma: אֶחָד
+  morph: SA
+---
+כֻּלֹּו סָג יַחְדָּו נֶאֱלָחוּ אֵין עֹשֵׂה־טֹוב אֵין גַּם־אֶחָד׃

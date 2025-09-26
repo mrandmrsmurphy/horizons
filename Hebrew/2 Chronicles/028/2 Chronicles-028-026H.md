@@ -1,0 +1,77 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 28
+verse: 26
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: יֶתֶר
+  lemma: יֶתֶר
+  morph: MSC
+- form: דְּבָרָיו
+  lemma: דָּבָר
+  morph: MPA
+  affixes: דּ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: כָל
+  lemma: כֹּל
+  morph: MSC
+  affixes: כ
+- form: דְּרָכָיו
+  lemma: דֶּרֶךְ
+  morph: MPA
+  affixes: דּ
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: רִאשֹׁנִים
+  lemma: רִאשֹׁון
+  morph: MPA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: אַחֲרֹונִים
+  lemma: אַחֲרֹון
+  morph: MPA
+- form: הִנָּם
+  lemma: הִנֵּה
+  morph: X
+  affixes: ה
+- form: כְּתוּבִים
+  lemma: כתב
+  morph: QXunknownMP
+  affixes: כּ
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: סֵפֶר
+  lemma: סֵפֶר
+  morph: MSC
+- form: מַלְכֵי
+  lemma: מֶלֶךְ
+  morph: MPC
+  affixes: מ
+- form: יְהוּדָה
+  lemma: יְהוּדָה
+  morph: SA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: יִשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+---
+וְיֶתֶר דְּבָרָיו וְכָל־דְּרָכָיו הָרִאשֹׁנִים וְהָאַחֲרֹונִים הִנָּם כְּתוּבִים עַל־סֵפֶר מַלְכֵי־יְהוּדָה וְיִשְׂרָאֵל׃

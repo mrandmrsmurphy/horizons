@@ -1,0 +1,49 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 10
+verse: 17
+tokens:
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: בְנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בְ
+- form: יִשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: יֹּשְׁבִים
+  lemma: ישׁב
+  morph: QPtunknownMP
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: עָרֵי
+  lemma: עִיר
+  morph: FPC
+- form: יְהוּדָה
+  lemma: יְהוּדָה
+  morph: SA
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּמְלֹךְ
+  lemma: מלך
+  morph: QWq3MS
+- form: עֲלֵיהֶם
+  lemma: עַל
+  morph: X
+- form: רְחַבְעָם
+  lemma: רְחַבְעָם
+  morph: MSA
+---
+וּבְנֵי יִשְׂרָאֵל הַיֹּשְׁבִים בְּעָרֵי יְהוּדָה וַיִּמְלֹךְ עֲלֵיהֶם רְחַבְעָם׃

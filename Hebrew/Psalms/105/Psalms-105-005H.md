@@ -1,0 +1,35 @@
+---
+language: hebrew
+book: Psalms
+chapter: 105
+verse: 5
+tokens:
+- form: זִכְרוּ
+  lemma: זכר
+  morph: QIm2MP
+- form: נִפְלְאֹותָיו
+  lemma: פלא
+  morph: NPtunknownFP
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: עָשָׂה
+  lemma: עשׂה
+  morph: QP3MS
+- form: מֹפְתָיו
+  lemma: מֹופֵת
+  morph: MPA
+  affixes: מ
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: מִשְׁפְּטֵי
+  lemma: מִשְׁפָּט
+  morph: MPC
+  affixes: מ
+- form: פִיו
+  lemma: פֶּה
+  morph: MSA
+---
+זִכְרוּ נִפְלְאֹותָיו אֲשֶׁר־עָשָׂה מֹפְתָיו וּמִשְׁפְּטֵי־פִיו׃

@@ -1,0 +1,69 @@
+---
+language: hebrew
+book: Leviticus
+chapter: 11
+verse: 19
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֵת
+  lemma: אֵת
+  morph: X
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: חֲסִידָה
+  lemma: חֲסִידָה
+  morph: FSA
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: אֲנָפָה
+  lemma: אֲנָפָה
+  morph: FSA
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: מִינָהּ
+  lemma: מִין
+  morph: MSA
+  affixes: מ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: דּוּכִיפַת
+  lemma: דּוּכִיפַת
+  morph: FSA
+  affixes:
+  - דּ
+  - וּ
+  - כ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: עֲטַלֵּף
+  lemma: עֲטַלֵּף
+  morph: MSA
+---
+וְאֵת הַחֲסִידָה הָאֲנָפָה לְמִינָהּ וְאֶת־הַדּוּכִיפַת וְאֶת־הָעֲטַלֵּף׃

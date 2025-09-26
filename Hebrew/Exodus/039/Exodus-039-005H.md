@@ -1,0 +1,98 @@
+---
+language: hebrew
+book: Exodus
+chapter: 39
+verse: 5
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: חֵשֶׁב
+  lemma: חֵשֶׁב
+  morph: MSC
+- form: אֲפֻדָּתֹו
+  lemma: אֲפֻדָּה
+  morph: FSA
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: עָלָיו
+  lemma: עַל
+  morph: X
+- form: מִמֶּנּוּ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: הוּא
+  lemma: הוּא
+  morph: MS
+  affixes:
+  - ה
+  - וּ
+- form: כְּ
+  lemma: כְּ
+  morph: X
+  affixes: כּ
+- form: מַעֲשֵׂהוּ
+  lemma: מַעֲשֶׂה
+  morph: MSA
+  affixes: מ
+- form: זָהָב
+  lemma: זָהָב
+  morph: MSA
+- form: תְּכֵלֶת
+  lemma: תְּכֵלֶת
+  morph: FSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אַרְגָּמָן
+  lemma: אַרְגָּמָן
+  morph: MSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: תֹולַעַת
+  lemma: תֹּולַעַת
+  morph: FSC
+- form: שָׁנִי
+  lemma: שָׁנִי
+  morph: MSA
+  affixes: ש
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: שֵׁשׁ
+  lemma: שֵׁשׁ
+  morph: MSA
+  affixes: ש
+- form: מָשְׁזָר
+  lemma: שׁזר
+  morph: HoXunknownMS
+  affixes: מ
+- form: כַּ
+  lemma: כְּ
+  morph: X
+  affixes: כּ
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: צִוָּה
+  lemma: צוה
+  morph: PP3MS
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: מֹשֶׁה
+  lemma: מֹשֶׁה
+  morph: MSA
+  affixes: מ
+---
+וְחֵשֶׁב אֲפֻדָּתֹו אֲשֶׁר עָלָיו מִמֶּנּוּ הוּא כְּמַעֲשֵׂהוּ זָהָב תְּכֵלֶת וְאַרְגָּמָן וְתֹולַעַת שָׁנִי וְשֵׁשׁ מָשְׁזָר כַּאֲשֶׁר צִוָּה יְהוָה אֶת־מֹשֶׁה׃

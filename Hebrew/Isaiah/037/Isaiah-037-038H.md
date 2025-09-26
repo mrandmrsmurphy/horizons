@@ -1,0 +1,104 @@
+---
+language: hebrew
+book: Isaiah
+chapter: 37
+verse: 38
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יְהִי
+  lemma: היה
+  morph: QWq3MS
+- form: הוּא
+  lemma: הוּא
+  morph: MS
+  affixes:
+  - ה
+  - וּ
+- form: מִשְׁתַּחֲוֶה
+  lemma: חוה
+  morph: XPtunknownMS
+  affixes: מ
+- form: בֵּית
+  lemma: בַּיִת
+  morph: MSC
+  affixes: בּ
+- form: נִסְרֹךְ
+  lemma: נִסְרֹךְ
+  morph: MSA
+- form: אֱלֹהָיו
+  lemma: אֱלֹהִים
+  morph: MPA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אַדְרַמֶּלֶךְ
+  lemma: אַדְרַמֶּלֶךְ
+  morph: MSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: שַׂרְאֶצֶר
+  lemma: שַׂרְאֶצֶר
+  morph: MSA
+  affixes: ש
+- form: בָּנָיו
+  lemma: בֵּן
+  morph: MPA
+  affixes: בּ
+- form: הִכֻּהוּ
+  lemma: נכה
+  morph: HP3P
+  affixes: ה
+- form: בַ
+  lemma: בְּ
+  morph: X
+  affixes: ב
+- form: ''
+  lemma: הַ
+  morph: X
+- form: חֶרֶב
+  lemma: חֶרֶב
+  morph: FSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הֵמָּה
+  lemma: הֵמָּה
+  morph: MP
+  affixes:
+  - הֵ
+  - מּ
+- form: נִמְלְטוּ
+  lemma: מלט
+  morph: NP3P
+- form: אֶרֶץ
+  lemma: אֶרֶץ
+  morph: SC
+- form: אֲרָרָט
+  lemma: אֲרָרַט
+  morph: SA
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּמְלֹךְ
+  lemma: מלך
+  morph: QWq3MS
+- form: אֵסַר־חַדֹּן
+  lemma: אֵסַר חַדֹּן
+  morph: MSA
+- form: בְּנֹו
+  lemma: בֵּן
+  morph: MSA
+  affixes: בּ
+- form: תַּחְתָּיו
+  lemma: תַּחַת
+  morph: MPA
+---
+וַיְהִי הוּא מִשְׁתַּחֲוֶה בֵּית׀ נִסְרֹךְ אֱלֹהָיו וְאַדְרַמֶּלֶךְ וְשַׂרְאֶצֶר בָּנָיו הִכֻּהוּ בַחֶרֶב וְהֵמָּה נִמְלְטוּ אֶרֶץ אֲרָרָט וַיִּמְלֹךְ אֵסַר־חַדֹּן בְּנֹו תַּחְתָּיו׃ ס׃

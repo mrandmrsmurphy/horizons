@@ -1,0 +1,40 @@
+---
+language: hebrew
+book: Psalms
+chapter: 60
+verse: 10
+tokens:
+- form: מֹואָב
+  lemma: מֹואָב
+  morph: SA
+  affixes: מ
+- form: סִיר
+  lemma: סִיר
+  morph: SC
+- form: רַחְצִי
+  lemma: רַחַץ
+  morph: MSA
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: אֱדֹום
+  lemma: אֱדֹום
+  morph: SA
+- form: אַשְׁלִיךְ
+  lemma: שׁלך
+  morph: HI1S
+- form: נַעֲלִי
+  lemma: נַעַל
+  morph: FSA
+- form: עָלַי
+  lemma: עַל
+  morph: X
+- form: פְּלֶשֶׁת
+  lemma: פְּלֶשֶׁת
+  morph: SA
+- form: הִתְרֹעָעִי
+  lemma: רוע
+  morph: HtIm2FS
+  affixes: ה
+---
+מֹואָב׀ סִיר רַחְצִי עַל־אֱדֹום אַשְׁלִיךְ נַעֲלִי עָלַי פְּלֶשֶׁת הִתְרֹעָעִי׃

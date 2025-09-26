@@ -1,0 +1,77 @@
+---
+language: hebrew
+book: 1 Chronicles
+chapter: 27
+verse: 2
+tokens:
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: מַּחֲלֹקֶת
+  lemma: מַחֲלֹקֶת
+  morph: FSA
+  affixes: מּ
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: רִאשֹׁונָה
+  lemma: רִאשֹׁון
+  morph: FSA
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: ''
+  lemma: הַ
+  morph: X
+- form: חֹדֶשׁ
+  lemma: חֹדֶשׁ
+  morph: MSA
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: רִאשֹׁון
+  lemma: רִאשֹׁון
+  morph: MSA
+- form: יָשָׁבְעָם
+  lemma: יָשָׁבְעָם
+  morph: MSA
+- form: בֶּן
+  lemma: בֵּן
+  morph: MSC
+  affixes: בּ
+- form: זַבְדִּיאֵל
+  lemma: זַבְדִּיאֵל
+  morph: MSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: מַחֲלֻקְתֹּו
+  lemma: מַחֲלֹקֶת
+  morph: FSA
+  affixes: מ
+- form: עֶשְׂרִים
+  lemma: עֶשְׂרִים
+  morph: MPA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אַרְבָּעָה
+  lemma: אַרְבַּע
+  morph: FSA
+- form: אָלֶף
+  lemma: אֶלֶף
+  morph: SA
+---
+עַל הַמַּחֲלֹקֶת הָרִאשֹׁונָה לַחֹדֶשׁ הָרִאשֹׁון יָשָׁבְעָם בֶּן־זַבְדִּיאֵל וְעַל מַחֲלֻקְתֹּו עֶשְׂרִים וְאַרְבָּעָה אָלֶף׃

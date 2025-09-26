@@ -1,0 +1,64 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 27
+verse: 8
+tokens:
+- form: בֶּן
+  lemma: בֵּן
+  morph: MSC
+  affixes: בּ
+- form: עֶשְׂרִים
+  lemma: עֶשְׂרִים
+  morph: MPA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: חָמֵשׁ
+  lemma: חָמֵשׁ
+  morph: SA
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: הָיָה
+  lemma: היה
+  morph: QP3MS
+  affixes: הָ
+- form: בְ
+  lemma: בְּ
+  morph: X
+  affixes: בְ
+- form: מָלְכֹו
+  lemma: מלך
+  morph: QIcunknown
+  affixes: מ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: שֵׁשׁ
+  lemma: שֵׁשׁ
+  morph: SC
+  affixes: ש
+- form: עֶשְׂרֵה
+  lemma: עֶשְׂרֵה
+  morph: SA
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: מָלַךְ
+  lemma: מלך
+  morph: QP3MS
+  affixes: מ
+- form: בִּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: ירוּשָׁלִָם
+  lemma: יְרוּשָׁלִַם
+  morph: SA
+---
+בֶּן־עֶשְׂרִים וְחָמֵשׁ שָׁנָה הָיָה בְמָלְכֹו וְשֵׁשׁ־עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלִָם׃

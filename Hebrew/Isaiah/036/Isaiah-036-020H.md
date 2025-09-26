@@ -1,0 +1,80 @@
+---
+language: hebrew
+book: Isaiah
+chapter: 36
+verse: 20
+tokens:
+- form: מִי
+  lemma: מִי
+  morph: X
+  affixes: מ
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: כָל
+  lemma: כֹּל
+  morph: MSC
+  affixes: כ
+- form: אֱלֹהֵי
+  lemma: אֱלֹהִים
+  morph: MPC
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: אֲרָצֹות
+  lemma: אֶרֶץ
+  morph: FPA
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: אֵלֶּה
+  lemma: אֵלֶּה
+  morph: P
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: הִצִּילוּ
+  lemma: נצל
+  morph: HP3P
+  affixes: ה
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: אַרְצָם
+  lemma: אֶרֶץ
+  morph: SA
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: יָּדִי
+  lemma: יָד
+  morph: SA
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: יַצִּיל
+  lemma: נצל
+  morph: HI3MS
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: יְרוּשָׁלִַם
+  lemma: יְרוּשָׁלִַם
+  morph: SA
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: יָּדִי
+  lemma: יָד
+  morph: SA
+---
+מִי בְּכָל־אֱלֹהֵי הָאֲרָצֹות הָאֵלֶּה אֲשֶׁר־הִצִּילוּ אֶת־אַרְצָם מִיָּדִי כִּי־יַצִּיל יְהוָה אֶת־יְרוּשָׁלִַם מִיָּדִי׃

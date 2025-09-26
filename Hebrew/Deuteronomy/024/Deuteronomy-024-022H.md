@@ -1,0 +1,76 @@
+---
+language: hebrew
+book: Deuteronomy
+chapter: 24
+verse: 22
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: זָכַרְתָּ
+  lemma: זכר
+  morph: QP2MS
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: עֶבֶד
+  lemma: עֶבֶד
+  morph: MSA
+- form: הָיִיתָ
+  lemma: היה
+  morph: QP2MS
+  affixes: הָ
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: אֶרֶץ
+  lemma: אֶרֶץ
+  morph: SC
+- form: מִצְרָיִם
+  lemma: מִצְרַיִם
+  morph: SA
+  affixes: מ
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: כֵּן
+  lemma: כֵּן
+  morph: X
+  affixes: כּ
+- form: אָנֹכִי
+  lemma: אָנֹכִי
+  morph: S
+- form: מְצַוְּךָ
+  lemma: צוה
+  morph: PPtunknownMS
+  affixes: מְ
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: עֲשֹׂות
+  lemma: עשׂה
+  morph: QIcunknown
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: דָּבָר
+  lemma: דָּבָר
+  morph: MSA
+  affixes: דּ
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: זֶּה
+  lemma: זֶה
+  morph: MS
+---
+וְזָכַרְתָּ כִּי־עֶבֶד הָיִיתָ בְּאֶרֶץ מִצְרָיִם עַל־כֵּן אָנֹכִי מְצַוְּךָ לַעֲשֹׂות אֶת־הַדָּבָר הַזֶּה׃ ס׃

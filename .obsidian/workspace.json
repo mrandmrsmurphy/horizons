@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Greek/1 Peter/001/1 Peter-001-001G.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "2fbe9aa3ce64662e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/season-core.tpl.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "season-core.tpl"
+              "title": "1 Peter-001-001G"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,9 +182,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2fbe9aa3ce64662e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Bible/1 Peter/1/1 Peter-1-1.md",
+    "Bible/1 Peter/1/1 Peter-1-2.md",
+    "Greek/1 Peter/001/1 Peter-001-001G.md",
     "Home.md",
+    "Greek/1 Chronicles/001/1 Chronicles-001-001G.md",
     "templates/season-core.tpl.md",
     "templates",
     "Bible/Deuteronomy/32/Deuteronomy-32-11.md",
@@ -217,15 +206,11 @@
     "Bible/1 Chronicles/22/1 Chronicles-22-1.md",
     "Greek/1 Chronicles/022/1 Chronicles-022-001G.md",
     "Greek/1 Chronicles/022/1 Chronicles-022-002G.md",
-    "Greek/1 Chronicles/001/1 Chronicles-001-001G.md",
     "Greek/1 Corinthians/001/1 Corinthians-001-030G.md",
     "Greek/1 Corinthians/001/1 Corinthians-001-009G.md",
     "Greek/1 Corinthians/001/1 Corinthians-001-008G.md",
     "Greek/1 Corinthians/001/1 Corinthians-001-003G.md",
     "Greek/1 Corinthians/001/1 Corinthians-001-002G.md",
-    "Greek/1 Corinthians/001/1 Corinthians-001-001G.md",
-    "Bible/Zephaniah/3/Zephaniah-3-6.md",
-    "Bible/Zephaniah/3/Zephaniah-3-20.md",
     "Bible/Zephaniah/3",
     "Bible/Zephaniah/2",
     "Bible/Zephaniah/1",

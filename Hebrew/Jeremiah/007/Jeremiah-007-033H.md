@@ -1,0 +1,86 @@
+---
+language: hebrew
+book: Jeremiah
+chapter: 7
+verse: 33
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הָיְתָה
+  lemma: היה
+  morph: QP3FS
+  affixes: הָ
+- form: נִבְלַת
+  lemma: נְבֵלָה
+  morph: FSC
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: עָם
+  lemma: עַם
+  morph: MSA
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: זֶּה
+  lemma: זֶה
+  morph: MS
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: מַאֲכָל
+  lemma: מַאֲכָל
+  morph: MSA
+  affixes: מ
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: עֹוף
+  lemma: עֹוף
+  morph: MSC
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: שָּׁמַיִם
+  lemma: שָׁמַיִם
+  morph: MPA
+  affixes: ש
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: בֶהֱמַת
+  lemma: בְּהֵמָה
+  morph: FSC
+  affixes: ב
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: אָרֶץ
+  lemma: אֶרֶץ
+  morph: SA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֵין
+  lemma: אַיִן
+  morph: MSC
+- form: מַחֲרִיד
+  lemma: חרד
+  morph: HPtunknownMS
+  affixes: מ
+---
+וְהָיְתָה נִבְלַת הָעָם הַזֶּה לְמַאֲכָל לְעֹוף הַשָּׁמַיִם וּלְבֶהֱמַת הָאָרֶץ וְאֵין מַחֲרִיד׃

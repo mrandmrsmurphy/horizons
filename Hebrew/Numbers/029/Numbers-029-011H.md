@@ -1,0 +1,73 @@
+---
+language: hebrew
+book: Numbers
+chapter: 29
+verse: 11
+tokens:
+- form: שְׂעִיר
+  lemma: שָׂעִיר
+  morph: MSC
+  affixes: ש
+- form: עִזִּים
+  lemma: עֵז
+  morph: FPA
+- form: אֶחָד
+  lemma: אֶחָד
+  morph: SA
+- form: חַטָּאת
+  lemma: חַטָּאת
+  morph: FSA
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: לְּ
+  lemma: לְ
+  morph: X
+  affixes: לּ
+- form: בַד
+  lemma: בַּד
+  morph: MSC
+  affixes: ב
+- form: חַטַּאת
+  lemma: חַטָּאת
+  morph: FSC
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: כִּפֻּרִים
+  lemma: כִּפֻּרִים
+  morph: MPA
+  affixes: כּ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: עֹלַת
+  lemma: עֹלָה
+  morph: FSC
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: תָּמִיד
+  lemma: תָּמִיד
+  morph: MSA
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: מִנְחָתָהּ
+  lemma: מִנְחָה
+  morph: FSA
+  affixes: מ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: נִסְכֵּיהֶם
+  lemma: נֵסֶךְ
+  morph: MPA
+---
+שְׂעִיר־עִזִּים אֶחָד חַטָּאת מִלְּבַד חַטַּאת הַכִּפֻּרִים וְעֹלַת הַתָּמִיד וּמִנְחָתָהּ וְנִסְכֵּיהֶם׃ פ׃

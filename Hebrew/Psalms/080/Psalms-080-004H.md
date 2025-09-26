@@ -1,0 +1,35 @@
+---
+language: hebrew
+book: Psalms
+chapter: 80
+verse: 4
+tokens:
+- form: אֱלֹהִים
+  lemma: אֱלֹהִים
+  morph: MPA
+- form: הֲשִׁיבֵנוּ
+  lemma: שׁוב
+  morph: HIm2MS
+  affixes:
+  - הֲ
+  - ש
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הָאֵר
+  lemma: אור
+  morph: HIm2MS
+  affixes: הָ
+- form: פָּנֶיךָ
+  lemma: פָּנֶה
+  morph: MPA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: נִוָּשֵׁעָה
+  lemma: ישׁע
+  morph: NI1P
+---
+אֱלֹהִים הֲשִׁיבֵנוּ וְהָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה׃

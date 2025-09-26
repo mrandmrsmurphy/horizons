@@ -1,0 +1,67 @@
+---
+language: hebrew
+book: Numbers
+chapter: 29
+verse: 20
+tokens:
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: בַ
+  lemma: בְּ
+  morph: X
+  affixes: ב
+- form: ''
+  lemma: הַ
+  morph: X
+- form: יֹּום
+  lemma: יֹום
+  morph: MSA
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: שְּׁלִישִׁי
+  lemma: שְׁלִישִׁי
+  morph: MSA
+  affixes: ש
+- form: פָּרִים
+  lemma: פַּר
+  morph: MPA
+- form: עַשְׁתֵּי
+  lemma: עַשְׁתֵּי
+  morph: SC
+- form: עָשָׂר
+  lemma: עָשָׂר
+  morph: SA
+- form: אֵילִם
+  lemma: אַיִל
+  morph: MPA
+- form: שְׁנָיִם
+  lemma: שְׁנַיִם
+  morph: DA
+  affixes: ש
+- form: כְּבָשִׂים
+  lemma: כֶּבֶשׂ
+  morph: MPA
+  affixes: כּ
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: אַרְבָּעָה
+  lemma: אַרְבַּע
+  morph: FSA
+- form: עָשָׂר
+  lemma: עָשָׂר
+  morph: SA
+- form: תְּמִימִם
+  lemma: תָּמִים
+  morph: MPA
+---
+וּבַיֹּום הַשְּׁלִישִׁי פָּרִים עַשְׁתֵּי־עָשָׂר אֵילִם שְׁנָיִם כְּבָשִׂים בְּנֵי־שָׁנָה אַרְבָּעָה עָשָׂר תְּמִימִם׃

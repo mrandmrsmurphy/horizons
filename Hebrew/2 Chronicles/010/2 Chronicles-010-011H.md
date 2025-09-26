@@ -1,0 +1,85 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 10
+verse: 11
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: עַתָּה
+  lemma: עַתָּה
+  morph: X
+- form: אָבִי
+  lemma: אָב
+  morph: MSA
+- form: הֶעְמִיס
+  lemma: עמס
+  morph: HP3MS
+  affixes: הֶ
+- form: עֲלֵיכֶם
+  lemma: עַל
+  morph: X
+- form: עֹל
+  lemma: עֹל
+  morph: MSA
+- form: כָּבֵד
+  lemma: כָּבֵד
+  morph: MSA
+  affixes: כּ
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: אֲנִי
+  lemma: אֲנִי
+  morph: S
+- form: אֹסִיף
+  lemma: יסף
+  morph: HI1S
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: עֻלְּכֶם
+  lemma: עֹל
+  morph: MSA
+- form: אָבִי
+  lemma: אָב
+  morph: MSA
+- form: יִסַּר
+  lemma: יסר
+  morph: PP3MS
+- form: אֶתְכֶם
+  lemma: אֵת
+  morph: X
+- form: בַּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: ''
+  lemma: הַ
+  morph: X
+- form: שֹּׁוטִים
+  lemma: שֹׁוט
+  morph: MPA
+  affixes: ש
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: אֲנִי
+  lemma: אֲנִי
+  morph: S
+- form: בָּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: ''
+  lemma: הַ
+  morph: X
+- form: עֲקְרַבִּים
+  lemma: עַקְרָב
+  morph: MPA
+---
+וְעַתָּה אָבִי הֶעְמִיס עֲלֵיכֶם עֹל כָּבֵד וַאֲנִי אֹסִיף עַל־עֻלְּכֶם אָבִי יִסַּר אֶתְכֶם בַּשֹּׁוטִים וַאֲנִי בָּעֲקְרַבִּים׃ ס׃

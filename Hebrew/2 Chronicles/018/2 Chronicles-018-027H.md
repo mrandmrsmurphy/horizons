@@ -1,0 +1,70 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 18
+verse: 27
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יֹּאמֶר
+  lemma: אמר
+  morph: QWq3MS
+- form: מִיכָיְהוּ
+  lemma: מִיכָיְהוּ
+  morph: MSA
+  affixes: מ
+- form: אִם
+  lemma: אִם
+  morph: X
+- form: שֹׁוב
+  lemma: שׁוב
+  morph: QIaunknown
+  affixes: ש
+- form: תָּשׁוּב
+  lemma: שׁוב
+  morph: QI2MS
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: שָׁלֹום
+  lemma: שָׁלֹום
+  morph: MSA
+  affixes: ש
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: דִבֶּר
+  lemma: דבר
+  morph: PP3MS
+  affixes: ד
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: בִּי
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יֹּאמֶר
+  lemma: אמר
+  morph: QWq3MS
+- form: שִׁמְעוּ
+  lemma: שׁמע
+  morph: QIm2MP
+  affixes: ש
+- form: עַמִּים
+  lemma: עַם
+  morph: MPA
+- form: כֻּלָּם
+  lemma: כֹּל
+  morph: MSA
+  affixes: כּ
+---
+וַיֹּאמֶר מִיכָיְהוּ אִם־שֹׁוב תָּשׁוּב בְּשָׁלֹום לֹא־דִבֶּר יְהוָה בִּי וַיֹּאמֶר שִׁמְעוּ עַמִּים כֻּלָּם׃ פ׃

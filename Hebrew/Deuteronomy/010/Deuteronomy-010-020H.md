@@ -1,0 +1,52 @@
+---
+language: hebrew
+book: Deuteronomy
+chapter: 10
+verse: 20
+tokens:
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֱלֹהֶיךָ
+  lemma: אֱלֹהִים
+  morph: MPA
+- form: תִּירָא
+  lemma: ירא
+  morph: QI2MS
+- form: אֹתֹו
+  lemma: אֵת
+  morph: X
+- form: תַעֲבֹד
+  lemma: עבד
+  morph: QI2MS
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: בֹו
+  lemma: בְּ
+  morph: X
+  affixes: ב
+- form: תִדְבָּק
+  lemma: דבק
+  morph: QI2MS
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: בִ
+  lemma: בְּ
+  morph: X
+  affixes: ב
+- form: שְׁמֹו
+  lemma: שֵׁם
+  morph: MSA
+  affixes: ש
+- form: תִּשָּׁבֵעַ
+  lemma: שׁבע
+  morph: NI2MS
+---
+אֶת־יְהוָה אֱלֹהֶיךָ תִּירָא אֹתֹו תַעֲבֹד וּבֹו תִדְבָּק וּבִשְׁמֹו תִּשָּׁבֵעַ׃

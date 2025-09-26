@@ -1,0 +1,47 @@
+---
+language: hebrew
+book: Jeremiah
+chapter: 23
+verse: 19
+tokens:
+- form: הִנֵּה
+  lemma: הִנֵּה
+  morph: X
+  affixes: ה
+- form: סַעֲרַת
+  lemma: סְעָרָה
+  morph: FSC
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: חֵמָה
+  lemma: חֵמָה
+  morph: FSA
+- form: יָצְאָה
+  lemma: יצא
+  morph: QP3FS
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: סַעַר
+  lemma: סַעַר
+  morph: MSA
+- form: מִתְחֹולֵל
+  lemma: חול
+  morph: HtPtunknownMS
+  affixes: מ
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: רֹאשׁ
+  lemma: רֹאשׁ
+  morph: MSC
+- form: רְשָׁעִים
+  lemma: רָשָׁע
+  morph: MPA
+- form: יָחוּל
+  lemma: חול
+  morph: QI3MS
+---
+הִנֵּה׀ סַעֲרַת יְהוָה חֵמָה יָצְאָה וְסַעַר מִתְחֹולֵל עַל רֹאשׁ רְשָׁעִים יָחוּל׃

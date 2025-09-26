@@ -1,0 +1,39 @@
+---
+language: hebrew
+book: Psalms
+chapter: 136
+verse: 17
+tokens:
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: מַכֵּה
+  lemma: נכה
+  morph: HPtunknownMS
+  affixes: מ
+- form: מְלָכִים
+  lemma: מֶלֶךְ
+  morph: MPA
+  affixes:
+  - מְ
+  - ל
+- form: גְּדֹלִים
+  lemma: גָּדֹול
+  morph: MPA
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: עֹולָם
+  lemma: עֹולָם
+  morph: MSA
+- form: חַסְדֹּו
+  lemma: חֶסֶד
+  morph: MSA
+---
+לְמַכֵּה מְלָכִים גְּדֹלִים כִּי לְעֹולָם חַסְדֹּו׃

@@ -1,0 +1,79 @@
+---
+language: hebrew
+book: Isaiah
+chapter: 36
+verse: 9
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֵיךְ
+  lemma: אֵיךְ
+  morph: X
+- form: תָּשִׁיב
+  lemma: שׁוב
+  morph: HI2MS
+- form: אֵת
+  lemma: אֵת
+  morph: X
+- form: פְּנֵי
+  lemma: פָּנֶה
+  morph: MPC
+- form: פַחַת
+  lemma: פֶּחָה
+  morph: MSC
+- form: אַחַד
+  lemma: אֶחָד
+  morph: SC
+- form: עַבְדֵי
+  lemma: עֶבֶד
+  morph: MPC
+- form: אֲדֹנִי
+  lemma: אָדֹון
+  morph: MSA
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: קְטַנִּים
+  lemma: קָטָן
+  morph: MPA
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: תִּבְטַח
+  lemma: בטח
+  morph: QWq2MS
+- form: לְךָ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: מִצְרַיִם
+  lemma: מִצְרַיִם
+  morph: SA
+  affixes: מ
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: רֶכֶב
+  lemma: רֶכֶב
+  morph: MSA
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: פָרָשִׁים
+  lemma: פָּרָשׁ
+  morph: MPA
+---
+וְאֵיךְ תָּשִׁיב אֵת פְּנֵי פַחַת אַחַד עַבְדֵי אֲדֹנִי הַקְטַנִּים וַתִּבְטַח לְךָ עַל־מִצְרַיִם לְרֶכֶב וּלְפָרָשִׁים׃

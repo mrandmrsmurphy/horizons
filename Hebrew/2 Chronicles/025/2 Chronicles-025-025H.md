@@ -1,0 +1,66 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 25
+verse: 25
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יְחִי
+  lemma: חיה
+  morph: QWq3MS
+- form: אֲמַצְיָהוּ
+  lemma: אֲמַצְיָהוּ
+  morph: MSA
+- form: בֶן
+  lemma: בֵּן
+  morph: MSC
+  affixes: ב
+- form: יֹואָשׁ
+  lemma: יֹואָשׁ
+  morph: MSA
+- form: מֶלֶךְ
+  lemma: מֶלֶךְ
+  morph: MSC
+  affixes: מ
+- form: יְהוּדָה
+  lemma: יְהוּדָה
+  morph: SA
+- form: אַחֲרֵי
+  lemma: אַחַר
+  morph: MPC
+- form: מֹות
+  lemma: מָוֶת
+  morph: MSC
+  affixes: מ
+- form: יֹואָשׁ
+  lemma: יֹואָשׁ
+  morph: MSA
+- form: בֶּן
+  lemma: בֵּן
+  morph: MSC
+  affixes: בּ
+- form: יְהֹואָחָז
+  lemma: יְהֹואָחָז
+  morph: MSA
+- form: מֶלֶךְ
+  lemma: מֶלֶךְ
+  morph: MSC
+  affixes: מ
+- form: יִשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+- form: חֲמֵשׁ
+  lemma: חָמֵשׁ
+  morph: SC
+- form: עֶשְׂרֵה
+  lemma: עֶשְׂרֵה
+  morph: SA
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+---
+וַיְחִי אֲמַצְיָהוּ בֶן־יֹואָשׁ מֶלֶךְ יְהוּדָה אַחֲרֵי מֹות יֹואָשׁ בֶּן־יְהֹואָחָז מֶלֶךְ יִשְׂרָאֵל חֲמֵשׁ עֶשְׂרֵה שָׁנָה׃

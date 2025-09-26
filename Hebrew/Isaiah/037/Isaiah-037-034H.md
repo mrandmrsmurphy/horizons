@@ -1,0 +1,67 @@
+---
+language: hebrew
+book: Isaiah
+chapter: 37
+verse: 34
+tokens:
+- form: בַּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: ''
+  lemma: הַ
+  morph: X
+- form: דֶּרֶךְ
+  lemma: דֶּרֶךְ
+  morph: SA
+  affixes: דּ
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: בָּא
+  lemma: בוא
+  morph: QP3MS
+  affixes: בּ
+- form: בָּהּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: יָשׁוּב
+  lemma: שׁוב
+  morph: QI3MS
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֶל
+  lemma: אֶל
+  morph: X
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: עִיר
+  lemma: עִיר
+  morph: FSA
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: זֹּאת
+  lemma: זֹאת
+  morph: FS
+- form: לֹא
+  lemma: לֹא
+  morph: X
+  affixes: ל
+- form: יָבֹוא
+  lemma: בוא
+  morph: QI3MS
+- form: נְאֻם
+  lemma: נְאֻם
+  morph: MSC
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+---
+בַּדֶּרֶךְ אֲשֶׁר־בָּא בָּהּ יָשׁוּב וְאֶל־הָעִיר הַזֹּאת לֹא יָבֹוא נְאֻם־יְהוָה׃

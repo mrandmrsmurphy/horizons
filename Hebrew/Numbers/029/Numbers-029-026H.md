@@ -1,0 +1,63 @@
+---
+language: hebrew
+book: Numbers
+chapter: 29
+verse: 26
+tokens:
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: בַ
+  lemma: בְּ
+  morph: X
+  affixes: ב
+- form: ''
+  lemma: הַ
+  morph: X
+- form: יֹּום
+  lemma: יֹום
+  morph: MSA
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: חֲמִישִׁי
+  lemma: חֲמִישִׁי
+  morph: MSA
+- form: פָּרִים
+  lemma: פַּר
+  morph: MPA
+- form: תִּשְׁעָה
+  lemma: תֵּשַׁע
+  morph: FSA
+- form: אֵילִם
+  lemma: אַיִל
+  morph: MPA
+- form: שְׁנָיִם
+  lemma: שְׁנַיִם
+  morph: DA
+  affixes: ש
+- form: כְּבָשִׂים
+  lemma: כֶּבֶשׂ
+  morph: MPA
+  affixes: כּ
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: אַרְבָּעָה
+  lemma: אַרְבַּע
+  morph: FSA
+- form: עָשָׂר
+  lemma: עָשָׂר
+  morph: SA
+- form: תְּמִימִם
+  lemma: תָּמִים
+  morph: MPA
+---
+וּבַיֹּום הַחֲמִישִׁי פָּרִים תִּשְׁעָה אֵילִם שְׁנָיִם כְּבָשִׂים בְּנֵי־שָׁנָה אַרְבָּעָה עָשָׂר תְּמִימִם׃

@@ -1,0 +1,86 @@
+---
+language: hebrew
+book: Numbers
+chapter: 28
+verse: 19
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: הִקְרַבְתֶּם
+  lemma: קרב
+  morph: HP2MP
+  affixes: ה
+- form: אִשֶּׁה
+  lemma: אִשֶּׁה
+  morph: MSA
+- form: עֹלָה
+  lemma: עֹלָה
+  morph: FSA
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: יהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: פָּרִים
+  lemma: פַּר
+  morph: MPA
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: בָקָר
+  lemma: בָּקָר
+  morph: SA
+  affixes: ב
+- form: שְׁנַיִם
+  lemma: שְׁנַיִם
+  morph: DA
+  affixes: ש
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אַיִל
+  lemma: אַיִל
+  morph: MSA
+- form: אֶחָד
+  lemma: אֶחָד
+  morph: SA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: שִׁבְעָה
+  lemma: שֶׁבַע
+  morph: FSA
+  affixes: ש
+- form: כְבָשִׂים
+  lemma: כֶּבֶשׂ
+  morph: MPA
+  affixes:
+  - כְ
+  - ב
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: שָׁנָה
+  lemma: שָׁנָה
+  morph: FSA
+  affixes: ש
+- form: תְּמִימִם
+  lemma: תָּמִים
+  morph: MPA
+- form: יִהְיוּ
+  lemma: היה
+  morph: QI3MP
+- form: לָכֶם
+  lemma: לְ
+  morph: X
+  affixes: ל
+---
+וְהִקְרַבְתֶּם אִשֶּׁה עֹלָה לַיהוָה פָּרִים בְּנֵי־בָקָר שְׁנַיִם וְאַיִל אֶחָד וְשִׁבְעָה כְבָשִׂים בְּנֵי שָׁנָה תְּמִימִם יִהְיוּ לָכֶם׃

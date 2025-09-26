@@ -1,0 +1,84 @@
+---
+language: hebrew
+book: Isaiah
+chapter: 37
+verse: 17
+tokens:
+- form: הַטֵּה
+  lemma: נטה
+  morph: HIm2MS
+  affixes: הַ
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אָזְנְךָ
+  lemma: אֹזֶן
+  morph: FSA
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: שְׁמָע
+  lemma: שׁמע
+  morph: QIm2MS
+  affixes: ש
+- form: פְּקַח
+  lemma: פקח
+  morph: QIm2MS
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: עֵינֶךָ
+  lemma: עַיִן
+  morph: FDA
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: רְאֵה
+  lemma: ראה
+  morph: QIm2MS
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: שְׁמַע
+  lemma: שׁמע
+  morph: QIm2MS
+  affixes: ש
+- form: אֵת
+  lemma: אֵת
+  morph: X
+- form: כָּל
+  lemma: כֹּל
+  morph: MSC
+  affixes: כּ
+- form: דִּבְרֵי
+  lemma: דָּבָר
+  morph: MPC
+  affixes: דּ
+- form: סַנְחֵרִיב
+  lemma: סַנְחֵרִיב
+  morph: MSA
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: שָׁלַח
+  lemma: שׁלח
+  morph: QP3MS
+  affixes: ש
+- form: לְ
+  lemma: לְ
+  morph: X
+  affixes: לְ
+- form: חָרֵף
+  lemma: חרף
+  morph: PIcunknown
+- form: אֱלֹהִים
+  lemma: אֱלֹהִים
+  morph: MPA
+- form: חָי
+  lemma: חַי
+  morph: MSA
+---
+הַטֵּה יְהוָה׀ אָזְנְךָ וּשְׁמָע פְּקַח יְהוָה עֵינֶךָ וּרְאֵה וּשְׁמַע אֵת כָּל־דִּבְרֵי סַנְחֵרִיב אֲשֶׁר שָׁלַח לְחָרֵף אֱלֹהִים חָי׃

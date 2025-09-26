@@ -1,0 +1,42 @@
+---
+language: hebrew
+book: 1 Chronicles
+chapter: 1
+verse: 18
+tokens:
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אַרְפַּכְשַׁד
+  lemma: אַרְפַּכְשָׁד
+  morph: MSA
+- form: יָלַד
+  lemma: ילד
+  morph: QP3MS
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: שָׁלַח
+  lemma: שֶׁלַח
+  morph: MSA
+  affixes: ש
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: שֶׁלַח
+  lemma: שֶׁלַח
+  morph: MSA
+  affixes: ש
+- form: יָלַד
+  lemma: ילד
+  morph: QP3MS
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: עֵבֶר
+  lemma: עֵבֶר
+  morph: MSA
+---
+וְאַרְפַּכְשַׁד יָלַד אֶת־שָׁלַח וְשֶׁלַח יָלַד אֶת־עֵבֶר׃

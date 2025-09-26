@@ -1,0 +1,73 @@
+---
+language: hebrew
+book: Numbers
+chapter: 29
+verse: 37
+tokens:
+- form: מִנְחָתָם
+  lemma: מִנְחָה
+  morph: FSA
+  affixes: מ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: נִסְכֵּיהֶם
+  lemma: נֵסֶךְ
+  morph: MPA
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: ''
+  lemma: הַ
+  morph: X
+- form: פָּר
+  lemma: פַּר
+  morph: MSA
+- form: לָ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: ''
+  lemma: הַ
+  morph: X
+- form: אַיִל
+  lemma: אַיִל
+  morph: MSA
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: לַ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: ''
+  lemma: הַ
+  morph: X
+- form: כְּבָשִׂים
+  lemma: כֶּבֶשׂ
+  morph: MPA
+  affixes: כּ
+- form: בְּ
+  lemma: בְּ
+  morph: X
+  affixes: בּ
+- form: מִסְפָּרָם
+  lemma: מִסְפָּר
+  morph: MSA
+  affixes: מ
+- form: כַּ
+  lemma: כְּ
+  morph: X
+  affixes: כּ
+- form: ''
+  lemma: הַ
+  morph: X
+- form: מִּשְׁפָּט
+  lemma: מִשְׁפָּט
+  morph: MSA
+  affixes: מּ
+---
+מִנְחָתָם וְנִסְכֵּיהֶם לַפָּר לָאַיִל וְלַכְּבָשִׂים בְּמִסְפָּרָם כַּמִּשְׁפָּט׃

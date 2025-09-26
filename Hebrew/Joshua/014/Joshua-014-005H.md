@@ -1,0 +1,59 @@
+---
+language: hebrew
+book: Joshua
+chapter: 14
+verse: 5
+tokens:
+- form: כַּ
+  lemma: כְּ
+  morph: X
+  affixes: כּ
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: X
+- form: צִוָּה
+  lemma: צוה
+  morph: PP3MS
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: מֹשֶׁה
+  lemma: מֹשֶׁה
+  morph: MSA
+  affixes: מ
+- form: כֵּן
+  lemma: כֵּן
+  morph: X
+  affixes: כּ
+- form: עָשׂוּ
+  lemma: עשׂה
+  morph: QP3P
+- form: בְּנֵי
+  lemma: בֵּן
+  morph: MPC
+  affixes: בּ
+- form: יִשְׂרָאֵל
+  lemma: יִשְׂרָאֵל
+  morph: SA
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יַּחְלְקוּ
+  lemma: חלק
+  morph: QWq3MP
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: הָ
+  lemma: הַ
+  morph: X
+  affixes: הָ
+- form: אָרֶץ
+  lemma: אֶרֶץ
+  morph: SA
+---
+כַּאֲשֶׁר צִוָּה יְהוָה אֶת־מֹשֶׁה כֵּן עָשׂוּ בְּנֵי יִשְׂרָאֵל וַיַּחְלְקוּ אֶת־הָאָרֶץ׃ פ׃

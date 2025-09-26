@@ -1,0 +1,67 @@
+---
+language: hebrew
+book: 1 Chronicles
+chapter: 10
+verse: 5
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יַּרְא
+  lemma: ראה
+  morph: QWq3MS
+- form: נֹשֵׂא
+  lemma: נשׂא
+  morph: QPtunknownMS
+- form: כֵלָיו
+  lemma: כְּלִי
+  morph: MPA
+  affixes: כ
+- form: כִּי
+  lemma: כִּי
+  morph: X
+  affixes: כּ
+- form: מֵת
+  lemma: מות
+  morph: QP3MS
+  affixes: מ
+- form: שָׁאוּל
+  lemma: שָׁאוּל
+  morph: MSA
+  affixes: ש
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּפֹּל
+  lemma: נפל
+  morph: QWq3MS
+- form: גַּם
+  lemma: גַּם
+  morph: X
+- form: הוּא
+  lemma: הוּא
+  morph: MS
+  affixes:
+  - ה
+  - וּ
+- form: עַל
+  lemma: עַל
+  morph: X
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: חֶרֶב
+  lemma: חֶרֶב
+  morph: FSA
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יָּמֹת
+  lemma: מות
+  morph: QWq3MS
+---
+וַיַּרְא נֹשֵׂא־כֵלָיו כִּי מֵת שָׁאוּל וַיִּפֹּל גַּם־הוּא עַל־הַחֶרֶב וַיָּמֹת׃ ס׃

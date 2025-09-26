@@ -1,0 +1,49 @@
+---
+language: hebrew
+book: 1 Chronicles
+chapter: 16
+verse: 20
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יִּתְהַלְּכוּ
+  lemma: הלך
+  morph: HtWq3MP
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: גֹּוי
+  lemma: גֹּוי
+  morph: MSA
+- form: אֶל
+  lemma: אֶל
+  morph: X
+- form: גֹּוי
+  lemma: גֹּוי
+  morph: MSA
+- form: וּ
+  lemma: וְ
+  morph: X
+  affixes: וּ
+- form: מִ
+  lemma: מִן
+  morph: X
+  affixes: מ
+- form: מַּמְלָכָה
+  lemma: מַמְלָכָה
+  morph: FSA
+  affixes: מּ
+- form: אֶל
+  lemma: אֶל
+  morph: X
+- form: עַם
+  lemma: עַם
+  morph: MSA
+- form: אַחֵר
+  lemma: אַחֵר
+  morph: MSA
+---
+וַיִּתְהַלְּכוּ מִגֹּוי אֶל־גֹּוי וּמִמַּמְלָכָה אֶל־עַם אַחֵר׃

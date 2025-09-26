@@ -1,0 +1,42 @@
+---
+language: hebrew
+book: Numbers
+chapter: 16
+verse: 20
+tokens:
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יְדַבֵּר
+  lemma: דבר
+  morph: PWq3MS
+- form: יְהוָה
+  lemma: יְהוָה
+  morph: MSA
+- form: אֶל
+  lemma: אֶל
+  morph: X
+- form: מֹשֶׁה
+  lemma: מֹשֶׁה
+  morph: MSA
+  affixes: מ
+- form: וְ
+  lemma: וְ
+  morph: X
+  affixes: וְ
+- form: אֶל
+  lemma: אֶל
+  morph: X
+- form: אַהֲרֹן
+  lemma: אַהֲרֹן
+  morph: MSA
+- form: לֵ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: אמֹר
+  lemma: אמר
+  morph: QIcunknown
+---
+וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן לֵאמֹר׃

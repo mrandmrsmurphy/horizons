@@ -1,0 +1,59 @@
+---
+language: hebrew
+book: 2 Chronicles
+chapter: 26
+verse: 2
+tokens:
+- form: הוּא
+  lemma: הוּא
+  morph: MS
+  affixes:
+  - ה
+  - וּ
+- form: בָּנָה
+  lemma: בנה
+  morph: QP3MS
+  affixes: בּ
+- form: אֶת
+  lemma: אֵת
+  morph: X
+- form: אֵילֹות
+  lemma: אֵילַת
+  morph: SA
+- form: וַ
+  lemma: וְ
+  morph: X
+  affixes: ו
+- form: יְשִׁיבֶהָ
+  lemma: שׁוב
+  morph: HWq3MS
+- form: לִ
+  lemma: לְ
+  morph: X
+  affixes: ל
+- form: יהוּדָה
+  lemma: יְהוּדָה
+  morph: SA
+- form: אַחֲרֵי
+  lemma: אַחַר
+  morph: MPC
+- form: שְׁכַב
+  lemma: שׁכב
+  morph: QIcunknown
+  affixes: ש
+- form: הַ
+  lemma: הַ
+  morph: X
+  affixes: הַ
+- form: מֶּלֶךְ
+  lemma: מֶלֶךְ
+  morph: MSA
+  affixes: מּ
+- form: עִם
+  lemma: עִם
+  morph: X
+- form: אֲבֹתָיו
+  lemma: אָב
+  morph: MPA
+---
+הוּא בָּנָה אֶת־אֵילֹות וַיְשִׁיבֶהָ לִיהוּדָה אַחֲרֵי שְׁכַב־הַמֶּלֶךְ עִם־אֲבֹתָיו׃ פ׃
