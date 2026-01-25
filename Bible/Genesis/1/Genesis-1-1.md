@@ -1,15 +1,13 @@
 ---
-title: "Genesis 1:1"
-book: "Genesis"
+title: Genesis 1:1
+book: Genesis
 chapter: 1
 verse: 1
-section: Creation Story
+section: "[[Creation Story]]"
+language: Hebrew
 ---
-![[/Greek/Genesis/001/Genesis-001-001G.md#Text]]
-![[/Hebrew/Genesis/001/Genesis-001-001H.md#Text]]
-
-{{Perfect}}
-
+![[/Hebrew/Genesis/001/Genesis-001-001H.md]]
+![[/Greek/Genesis/001/Genesis-001-001G.md]]
 ## Analysis
 
 ### Words

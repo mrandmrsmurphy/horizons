@@ -13,29 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greek/1 Peter/001/1 Peter-001-001G.md",
-                "mode": "source",
+                "file": "Greek/Lexicon/ΕΝ.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1 Peter-001-001G"
+              "title": "ΕΝ"
+            }
+          },
+          {
+            "id": "742bf45179603045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greek/Strongs/1700.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1700"
+            }
+          },
+          {
+            "id": "72005fc0ddc23430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/1 Chronicles/1/1 Chronicles-1-1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1 Chronicles-1-1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6fc99f75f2190205",
+    "id": "4996ad9330255fbd",
     "type": "split",
     "children": [
       {
-        "id": "2bd0e9d311af3720",
+        "id": "3a2530fc48b9db41",
         "type": "tabs",
         "children": [
           {
-            "id": "d9a3917bcb3d6dc0",
+            "id": "5781ca7758156cae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +77,7 @@
             }
           },
           {
-            "id": "6f67adcd2d91feb2",
+            "id": "8b0c0f38c1366c77",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +94,7 @@
             }
           },
           {
-            "id": "eaf29d70af44b12d",
+            "id": "10cf7976f817a28f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +110,20 @@
     "width": 300
   },
   "right": {
-    "id": "28f983b565eddb7e",
+    "id": "1448607e183430c0",
     "type": "split",
     "children": [
       {
-        "id": "505c5bbb3aefd8a9",
+        "id": "dd1ca6ef1ac157ee",
         "type": "tabs",
         "children": [
           {
-            "id": "b4fb5a3417494f0c",
+            "id": "35bc98e36db3a5b0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Bible/1 Chronicles/1/1 Chronicles-1-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +133,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 1 Chronicles-1-1"
             }
           },
           {
-            "id": "6dafc4e014fa65e2",
+            "id": "f6b4b4d452ef4a04",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "89bf2b6483e2cf4e",
+            "id": "2934dd73dd270e8e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +165,22 @@
             }
           },
           {
-            "id": "89a3322f8999a2ce",
+            "id": "77ea5800c74b84d4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Bible/1 Chronicles/1/1 Chronicles-1-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 1 Chronicles-1-1"
             }
           },
           {
-            "id": "4afdba545be0775c",
+            "id": "dd672a85f6258abd",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -182,43 +210,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5781ca7758156cae",
   "lastOpenFiles": [
-    "Bible/1 Peter/1/1 Peter-1-1.md",
-    "Bible/1 Peter/1/1 Peter-1-2.md",
-    "Greek/1 Peter/001/1 Peter-001-001G.md",
-    "Home.md",
-    "Greek/1 Chronicles/001/1 Chronicles-001-001G.md",
-    "templates/season-core.tpl.md",
-    "templates",
-    "Bible/Deuteronomy/32/Deuteronomy-32-11.md",
-    "Bible/Genesis/1/Genesis-1-2.md",
-    "Bible/Psalm/33/Psalm-33-6.md",
+    "Greek/Lexicon/Α.md",
+    "Greek/Lexicon/ΕΝ.md",
+    "Greek/Strongs/0000.md",
+    "Greek/Strongs/Index of Greek Strongs.md",
+    "Greek/Strongs/1700.md",
+    "Bible/1 Timothy/1/1 Timothy-1-1.md",
+    "Greek/Strongs",
     "Bible/Genesis/1/Genesis-1-1.md",
-    "Bible/2 John/1/2 John-1-3.md",
-    "Bible/2 John/1/2 John-1-2.md",
-    "Bible/2 John/1/2 John-1-1.md",
-    "Bible/1 Corinthians/1/1 Corinthians-1-1.md",
-    "Acts-018-017.md",
-    "Greek/1 Chronicles/021/1 Chronicles-021-001G.md",
-    "Bible/1 Chronicles/21/1 Chronicles-21-1.md",
-    "Bible/1 Chronicles/22/1 Chronicles-22-2.md",
-    "Bible/1 Chronicles/22/1 Chronicles-22-1.md",
-    "Greek/1 Chronicles/022/1 Chronicles-022-001G.md",
-    "Greek/1 Chronicles/022/1 Chronicles-022-002G.md",
-    "Greek/1 Corinthians/001/1 Corinthians-001-030G.md",
-    "Greek/1 Corinthians/001/1 Corinthians-001-009G.md",
-    "Greek/1 Corinthians/001/1 Corinthians-001-008G.md",
-    "Greek/1 Corinthians/001/1 Corinthians-001-003G.md",
-    "Greek/1 Corinthians/001/1 Corinthians-001-002G.md",
-    "Bible/Zephaniah/3",
-    "Bible/Zephaniah/2",
-    "Bible/Zephaniah/1",
-    "Bible/Zephaniah",
-    "Bible/Zechariah/9",
-    "Bible/Zechariah/8",
-    "Bible/Zechariah/7",
-    "Bible/Zechariah/6",
-    "Bible/Zechariah/5"
+    "Greek/Lexicon",
+    "Greek/Genesis/001/Genesis-001-001G.md",
+    "Hebrew/Genesis/001/Genesis-001-001H.md",
+    "Greek/1 Timothy/001/1 Timothy-001-001G.md",
+    "Hebrew/1 Chronicles/001/1 Chronicles-001-001H.md",
+    "Bible/1 Chronicles/1/1 Chronicles-1-1.md",
+    "Greek/1 Chronicles/001/1 Chronicles-001-001G.md",
+    "Home.md"
   ]
 }
