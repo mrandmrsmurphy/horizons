@@ -13,3 +13,6 @@ Icon
 .Spotlight-V100
 .Trashes
 
+
+# macOS
+.DS_Store
