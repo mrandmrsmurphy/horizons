@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "Bible/Revelation/1/Revelation-1-8.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Revelation-1-8"
             }
           }
         ]
@@ -181,12 +181,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5781ca7758156cae",
   "lastOpenFiles": [
-    "Bible/1 Chronicles/1/1 Chronicles-1-1.md",
+    "greek.xml",
     "Greek/Lexicon/Α.md",
-    "Greek/Lexicon/ΕΝ.md",
     "Greek/Strongs/0000.md",
+    "CLAUDE.md",
+    "Bible/1 Chronicles/1/1 Chronicles-1-1.md",
+    "CLAUDE.md.tmp.34834.69059fff9209",
+    "Home.md",
+    "Greek/Lexicon/ΕΝ.md",
     "Greek/Strongs/Index of Greek Strongs.md",
     "Greek/Strongs/1700.md",
     "Bible/1 Timothy/1/1 Timothy-1-1.md",
@@ -197,7 +201,6 @@
     "Hebrew/Genesis/001/Genesis-001-001H.md",
     "Greek/1 Timothy/001/1 Timothy-001-001G.md",
     "Hebrew/1 Chronicles/001/1 Chronicles-001-001H.md",
-    "Greek/1 Chronicles/001/1 Chronicles-001-001G.md",
-    "Home.md"
+    "Greek/1 Chronicles/001/1 Chronicles-001-001G.md"
   ]
 }
