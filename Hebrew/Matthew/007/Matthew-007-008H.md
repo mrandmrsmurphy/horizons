@@ -1,0 +1,20 @@
+---
+language: hebrew
+book: Matthew
+chapter: 7
+verse: 8
+tokens:
+- form: כִּי
+  lemma: כִּי
+  morph: ""
+- form: כָּל
+  lemma: כל
+  morph: MSC
+- form: יִמְצָא
+  lemma: מצא
+  morph: QI3MS
+- form: לוֹ
+  lemma: לא
+  morph: ""
+---
+[[Hebrew/Lexicon/כִּי|כִּי]] [[Hebrew/Lexicon/כל|כָּל]][[Hebrew/Morphology/MSC|ˑ]] [[Hebrew/Lexicon/מצא|יִמְצָא]][[Hebrew/Morphology/QI3MS|ˑ]] [[Hebrew/Lexicon/לא|לוֹ]]

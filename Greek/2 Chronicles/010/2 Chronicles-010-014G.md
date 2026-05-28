@@ -1,0 +1,113 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 10
+verse: 14
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐλάλησεν"
+    lemma: "ΛΑΛΕΩ"
+    morph: 3SAIA
+  - form: "πρὸς"
+    lemma: "ΠΡΟΣ"
+    morph: ""
+  - form: "αὐτοὺς"
+    lemma: "ΑΥΤΟΣ"
+    morph: APM
+  - form: "κατὰ"
+    lemma: "ΚΑΤΑ"
+    morph: ""
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "βουλὴν"
+    lemma: "ΒΟΥΛΗ"
+    morph: ASF
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPM
+  - form: "νεωτέρων"
+    lemma: "ΝΕΟΣ"
+    morph: GPM
+  - form: "λέγων"
+    lemma: "ΛΕΓΩ"
+    morph: PAP/NSM
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "πατήρ"
+    lemma: "ΠΑΤΗΡ"
+    morph: NSM
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ἐβάρυνεν"
+    lemma: "ΒΑΡΥΝΩ"
+    morph: 3SIIA
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "ζυγὸν"
+    lemma: "ΖΥΓΟΣ"
+    morph: ASM
+  - form: "ὑμῶν"
+    lemma: "ΣΥ"
+    morph: GP
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐγὼ"
+    lemma: "ΕΓΩ"
+    morph: NS
+  - form: "προσθήσω"
+    lemma: "ΠΡΟΣΤΙΘΗΜΙ"
+    morph: 1SFIA
+  - form: "ἐπ'"
+    lemma: "ΕΠΙ"
+    morph: ""
+  - form: "αὐτόν"
+    lemma: "ΑΥΤΟΣ"
+    morph: ASM
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "πατήρ"
+    lemma: "ΠΑΤΗΡ"
+    morph: NSM
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ἐπαίδευσεν"
+    lemma: "ΠΑΙΔΕΥΩ"
+    morph: 3SAIA
+  - form: "ὑμᾶς"
+    lemma: "ΣΥ"
+    morph: AP
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "μάστιγξιν"
+    lemma: "ΜΑΣΤΙΞ"
+    morph: DPF
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐγὼ"
+    lemma: "ΕΓΩ"
+    morph: NS
+  - form: "παιδεύσω"
+    lemma: "ΠΑΙΔΕΥΩ"
+    morph: 1SFIA
+  - form: "ὑμᾶς"
+    lemma: "ΣΥ"
+    morph: AP
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "σκορπίοις"
+    lemma: "ΣΚΟΡΠΙΟΣ"
+    morph: DPM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΑΛΕΩ — 3SAIA">[[/Greek/Lexicon/ΛΑΛΕΩ|ἐλάλησεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΠΡΟΣ">[[/Greek/Lexicon/ΠΡΟΣ|πρὸς]]</span> <span class="tok" title="ΑΥΤΟΣ — APM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοὺς]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="ΚΑΤΑ">[[/Greek/Lexicon/ΚΑΤΑ|κατὰ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΒΟΥΛΗ — ASF">[[/Greek/Lexicon/ΒΟΥΛΗ|βουλὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="Ο — GPM">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΝΕΟΣ — GPM">[[/Greek/Lexicon/ΝΕΟΣ|νεωτέρων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΛΕΓΩ — PAP/NSM">[[/Greek/Lexicon/ΛΕΓΩ|λέγων]][[/Greek/Morphology/PAP_NSM|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΠΑΤΗΡ — NSM">[[/Greek/Lexicon/ΠΑΤΗΡ|πατήρ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΒΑΡΥΝΩ — 3SIIA">[[/Greek/Lexicon/ΒΑΡΥΝΩ|ἐβάρυνεν]][[/Greek/Morphology/3SIIA|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΖΥΓΟΣ — ASM">[[/Greek/Lexicon/ΖΥΓΟΣ|ζυγὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΣΥ — GP">[[/Greek/Lexicon/ΣΥ|ὑμῶν]][[/Greek/Morphology/GP|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΓΩ — NS">[[/Greek/Lexicon/ΕΓΩ|ἐγὼ]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΠΡΟΣΤΙΘΗΜΙ — 1SFIA">[[/Greek/Lexicon/ΠΡΟΣΤΙΘΗΜΙ|προσθήσω]][[/Greek/Morphology/1SFIA|ˑ]]</span> <span class="tok" title="ΕΠΙ">[[/Greek/Lexicon/ΕΠΙ|ἐπ']]</span> <span class="tok" title="ΑΥΤΟΣ — ASM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτόν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΠΑΤΗΡ — NSM">[[/Greek/Lexicon/ΠΑΤΗΡ|πατήρ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΠΑΙΔΕΥΩ — 3SAIA">[[/Greek/Lexicon/ΠΑΙΔΕΥΩ|ἐπαίδευσεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΣΥ — AP">[[/Greek/Lexicon/ΣΥ|ὑμᾶς]][[/Greek/Morphology/AP|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΜΑΣΤΙΞ — DPF">[[/Greek/Lexicon/ΜΑΣΤΙΞ|μάστιγξιν]][[/Greek/Morphology/DPF|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΓΩ — NS">[[/Greek/Lexicon/ΕΓΩ|ἐγὼ]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΠΑΙΔΕΥΩ — 1SFIA">[[/Greek/Lexicon/ΠΑΙΔΕΥΩ|παιδεύσω]][[/Greek/Morphology/1SFIA|ˑ]]</span> <span class="tok" title="ΣΥ — AP">[[/Greek/Lexicon/ΣΥ|ὑμᾶς]][[/Greek/Morphology/AP|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΣΚΟΡΠΙΟΣ — DPM">[[/Greek/Lexicon/ΣΚΟΡΠΙΟΣ|σκορπίοις]][[/Greek/Morphology/DPM|ˑ]]</span>

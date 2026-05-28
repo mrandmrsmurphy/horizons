@@ -1,0 +1,23 @@
+---
+language: greek
+book: Nehemiah
+chapter: 7
+verse: 27
+tokens:
+  - form: "υἱοὶ"
+    lemma: "ΥΙΟΣ"
+    morph: NPM
+  - form: "αναθωθ"
+    lemma: "ΑΝΑΘΩΘ"
+    morph: GSM
+  - form: "ἑκατὸν"
+    lemma: "ΕΚΑΤΟΝ"
+    morph: ""
+  - form: "εἴκοσι"
+    lemma: "ΕΙΚΟΣΙ"
+    morph: ""
+  - form: "ὀκτώ"
+    lemma: "ΟΚΤΩ"
+    morph: ""
+---
+<span class="tok" title="ΥΙΟΣ — NPM">[[/Greek/Lexicon/ΥΙΟΣ|υἱοὶ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΑΝΑΘΩΘ — GSM">[[/Greek/Lexicon/ΑΝΑΘΩΘ|αναθωθ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΕΚΑΤΟΝ">[[/Greek/Lexicon/ΕΚΑΤΟΝ|ἑκατὸν]]</span> <span class="tok" title="ΕΙΚΟΣΙ">[[/Greek/Lexicon/ΕΙΚΟΣΙ|εἴκοσι]]</span> <span class="tok" title="ΟΚΤΩ">[[/Greek/Lexicon/ΟΚΤΩ|ὀκτώ]]</span>

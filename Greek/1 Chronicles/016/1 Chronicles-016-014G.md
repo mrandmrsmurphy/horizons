@@ -1,0 +1,44 @@
+---
+language: greek
+book: 1 Chronicles
+chapter: 16
+verse: 14
+tokens:
+  - form: "αὐτὸς"
+    lemma: "ΑΥΤΟΣ"
+    morph: NSM
+  - form: "κύριος"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: NSM
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "Θεὸς"
+    lemma: "ΘΕΟΣ"
+    morph: NSM
+  - form: "ἡμῶν"
+    lemma: "ΕΓΩ"
+    morph: GP
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "πάσῃ"
+    lemma: "ΠΑΣ"
+    morph: DSF
+  - form: "τῇ"
+    lemma: "Ο"
+    morph: DSF
+  - form: "γῇ"
+    lemma: "ΓΗ"
+    morph: DSF
+  - form: "τὰ"
+    lemma: "Ο"
+    morph: APN
+  - form: "κρίματα"
+    lemma: "ΚΡΙΜΑ"
+    morph: APN
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+---
+<span class="tok" title="ΑΥΤΟΣ — NSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΥΡΙΟΣ — NSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ|κύριος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — NSM">[[/Greek/Lexicon/ΘΕΟΣ|Θεὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GP">[[/Greek/Lexicon/ΕΓΩ|ἡμῶν]][[/Greek/Morphology/GP|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΠΑΣ — DSF">[[/Greek/Lexicon/ΠΑΣ|πάσῃ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="Ο — DSF">[[/Greek/Lexicon/Ο|τῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΓΗ — DSF">[[/Greek/Lexicon/ΓΗ|γῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="Ο — APN">[[/Greek/Lexicon/Ο|τὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΚΡΙΜΑ — APN">[[/Greek/Lexicon/ΚΡΙΜΑ|κρίματα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span>

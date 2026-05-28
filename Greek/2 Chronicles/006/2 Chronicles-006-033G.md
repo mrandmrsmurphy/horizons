@@ -1,0 +1,164 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 6
+verse: 33
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἰσακούσῃ"
+    lemma: "ΕΙΣΑΚΟΥΩ"
+    morph: 2SFIA
+  - form: "ἐκ"
+    lemma: "ΕΚ"
+    morph: ""
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "οὐρανοῦ"
+    lemma: "ΟΥΡΑΝΟΣ"
+    morph: GSM
+  - form: "ἐξ"
+    lemma: "ΕΚ"
+    morph: ""
+  - form: "ἑτοίμου"
+    lemma: "ΕΤΟΙΜΟΣ"
+    morph: GSN
+  - form: "κατοικητηρίου"
+    lemma: "ΚΑΤΟΙΚΗΤΗΡΙΟΝ"
+    morph: GSN
+  - form: "σου"
+    lemma: "ΣΥ"
+    morph: GS
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ποιήσεις"
+    lemma: "ΠΟΙΕΩ"
+    morph: 2SFIA
+  - form: "κατὰ"
+    lemma: "ΚΑΤΑ"
+    morph: ""
+  - form: "πάντα"
+    lemma: "ΠΑΣ"
+    morph: APN
+  - form: "ὅσα"
+    lemma: "ΟΣΟΣ"
+    morph: APN
+  - form: "ἐὰν"
+    lemma: "ΕΑΝ"
+    morph: ""
+  - form: "ἐπικαλέσηταί"
+    lemma: "ΕΠΙΚΑΛΕΩ"
+    morph: 3SASM
+  - form: "σε"
+    lemma: "ΣΥ"
+    morph: AS
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "ἀλλότριος"
+    lemma: "ΑΛΛΟΤΡΙΟΣ"
+    morph: NSM
+  - form: "ὅπως"
+    lemma: "ΟΠΩΣ"
+    morph: ""
+  - form: "γνῶσιν"
+    lemma: "ΓΙΓΝΩΣΚΩ"
+    morph: 3PASA
+  - form: "πάντες"
+    lemma: "ΠΑΣ"
+    morph: NPM
+  - form: "οἱ"
+    lemma: "Ο"
+    morph: NPM
+  - form: "λαοὶ"
+    lemma: "ΛΑΟΣ"
+    morph: NPM
+  - form: "τῆς"
+    lemma: "Ο"
+    morph: GSF
+  - form: "γῆς"
+    lemma: "ΓΗ"
+    morph: GSF
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: ASN
+  - form: "ὄνομά"
+    lemma: "ΟΝΟΜΑ"
+    morph: ASN
+  - form: "σου"
+    lemma: "ΣΥ"
+    morph: GS
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSN
+  - form: "φοβεῖσθαί"
+    lemma: "ΦΟΒΕΩ"
+    morph: PMI
+  - form: "σε"
+    lemma: "ΣΥ"
+    morph: AS
+  - form: "ὡς"
+    lemma: "ΩΣ"
+    morph: ""
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "λαός"
+    lemma: "ΛΑΟΣ"
+    morph: NSM
+  - form: "σου"
+    lemma: "ΣΥ"
+    morph: GS
+  - form: "Ἰσραήλ"
+    lemma: "ΙΣΡΑΗΛ"
+    morph: NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSN
+  - form: "γνῶναι"
+    lemma: "ΓΙΓΝΩΣΚΩ"
+    morph: AAI
+  - form: "ὅτι"
+    lemma: "ΟΤΙ"
+    morph: ""
+  - form: "ἐπικέκληται"
+    lemma: "ΕΠΙΚΑΛΕΩ"
+    morph: 3SRIM
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: NSN
+  - form: "ὄνομά"
+    lemma: "ΟΝΟΜΑ"
+    morph: NSN
+  - form: "σου"
+    lemma: "ΣΥ"
+    morph: GS
+  - form: "ἐπὶ"
+    lemma: "ΕΠΙ"
+    morph: ""
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "οἶκον"
+    lemma: "ΟΙΚΟΣ"
+    morph: ASM
+  - form: "τοῦτον"
+    lemma: "ΟΥΤΟΣ"
+    morph: ASM
+  - form: "ὃν"
+    lemma: "ΟΣ"
+    morph: ASM
+  - form: "ᾠκοδόμησα"
+    lemma: "ΟΙΚΟΔΟΜΕΩ"
+    morph: 1SAIA
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΙΣΑΚΟΥΩ — 2SFIA">[[/Greek/Lexicon/ΕΙΣΑΚΟΥΩ|εἰσακούσῃ]][[/Greek/Morphology/2SFIA|ˑ]]</span> <span class="tok" title="ΕΚ">[[/Greek/Lexicon/ΕΚ|ἐκ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΟΥΡΑΝΟΣ — GSM">[[/Greek/Lexicon/ΟΥΡΑΝΟΣ|οὐρανοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΕΚ">[[/Greek/Lexicon/ΕΚ|ἐξ]]</span> <span class="tok" title="ΕΤΟΙΜΟΣ — GSN">[[/Greek/Lexicon/ΕΤΟΙΜΟΣ|ἑτοίμου]][[/Greek/Morphology/GSN|ˑ]]</span> <span class="tok" title="ΚΑΤΟΙΚΗΤΗΡΙΟΝ — GSN">[[/Greek/Lexicon/ΚΑΤΟΙΚΗΤΗΡΙΟΝ|κατοικητηρίου]][[/Greek/Morphology/GSN|ˑ]]</span> <span class="tok" title="ΣΥ — GS">[[/Greek/Lexicon/ΣΥ|σου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΠΟΙΕΩ — 2SFIA">[[/Greek/Lexicon/ΠΟΙΕΩ|ποιήσεις]][[/Greek/Morphology/2SFIA|ˑ]]</span> <span class="tok" title="ΚΑΤΑ">[[/Greek/Lexicon/ΚΑΤΑ|κατὰ]]</span> <span class="tok" title="ΠΑΣ — APN">[[/Greek/Lexicon/ΠΑΣ|πάντα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΟΣΟΣ — APN">[[/Greek/Lexicon/ΟΣΟΣ|ὅσα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΕΑΝ">[[/Greek/Lexicon/ΕΑΝ|ἐὰν]]</span> <span class="tok" title="ΕΠΙΚΑΛΕΩ — 3SASM">[[/Greek/Lexicon/ΕΠΙΚΑΛΕΩ|ἐπικαλέσηταί]][[/Greek/Morphology/3SASM|ˑ]]</span> <span class="tok" title="ΣΥ — AS">[[/Greek/Lexicon/ΣΥ|σε]][[/Greek/Morphology/AS|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΛΛΟΤΡΙΟΣ — NSM">[[/Greek/Lexicon/ΑΛΛΟΤΡΙΟΣ|ἀλλότριος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΟΠΩΣ">[[/Greek/Lexicon/ΟΠΩΣ|ὅπως]]</span> <span class="tok" title="ΓΙΓΝΩΣΚΩ — 3PASA">[[/Greek/Lexicon/ΓΙΓΝΩΣΚΩ|γνῶσιν]][[/Greek/Morphology/3PASA|ˑ]]</span> <span class="tok" title="ΠΑΣ — NPM">[[/Greek/Lexicon/ΠΑΣ|πάντες]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="Ο — NPM">[[/Greek/Lexicon/Ο|οἱ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΛΑΟΣ — NPM">[[/Greek/Lexicon/ΛΑΟΣ|λαοὶ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="Ο — GSF">[[/Greek/Lexicon/Ο|τῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΓΗ — GSF">[[/Greek/Lexicon/ΓΗ|γῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΟΝΟΜΑ — ASN">[[/Greek/Lexicon/ΟΝΟΜΑ|ὄνομά]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΣΥ — GS">[[/Greek/Lexicon/ΣΥ|σου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — GSN">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSN|ˑ]]</span> <span class="tok" title="ΦΟΒΕΩ — PMI">[[/Greek/Lexicon/ΦΟΒΕΩ|φοβεῖσθαί]][[/Greek/Morphology/PMI|ˑ]]</span> <span class="tok" title="ΣΥ — AS">[[/Greek/Lexicon/ΣΥ|σε]][[/Greek/Morphology/AS|ˑ]]</span> <span class="tok" title="ΩΣ">[[/Greek/Lexicon/ΩΣ|ὡς]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΛΑΟΣ — NSM">[[/Greek/Lexicon/ΛΑΟΣ|λαός]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΣΥ — GS">[[/Greek/Lexicon/ΣΥ|σου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΙΣΡΑΗΛ — NSM">[[/Greek/Lexicon/ΙΣΡΑΗΛ|Ἰσραήλ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — GSN">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSN|ˑ]]</span> <span class="tok" title="ΓΙΓΝΩΣΚΩ — AAI">[[/Greek/Lexicon/ΓΙΓΝΩΣΚΩ|γνῶναι]][[/Greek/Morphology/AAI|ˑ]]</span> <span class="tok" title="ΟΤΙ">[[/Greek/Lexicon/ΟΤΙ|ὅτι]]</span> <span class="tok" title="ΕΠΙΚΑΛΕΩ — 3SRIM">[[/Greek/Lexicon/ΕΠΙΚΑΛΕΩ|ἐπικέκληται]][[/Greek/Morphology/3SRIM|ˑ]]</span> <span class="tok" title="Ο — NSN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="ΟΝΟΜΑ — NSN">[[/Greek/Lexicon/ΟΝΟΜΑ|ὄνομά]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="ΣΥ — GS">[[/Greek/Lexicon/ΣΥ|σου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΕΠΙ">[[/Greek/Lexicon/ΕΠΙ|ἐπὶ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΟΙΚΟΣ — ASM">[[/Greek/Lexicon/ΟΙΚΟΣ|οἶκον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΟΥΤΟΣ — ASM">[[/Greek/Lexicon/ΟΥΤΟΣ|τοῦτον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΟΣ — ASM">[[/Greek/Lexicon/ΟΣ|ὃν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΟΙΚΟΔΟΜΕΩ — 1SAIA">[[/Greek/Lexicon/ΟΙΚΟΔΟΜΕΩ|ᾠκοδόμησα]][[/Greek/Morphology/1SAIA|ˑ]]</span>

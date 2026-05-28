@@ -1,0 +1,47 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 24
+verse: 2
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐποίησεν"
+    lemma: "ΠΟΙΕΩ"
+    morph: 3SAIA
+  - form: "ιωας"
+    lemma: "ΙΩΑΣ"
+    morph: NSM
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: ASN
+  - form: "εὐθὲς"
+    lemma: "ΕΥΘΥΣ"
+    morph: ASN
+  - form: "ἐνώπιον"
+    lemma: "ΕΝΩΠΙΟΝ"
+    morph: ""
+  - form: "κυρίου"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: GSM
+  - form: "πάσας"
+    lemma: "ΠΑΣ"
+    morph: APF
+  - form: "τὰς"
+    lemma: "Ο"
+    morph: APF
+  - form: "ἡμέρας"
+    lemma: "ΗΜΕΡΑ"
+    morph: APF
+  - form: "ιωδαε"
+    lemma: "ΙΩΔΑΕ"
+    morph: GSM
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "ἱερέως"
+    lemma: "ΙΕΡΕΥΣ"
+    morph: GSM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΠΟΙΕΩ — 3SAIA">[[/Greek/Lexicon/ΠΟΙΕΩ|ἐποίησεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΙΩΑΣ — NSM">[[/Greek/Lexicon/ΙΩΑΣ|ιωας]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΕΥΘΥΣ — ASN">[[/Greek/Lexicon/ΕΥΘΥΣ|εὐθὲς]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΕΝΩΠΙΟΝ">[[/Greek/Lexicon/ΕΝΩΠΙΟΝ|ἐνώπιον]]</span> <span class="tok" title="ΚΥΡΙΟΣ — GSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ|κυρίου]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΠΑΣ — APF">[[/Greek/Lexicon/ΠΑΣ|πάσας]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="Ο — APF">[[/Greek/Lexicon/Ο|τὰς]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="ΗΜΕΡΑ — APF">[[/Greek/Lexicon/ΗΜΕΡΑ|ἡμέρας]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="ΙΩΔΑΕ — GSM">[[/Greek/Lexicon/ΙΩΔΑΕ|ιωδαε]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΙΕΡΕΥΣ — GSM">[[/Greek/Lexicon/ΙΕΡΕΥΣ|ἱερέως]][[/Greek/Morphology/GSM|ˑ]]</span>

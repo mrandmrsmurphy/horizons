@@ -1,0 +1,86 @@
+---
+language: greek
+book: Matthew
+chapter: 8
+verse: 20
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "λέγει"
+    lemma: "ΛΕΓΩ"
+    morph: 3SPIA
+  - form: "αὐτῷ"
+    lemma: "ΑΥΤΟΣ"
+    morph: DSM
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "Ἰησοῦς,"
+    lemma: "ΙΗΣΟΥΣ"
+    morph: NSM
+  - form: "αἱ"
+    lemma: "Ο"
+    morph: NPF
+  - form: "ἀλώπεκες"
+    lemma: "ΑΛΩΠΗΞ"
+    morph: NPF
+  - form: "φωλεοὺς"
+    lemma: "ΦΩΛΕΟΣ"
+    morph: APM
+  - form: "ἔχουσιν"
+    lemma: "ΕΧΩ"
+    morph: 3PPIA
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "τὰ"
+    lemma: "Ο"
+    morph: NPN
+  - form: "πετεινὰ"
+    lemma: "ΠΕΤΕΙΝΟΣ"
+    morph: NPN
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "οὐρανοῦ"
+    lemma: "ΟΥΡΑΝΟΣ"
+    morph: GSM
+  - form: "κατασκηνώσεις,"
+    lemma: "ΚΑΤΑΣΚΗΝΩΣΙΣ"
+    morph: APF
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "υἱὸς"
+    lemma: "ΥΙΟΣ"
+    morph: NSM
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "ἀνθρώπου"
+    lemma: "ΑΝΘΡΩΠΟΣ"
+    morph: GSM
+  - form: "οὐκ"
+    lemma: "ΟΥ"
+    morph: ""
+  - form: "ἔχει"
+    lemma: "ΕΧΩ"
+    morph: 3SPIA
+  - form: "ποῦ"
+    lemma: "ΠΟΥ"
+    morph: ""
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "κεφαλὴν"
+    lemma: "ΚΕΦΑΛΗ"
+    morph: ASF
+  - form: "κλίνῃ."
+    lemma: "ΚΛΙΝΩ"
+    morph: 3SPSA
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΕΓΩ — 3SPIA">[[/Greek/Lexicon/ΛΕΓΩ|λέγει]][[/Greek/Morphology/3SPIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — DSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΙΗΣΟΥΣ — NSM">[[/Greek/Lexicon/ΙΗΣΟΥΣ|Ἰησοῦς,]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — NPF">[[/Greek/Lexicon/Ο|αἱ]][[/Greek/Morphology/NPF|ˑ]]</span> <span class="tok" title="ΑΛΩΠΗΞ — NPF">[[/Greek/Lexicon/ΑΛΩΠΗΞ|ἀλώπεκες]][[/Greek/Morphology/NPF|ˑ]]</span> <span class="tok" title="ΦΩΛΕΟΣ — APM">[[/Greek/Lexicon/ΦΩΛΕΟΣ|φωλεοὺς]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="ΕΧΩ — 3PPIA">[[/Greek/Lexicon/ΕΧΩ|ἔχουσιν]][[/Greek/Morphology/3PPIA|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — NPN">[[/Greek/Lexicon/Ο|τὰ]][[/Greek/Morphology/NPN|ˑ]]</span> <span class="tok" title="ΠΕΤΕΙΝΟΣ — NPN">[[/Greek/Lexicon/ΠΕΤΕΙΝΟΣ|πετεινὰ]][[/Greek/Morphology/NPN|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΟΥΡΑΝΟΣ — GSM">[[/Greek/Lexicon/ΟΥΡΑΝΟΣ|οὐρανοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΤΑΣΚΗΝΩΣΙΣ — APF">[[/Greek/Lexicon/ΚΑΤΑΣΚΗΝΩΣΙΣ|κατασκηνώσεις,]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="ΥΙΟΣ — NSM">[[/Greek/Lexicon/ΥΙΟΣ|υἱὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΑΝΘΡΩΠΟΣ — GSM">[[/Greek/Lexicon/ΑΝΘΡΩΠΟΣ|ἀνθρώπου]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ|οὐκ]]</span> <span class="tok" title="ΕΧΩ — 3SPIA">[[/Greek/Lexicon/ΕΧΩ|ἔχει]][[/Greek/Morphology/3SPIA|ˑ]]</span> <span class="tok" title="ΠΟΥ">[[/Greek/Lexicon/ΠΟΥ|ποῦ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΚΕΦΑΛΗ — ASF">[[/Greek/Lexicon/ΚΕΦΑΛΗ|κεφαλὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΚΛΙΝΩ — 3SPSA">[[/Greek/Lexicon/ΚΛΙΝΩ|κλίνῃ.]][[/Greek/Morphology/3SPSA|ˑ]]</span>

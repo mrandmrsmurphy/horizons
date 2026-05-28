@@ -1,0 +1,49 @@
+---
+language: hebrew
+book: Matthew
+chapter: 16
+verse: 26
+tokens:
+- form: כִּי
+  lemma: כִּי
+  morph: ""
+- form: מַה
+  lemma: מי
+  morph: ""
+- form: אָדָם
+  lemma: אָדָם
+  morph: MS
+  affixes: הַ
+- form: אֶת
+  lemma: אֵת
+  morph: ""
+- form: כָּל
+  lemma: כל
+  morph: MSC
+- form: עוֹלָם
+  lemma: עולם
+  morph: MS
+  affixes: הַ
+- form: אֶת
+  lemma: אֵת
+  morph: ""
+- form: נַפְשׁ
+  lemma: נֶפֶשׁ
+  morph: BSC
+  suffix: וֹ
+- form: אוֹ
+  lemma: או
+  morph: ""
+- form: מַה
+  lemma: מי
+  morph: ""
+- form: אָדָם
+  lemma: אָדָם
+  morph: MS
+  affixes: הַ
+- form: נַפְשׁ
+  lemma: נֶפֶשׁ
+  morph: BSC
+  suffix: וֹ
+---
+[[Hebrew/Lexicon/כִּי|כִּי]] [[Hebrew/Lexicon/מי|מַה]] [[Hebrew/Lexicon/הַ|הָ]][[Hebrew/Lexicon/אָדָם|אָדָם]][[Hebrew/Morphology/MS|ˑ]] [[Hebrew/Lexicon/אֵת|אֶת]] [[Hebrew/Lexicon/כל|כָּל]][[Hebrew/Morphology/MSC|ˑ]] [[Hebrew/Lexicon/הַ|הָ]][[Hebrew/Lexicon/עולם|עוֹלָם]][[Hebrew/Morphology/MS|ˑ]] [[Hebrew/Lexicon/אֵת|אֶת]] [[Hebrew/Lexicon/נֶפֶשׁ|נַפְשׁוֹ]][[Hebrew/Morphology/BSC|ˑ]] [[Hebrew/Lexicon/או|אוֹ]] [[Hebrew/Lexicon/מי|מַה]] [[Hebrew/Lexicon/הַ|הָ]][[Hebrew/Lexicon/אָדָם|אָדָם]][[Hebrew/Morphology/MS|ˑ]] [[Hebrew/Lexicon/נֶפֶשׁ|נַפְשׁוֹ]][[Hebrew/Morphology/BSC|ˑ]]

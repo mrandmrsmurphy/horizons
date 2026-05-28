@@ -1,0 +1,34 @@
+---
+language: hebrew
+book: Matthew
+chapter: 3
+verse: 10
+tokens:
+- form: עַל
+  lemma: עָל
+  morph: ""
+- form: עֵצִים
+  lemma: עץ
+  morph: MP
+  affixes: הַ
+- form: הִנֵּה
+  lemma: הִנֵּה
+  morph: ""
+  affixes: וְ
+- form: כָל
+  lemma: כל
+  morph: MSC
+- form: עֵץ
+  lemma: עץ
+  morph: MSC
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: ""
+- form: עֹשֶׂה
+  lemma: עָשָׂה
+  morph: QRMS
+- form: טוֹב
+  lemma: טוֹב
+  morph: MS
+---
+[[Hebrew/Lexicon/עָל|עַל]] [[Hebrew/Lexicon/הַ|הָ]][[Hebrew/Lexicon/עץ|עֵצִים]][[Hebrew/Morphology/MP|ˑ]] [[Hebrew/Lexicon/וְ|וְ]][[Hebrew/Lexicon/הִנֵּה|הִנֵּה]] [[Hebrew/Lexicon/כל|כָל]][[Hebrew/Morphology/MSC|ˑ]] [[Hebrew/Lexicon/עץ|עֵץ]][[Hebrew/Morphology/MSC|ˑ]] [[Hebrew/Lexicon/אֲשֶׁר|אֲשֶׁר]] [[Hebrew/Lexicon/עָשָׂה|עֹשֶׂה]][[Hebrew/Morphology/QRMS|ˑ]] [[Hebrew/Lexicon/טוֹב|טוֹב]][[Hebrew/Morphology/MS|ˑ]]

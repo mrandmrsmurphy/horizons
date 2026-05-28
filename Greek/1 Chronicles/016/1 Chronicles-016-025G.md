@@ -1,0 +1,44 @@
+---
+language: greek
+book: 1 Chronicles
+chapter: 16
+verse: 25
+tokens:
+  - form: "ὅτι"
+    lemma: "ΟΤΙ"
+    morph: ""
+  - form: "μέγας"
+    lemma: "ΜΕΓΑΣ"
+    morph: NSM
+  - form: "κύριος"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "αἰνετὸς"
+    lemma: "ΑΙΝΕΤΟΣ"
+    morph: NSM
+  - form: "σφόδρα"
+    lemma: "ΣΦΟΔΡΑ"
+    morph: ""
+  - form: "φοβερός"
+    lemma: "ΦΟΒΕΡΟΣ"
+    morph: NSM
+  - form: "ἐστιν"
+    lemma: "ΕΙΜΙ"
+    morph: 3SPIA
+  - form: "ἐπὶ"
+    lemma: "ΕΠΙ"
+    morph: ""
+  - form: "πάντας"
+    lemma: "ΠΑΣ"
+    morph: APM
+  - form: "τοὺς"
+    lemma: "Ο"
+    morph: APM
+  - form: "θεούς"
+    lemma: "ΘΕΟΣ"
+    morph: APM
+---
+<span class="tok" title="ΟΤΙ">[[/Greek/Lexicon/ΟΤΙ|ὅτι]]</span> <span class="tok" title="ΜΕΓΑΣ — NSM">[[/Greek/Lexicon/ΜΕΓΑΣ|μέγας]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΥΡΙΟΣ — NSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ|κύριος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΑΙΝΕΤΟΣ — NSM">[[/Greek/Lexicon/ΑΙΝΕΤΟΣ|αἰνετὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΣΦΟΔΡΑ">[[/Greek/Lexicon/ΣΦΟΔΡΑ|σφόδρα]]</span> <span class="tok" title="ΦΟΒΕΡΟΣ — NSM">[[/Greek/Lexicon/ΦΟΒΕΡΟΣ|φοβερός]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΙΜΙ — 3SPIA">[[/Greek/Lexicon/ΕΙΜΙ|ἐστιν]][[/Greek/Morphology/3SPIA|ˑ]]</span> <span class="tok" title="ΕΠΙ">[[/Greek/Lexicon/ΕΠΙ|ἐπὶ]]</span> <span class="tok" title="ΠΑΣ — APM">[[/Greek/Lexicon/ΠΑΣ|πάντας]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="Ο — APM">[[/Greek/Lexicon/Ο|τοὺς]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — APM">[[/Greek/Lexicon/ΘΕΟΣ|θεούς]][[/Greek/Morphology/APM|ˑ]]</span>

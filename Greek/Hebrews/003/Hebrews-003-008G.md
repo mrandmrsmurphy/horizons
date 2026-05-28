@@ -1,0 +1,59 @@
+---
+language: greek
+book: Hebrews
+chapter: 3
+verse: 8
+tokens:
+  - form: "μὴ"
+    lemma: "ΜΗ"
+    morph: ""
+  - form: "σκληρύνητε"
+    lemma: "ΣΚΛΗΡΥΝΩ"
+    morph: 2PPSA
+  - form: "τὰς"
+    lemma: "Ο"
+    morph: APF
+  - form: "καρδίας"
+    lemma: "ΚΑΡΔΙΑ"
+    morph: APF
+  - form: "ὑμῶν"
+    lemma: "ΣΥ"
+    morph: GP
+  - form: "ὡς"
+    lemma: "ΩΣ"
+    morph: ""
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSM
+  - form: "παραπικρασμῷ,"
+    lemma: "ΠΑΡΑΠΙΚΡΑΣΜΟΣ"
+    morph: DSM
+  - form: "κατὰ"
+    lemma: "ΚΑΤΑ"
+    morph: ""
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "ἡμέραν"
+    lemma: "ΗΜΕΡΑ"
+    morph: ASF
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "πειρασμοῦ"
+    lemma: "ΠΕΙΡΑΣΜΟΣ"
+    morph: GSM
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "τῇ"
+    lemma: "Ο"
+    morph: DSF
+  - form: "ἐρήμῳ,"
+    lemma: "ΕΡΗΜΟΣ"
+    morph: DSF
+---
+<span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ|μὴ]]</span> <span class="tok" title="ΣΚΛΗΡΥΝΩ — 2PPSA">[[/Greek/Lexicon/ΣΚΛΗΡΥΝΩ|σκληρύνητε]][[/Greek/Morphology/2PPSA|ˑ]]</span> <span class="tok" title="Ο — APF">[[/Greek/Lexicon/Ο|τὰς]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="ΚΑΡΔΙΑ — APF">[[/Greek/Lexicon/ΚΑΡΔΙΑ|καρδίας]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="ΣΥ — GP">[[/Greek/Lexicon/ΣΥ|ὑμῶν]][[/Greek/Morphology/GP|ˑ]]</span> <span class="tok" title="ΩΣ">[[/Greek/Lexicon/ΩΣ|ὡς]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο|τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΠΑΡΑΠΙΚΡΑΣΜΟΣ — DSM">[[/Greek/Lexicon/ΠΑΡΑΠΙΚΡΑΣΜΟΣ|παραπικρασμῷ,]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΚΑΤΑ">[[/Greek/Lexicon/ΚΑΤΑ|κατὰ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΗΜΕΡΑ — ASF">[[/Greek/Lexicon/ΗΜΕΡΑ|ἡμέραν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΠΕΙΡΑΣΜΟΣ — GSM">[[/Greek/Lexicon/ΠΕΙΡΑΣΜΟΣ|πειρασμοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="Ο — DSF">[[/Greek/Lexicon/Ο|τῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΕΡΗΜΟΣ — DSF">[[/Greek/Lexicon/ΕΡΗΜΟΣ|ἐρήμῳ,]][[/Greek/Morphology/DSF|ˑ]]</span>

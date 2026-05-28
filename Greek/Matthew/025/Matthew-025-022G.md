@@ -1,0 +1,59 @@
+---
+language: greek
+book: Matthew
+chapter: 25
+verse: 22
+tokens:
+  - form: "προσελθὼν"
+    lemma: "ΠΡΟΣΕΡΧΟΜΑΙ"
+    morph: AAP/NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "τὰ"
+    lemma: "Ο"
+    morph: APN
+  - form: "δύο"
+    lemma: "ΔΥΟ"
+    morph: ""
+  - form: "τάλαντα"
+    lemma: "ΤΑΛΑΝΤΟΝ"
+    morph: APN
+  - form: "εἶπεν·"
+    lemma: "ΛΕΓΩ"
+    morph: 3SAIA
+  - form: "κύριε,"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: VSM
+  - form: "δύο"
+    lemma: "ΔΥΟ"
+    morph: ""
+  - form: "τάλαντά"
+    lemma: "ΤΑΛΑΝΤΟΝ"
+    morph: APN
+  - form: "μοι"
+    lemma: "ΕΓΩ"
+    morph: DS
+  - form: "παρέδωκας·"
+    lemma: "ΠΑΡΑΔΙΔΩΜΙ"
+    morph: 2SAIA
+  - form: "ἴδε"
+    lemma: "ΟΡΑΩ"
+    morph: 2SAMA
+  - form: "ἄλλα"
+    lemma: "ΑΛΛΟΣ"
+    morph: APN
+  - form: "δύο"
+    lemma: "ΔΥΟ"
+    morph: ""
+  - form: "τάλαντα"
+    lemma: "ΤΑΛΑΝΤΟΝ"
+    morph: APN
+  - form: "ἐκέρδησα."
+    lemma: "ΚΕΡΔΑΙΝΩ"
+    morph: 1SAIA
+---
+<span class="tok" title="ΠΡΟΣΕΡΧΟΜΑΙ — AAP/NSM">[[/Greek/Lexicon/ΠΡΟΣΕΡΧΟΜΑΙ|προσελθὼν]][[/Greek/Morphology/AAP_NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — APN">[[/Greek/Lexicon/Ο|τὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΔΥΟ">[[/Greek/Lexicon/ΔΥΟ|δύο]]</span> <span class="tok" title="ΤΑΛΑΝΤΟΝ — APN">[[/Greek/Lexicon/ΤΑΛΑΝΤΟΝ|τάλαντα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΛΕΓΩ — 3SAIA">[[/Greek/Lexicon/ΛΕΓΩ|εἶπεν·]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΚΥΡΙΟΣ — VSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ|κύριε,]][[/Greek/Morphology/VSM|ˑ]]</span> <span class="tok" title="ΔΥΟ">[[/Greek/Lexicon/ΔΥΟ|δύο]]</span> <span class="tok" title="ΤΑΛΑΝΤΟΝ — APN">[[/Greek/Lexicon/ΤΑΛΑΝΤΟΝ|τάλαντά]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΕΓΩ — DS">[[/Greek/Lexicon/ΕΓΩ|μοι]][[/Greek/Morphology/DS|ˑ]]</span> <span class="tok" title="ΠΑΡΑΔΙΔΩΜΙ — 2SAIA">[[/Greek/Lexicon/ΠΑΡΑΔΙΔΩΜΙ|παρέδωκας·]][[/Greek/Morphology/2SAIA|ˑ]]</span> <span class="tok" title="ΟΡΑΩ — 2SAMA">[[/Greek/Lexicon/ΟΡΑΩ|ἴδε]][[/Greek/Morphology/2SAMA|ˑ]]</span> <span class="tok" title="ΑΛΛΟΣ — APN">[[/Greek/Lexicon/ΑΛΛΟΣ|ἄλλα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΔΥΟ">[[/Greek/Lexicon/ΔΥΟ|δύο]]</span> <span class="tok" title="ΤΑΛΑΝΤΟΝ — APN">[[/Greek/Lexicon/ΤΑΛΑΝΤΟΝ|τάλαντα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΚΕΡΔΑΙΝΩ — 1SAIA">[[/Greek/Lexicon/ΚΕΡΔΑΙΝΩ|ἐκέρδησα.]][[/Greek/Morphology/1SAIA|ˑ]]</span>

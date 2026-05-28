@@ -1,0 +1,86 @@
+---
+language: greek
+book: 1 Chronicles
+chapter: 17
+verse: 6
+tokens:
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "πᾶσιν"
+    lemma: "ΠΑΣ"
+    morph: DPM
+  - form: "οἷς"
+    lemma: "ΟΣ"
+    morph: DPM
+  - form: "διῆλθον"
+    lemma: "ΔΙΕΡΧΟΜΑΙ"
+    morph: 3PAIA
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "παντὶ"
+    lemma: "ΠΑΣ"
+    morph: DSM
+  - form: "Ἰσραήλ"
+    lemma: "ΙΣΡΑΗΛ"
+    morph: DSM
+  - form: "εἰ"
+    lemma: "ΕΙ"
+    morph: ""
+  - form: "λαλῶν"
+    lemma: "ΛΑΛΕΩ"
+    morph: PAP/NSM
+  - form: "ἐλάλησα"
+    lemma: "ΛΑΛΕΩ"
+    morph: 1SAIA
+  - form: "πρὸς"
+    lemma: "ΠΡΟΣ"
+    morph: ""
+  - form: "μίαν"
+    lemma: "ΕΝΑ"
+    morph: ASF
+  - form: "φυλὴν"
+    lemma: "ΦΥΛΗ"
+    morph: ASF
+  - form: "Ἰσραήλ"
+    lemma: "ΙΣΡΑΗΛ"
+    morph: GSM
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSN
+  - form: "ποιμαίνειν"
+    lemma: "ΠΟΙΜΑΙΝΩ"
+    morph: PAI
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "λαόν"
+    lemma: "ΛΑΟΣ"
+    morph: ASM
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "λέγων"
+    lemma: "ΛΕΓΩ"
+    morph: PAP/NSM
+  - form: "ὅτι"
+    lemma: "ΟΤΙ"
+    morph: ""
+  - form: "οὐκ"
+    lemma: "ΟΥ"
+    morph: ""
+  - form: "ᾠκοδομήκατέ"
+    lemma: "ΟΙΚΟΔΟΜΕΩ"
+    morph: 2PLIA
+  - form: "μοι"
+    lemma: "ΕΓΩ"
+    morph: DS
+  - form: "οἶκον"
+    lemma: "ΟΙΚΟΣ"
+    morph: ASM
+  - form: "κέδρινον"
+    lemma: "ΚΕΔΡΙΝΟΣ"
+    morph: ASM
+---
+<span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΠΑΣ — DPM">[[/Greek/Lexicon/ΠΑΣ|πᾶσιν]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΟΣ — DPM">[[/Greek/Lexicon/ΟΣ|οἷς]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΔΙΕΡΧΟΜΑΙ — 3PAIA">[[/Greek/Lexicon/ΔΙΕΡΧΟΜΑΙ|διῆλθον]][[/Greek/Morphology/3PAIA|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΠΑΣ — DSM">[[/Greek/Lexicon/ΠΑΣ|παντὶ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΙΣΡΑΗΛ — DSM">[[/Greek/Lexicon/ΙΣΡΑΗΛ|Ἰσραήλ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΕΙ">[[/Greek/Lexicon/ΕΙ|εἰ]]</span> <span class="tok" title="ΛΑΛΕΩ — PAP/NSM">[[/Greek/Lexicon/ΛΑΛΕΩ|λαλῶν]][[/Greek/Morphology/PAP_NSM|ˑ]]</span> <span class="tok" title="ΛΑΛΕΩ — 1SAIA">[[/Greek/Lexicon/ΛΑΛΕΩ|ἐλάλησα]][[/Greek/Morphology/1SAIA|ˑ]]</span> <span class="tok" title="ΠΡΟΣ">[[/Greek/Lexicon/ΠΡΟΣ|πρὸς]]</span> <span class="tok" title="ΕΝΑ — ASF">[[/Greek/Lexicon/ΕΝΑ|μίαν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΦΥΛΗ — ASF">[[/Greek/Lexicon/ΦΥΛΗ|φυλὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΙΣΡΑΗΛ — GSM">[[/Greek/Lexicon/ΙΣΡΑΗΛ|Ἰσραήλ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="Ο — GSN">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSN|ˑ]]</span> <span class="tok" title="ΠΟΙΜΑΙΝΩ — PAI">[[/Greek/Lexicon/ΠΟΙΜΑΙΝΩ|ποιμαίνειν]][[/Greek/Morphology/PAI|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΛΑΟΣ — ASM">[[/Greek/Lexicon/ΛΑΟΣ|λαόν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΛΕΓΩ — PAP/NSM">[[/Greek/Lexicon/ΛΕΓΩ|λέγων]][[/Greek/Morphology/PAP_NSM|ˑ]]</span> <span class="tok" title="ΟΤΙ">[[/Greek/Lexicon/ΟΤΙ|ὅτι]]</span> <span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ|οὐκ]]</span> <span class="tok" title="ΟΙΚΟΔΟΜΕΩ — 2PLIA">[[/Greek/Lexicon/ΟΙΚΟΔΟΜΕΩ|ᾠκοδομήκατέ]][[/Greek/Morphology/2PLIA|ˑ]]</span> <span class="tok" title="ΕΓΩ — DS">[[/Greek/Lexicon/ΕΓΩ|μοι]][[/Greek/Morphology/DS|ˑ]]</span> <span class="tok" title="ΟΙΚΟΣ — ASM">[[/Greek/Lexicon/ΟΙΚΟΣ|οἶκον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΕΔΡΙΝΟΣ — ASM">[[/Greek/Lexicon/ΚΕΔΡΙΝΟΣ|κέδρινον]][[/Greek/Morphology/ASM|ˑ]]</span>

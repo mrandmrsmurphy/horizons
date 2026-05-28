@@ -1,0 +1,89 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 18
+verse: 29
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἶπεν"
+    lemma: "ΛΕΓΩ"
+    morph: 3SAIA
+  - form: "βασιλεὺς"
+    lemma: "ΒΑΣΙΛΕΥΣ"
+    morph: NSM
+  - form: "Ἰσραήλ"
+    lemma: "ΙΣΡΑΗΛ"
+    morph: GSM
+  - form: "πρὸς"
+    lemma: "ΠΡΟΣ"
+    morph: ""
+  - form: "ιωσαφατ"
+    lemma: "ΙΩΣΑΦΑΤ"
+    morph: ASM
+  - form: "κατακαλύψομαι"
+    lemma: "ΚΑΤΑΚΑΛΥΠΤΩ"
+    morph: 1SFIM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἰσελεύσομαι"
+    lemma: "ΕΙΣΕΡΧΟΜΑΙ"
+    morph: 1SFIM
+  - form: "εἰς"
+    lemma: "ΕΙΣ"
+    morph: ""
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "πόλεμον"
+    lemma: "ΠΟΛΕΜΟΣ"
+    morph: ASM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "σὺ"
+    lemma: "ΣΥ"
+    morph: NS
+  - form: "ἔνδυσαι"
+    lemma: "ΕΝΔΥΩ"
+    morph: 2SAMM
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "ἱματισμόν"
+    lemma: "ΙΜΑΤΙΣΜΟΣ"
+    morph: ASM
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "συνεκαλύψατο"
+    lemma: "ΣΥΓΚΑΛΥΠΤΩ"
+    morph: 3SAIM
+  - form: "βασιλεὺς"
+    lemma: "ΒΑΣΙΛΕΥΣ"
+    morph: NSM
+  - form: "Ἰσραήλ"
+    lemma: "ΙΣΡΑΗΛ"
+    morph: GSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἰσῆλθεν"
+    lemma: "ΕΙΣΕΡΧΟΜΑΙ"
+    morph: 3SAIA
+  - form: "εἰς"
+    lemma: "ΕΙΣ"
+    morph: ""
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "πόλεμον"
+    lemma: "ΠΟΛΕΜΟΣ"
+    morph: ASM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΕΓΩ — 3SAIA">[[/Greek/Lexicon/ΛΕΓΩ|εἶπεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΣ — NSM">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΣ|βασιλεὺς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΙΣΡΑΗΛ — GSM">[[/Greek/Lexicon/ΙΣΡΑΗΛ|Ἰσραήλ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΠΡΟΣ">[[/Greek/Lexicon/ΠΡΟΣ|πρὸς]]</span> <span class="tok" title="ΙΩΣΑΦΑΤ — ASM">[[/Greek/Lexicon/ΙΩΣΑΦΑΤ|ιωσαφατ]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΑΤΑΚΑΛΥΠΤΩ — 1SFIM">[[/Greek/Lexicon/ΚΑΤΑΚΑΛΥΠΤΩ|κατακαλύψομαι]][[/Greek/Morphology/1SFIM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΙΣΕΡΧΟΜΑΙ — 1SFIM">[[/Greek/Lexicon/ΕΙΣΕΡΧΟΜΑΙ|εἰσελεύσομαι]][[/Greek/Morphology/1SFIM|ˑ]]</span> <span class="tok" title="ΕΙΣ">[[/Greek/Lexicon/ΕΙΣ|εἰς]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΠΟΛΕΜΟΣ — ASM">[[/Greek/Lexicon/ΠΟΛΕΜΟΣ|πόλεμον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΣΥ — NS">[[/Greek/Lexicon/ΣΥ|σὺ]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΕΝΔΥΩ — 2SAMM">[[/Greek/Lexicon/ΕΝΔΥΩ|ἔνδυσαι]][[/Greek/Morphology/2SAMM|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΙΜΑΤΙΣΜΟΣ — ASM">[[/Greek/Lexicon/ΙΜΑΤΙΣΜΟΣ|ἱματισμόν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΣΥΓΚΑΛΥΠΤΩ — 3SAIM">[[/Greek/Lexicon/ΣΥΓΚΑΛΥΠΤΩ|συνεκαλύψατο]][[/Greek/Morphology/3SAIM|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΣ — NSM">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΣ|βασιλεὺς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΙΣΡΑΗΛ — GSM">[[/Greek/Lexicon/ΙΣΡΑΗΛ|Ἰσραήλ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΙΣΕΡΧΟΜΑΙ — 3SAIA">[[/Greek/Lexicon/ΕΙΣΕΡΧΟΜΑΙ|εἰσῆλθεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΕΙΣ">[[/Greek/Lexicon/ΕΙΣ|εἰς]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΠΟΛΕΜΟΣ — ASM">[[/Greek/Lexicon/ΠΟΛΕΜΟΣ|πόλεμον]][[/Greek/Morphology/ASM|ˑ]]</span>

@@ -1,0 +1,86 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 6
+verse: 37
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐπιστρέψωσιν"
+    lemma: "ΕΠΙΣΤΡΕΦΩ"
+    morph: 3PASA
+  - form: "καρδίαν"
+    lemma: "ΚΑΡΔΙΑ"
+    morph: ASF
+  - form: "αὐτῶν"
+    lemma: "ΑΥΤΟΣ"
+    morph: GPM
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "τῇ"
+    lemma: "Ο"
+    morph: DSF
+  - form: "γῇ"
+    lemma: "ΓΗ"
+    morph: DSF
+  - form: "αὐτῶν"
+    lemma: "ΑΥΤΟΣ"
+    morph: GPM
+  - form: "οὗ"
+    lemma: "ΟΣ"
+    morph: GSM
+  - form: "μετήχθησαν"
+    lemma: "ΜΕΤΑΓΩ"
+    morph: 3PAIP
+  - form: "ἐκεῖ"
+    lemma: "ΕΚΕΙ"
+    morph: ""
+  - form: ""
+    lemma: "ΚΑΙ ΓΕ"
+    morph: ""
+  - form: "καί"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "γε"
+    lemma: "ΓΕ"
+    morph: ""
+  - form: "ἐπιστρέψωσιν"
+    lemma: "ΕΠΙΣΤΡΕΦΩ"
+    morph: 3PASA
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "δεηθῶσίν"
+    lemma: "ΔΕΩ"
+    morph: 3PASP
+  - form: "σου"
+    lemma: "ΣΥ"
+    morph: GS
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "τῇ"
+    lemma: "Ο"
+    morph: DSF
+  - form: "αἰχμαλωσίᾳ"
+    lemma: "ΑΙΧΜΑΛΩΣΙΑ"
+    morph: DSF
+  - form: "αὐτῶν"
+    lemma: "ΑΥΤΟΣ"
+    morph: GPM
+  - form: "λέγοντες"
+    lemma: "ΛΕΓΩ"
+    morph: PAP/NPM
+  - form: "ἡμάρτομεν"
+    lemma: "ΑΜΑΡΤΑΝΩ"
+    morph: 1PAIA
+  - form: "ἠδικήσαμεν"
+    lemma: "ΑΔΙΚΕΩ"
+    morph: 1PAIA
+  - form: "ἠνομήσαμεν"
+    lemma: "ΑΝΟΜΕΩ"
+    morph: 1PAIA
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΠΙΣΤΡΕΦΩ — 3PASA">[[/Greek/Lexicon/ΕΠΙΣΤΡΕΦΩ|ἐπιστρέψωσιν]][[/Greek/Morphology/3PASA|ˑ]]</span> <span class="tok" title="ΚΑΡΔΙΑ — ASF">[[/Greek/Lexicon/ΚΑΡΔΙΑ|καρδίαν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GPM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="Ο — DSF">[[/Greek/Lexicon/Ο|τῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΓΗ — DSF">[[/Greek/Lexicon/ΓΗ|γῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GPM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΟΣ — GSM">[[/Greek/Lexicon/ΟΣ|οὗ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΜΕΤΑΓΩ — 3PAIP">[[/Greek/Lexicon/ΜΕΤΑΓΩ|μετήχθησαν]][[/Greek/Morphology/3PAIP|ˑ]]</span> <span class="tok" title="ΕΚΕΙ">[[/Greek/Lexicon/ΕΚΕΙ|ἐκεῖ]]</span> <span class="tok" title="ΚΑΙ ΓΕ">[[/Greek/Lexicon/ΚΑΙ ΓΕ|]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καί]]</span> <span class="tok" title="ΓΕ">[[/Greek/Lexicon/ΓΕ|γε]]</span> <span class="tok" title="ΕΠΙΣΤΡΕΦΩ — 3PASA">[[/Greek/Lexicon/ΕΠΙΣΤΡΕΦΩ|ἐπιστρέψωσιν]][[/Greek/Morphology/3PASA|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΔΕΩ — 3PASP">[[/Greek/Lexicon/ΔΕΩ|δεηθῶσίν]][[/Greek/Morphology/3PASP|ˑ]]</span> <span class="tok" title="ΣΥ — GS">[[/Greek/Lexicon/ΣΥ|σου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="Ο — DSF">[[/Greek/Lexicon/Ο|τῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΑΙΧΜΑΛΩΣΙΑ — DSF">[[/Greek/Lexicon/ΑΙΧΜΑΛΩΣΙΑ|αἰχμαλωσίᾳ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GPM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΛΕΓΩ — PAP/NPM">[[/Greek/Lexicon/ΛΕΓΩ|λέγοντες]][[/Greek/Morphology/PAP_NPM|ˑ]]</span> <span class="tok" title="ΑΜΑΡΤΑΝΩ — 1PAIA">[[/Greek/Lexicon/ΑΜΑΡΤΑΝΩ|ἡμάρτομεν]][[/Greek/Morphology/1PAIA|ˑ]]</span> <span class="tok" title="ΑΔΙΚΕΩ — 1PAIA">[[/Greek/Lexicon/ΑΔΙΚΕΩ|ἠδικήσαμεν]][[/Greek/Morphology/1PAIA|ˑ]]</span> <span class="tok" title="ΑΝΟΜΕΩ — 1PAIA">[[/Greek/Lexicon/ΑΝΟΜΕΩ|ἠνομήσαμεν]][[/Greek/Morphology/1PAIA|ˑ]]</span>

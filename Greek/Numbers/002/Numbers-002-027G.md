@@ -1,0 +1,56 @@
+---
+language: greek
+book: Numbers
+chapter: 2
+verse: 27
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "οἱ"
+    lemma: "Ο"
+    morph: NPM
+  - form: "παρεμβάλλοντες"
+    lemma: "ΠΑΡΕΜΒΑΛΛΩ"
+    morph: PAP/NPM
+  - form: "ἐχόμενοι"
+    lemma: "ΕΧΩ"
+    morph: PMP/NPM
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "φυλῆς"
+    lemma: "ΦΥΛΗ"
+    morph: GSF
+  - form: "ασηρ"
+    lemma: "ΑΣΗΡ"
+    morph: GSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "ἄρχων"
+    lemma: "ΑΡΧΩΝ"
+    morph: NSM
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPM
+  - form: "υἱῶν"
+    lemma: "ΥΙΟΣ"
+    morph: GPM
+  - form: "ασηρ"
+    lemma: "ΑΣΗΡ"
+    morph: GSM
+  - form: "φαγαιηλ"
+    lemma: "ΦΑΓΑΙΗΛ"
+    morph: NSM
+  - form: "υἱὸς"
+    lemma: "ΥΙΟΣ"
+    morph: NSM
+  - form: "εχραν"
+    lemma: "ΕΧΡΑΝ"
+    morph: GSM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — NPM">[[/Greek/Lexicon/Ο|οἱ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΠΑΡΕΜΒΑΛΛΩ — PAP/NPM">[[/Greek/Lexicon/ΠΑΡΕΜΒΑΛΛΩ|παρεμβάλλοντες]][[/Greek/Morphology/PAP_NPM|ˑ]]</span> <span class="tok" title="ΕΧΩ — PMP/NPM">[[/Greek/Lexicon/ΕΧΩ|ἐχόμενοι]][[/Greek/Morphology/PMP_NPM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΦΥΛΗ — GSF">[[/Greek/Lexicon/ΦΥΛΗ|φυλῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΑΣΗΡ — GSM">[[/Greek/Lexicon/ΑΣΗΡ|ασηρ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΡΧΩΝ — NSM">[[/Greek/Lexicon/ΑΡΧΩΝ|ἄρχων]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — GPM">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΥΙΟΣ — GPM">[[/Greek/Lexicon/ΥΙΟΣ|υἱῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΑΣΗΡ — GSM">[[/Greek/Lexicon/ΑΣΗΡ|ασηρ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΦΑΓΑΙΗΛ — NSM">[[/Greek/Lexicon/ΦΑΓΑΙΗΛ|φαγαιηλ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΥΙΟΣ — NSM">[[/Greek/Lexicon/ΥΙΟΣ|υἱὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΧΡΑΝ — GSM">[[/Greek/Lexicon/ΕΧΡΑΝ|εχραν]][[/Greek/Morphology/GSM|ˑ]]</span>

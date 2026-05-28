@@ -1,0 +1,71 @@
+---
+language: greek
+book: Matthew
+chapter: 16
+verse: 25
+tokens:
+  - form: "ὃς"
+    lemma: "ΟΣ"
+    morph: NSM
+  - form: "γὰρ"
+    lemma: "ΓΑΡ"
+    morph: ""
+  - form: "ἐὰν"
+    lemma: "ΕΑΝ"
+    morph: ""
+  - form: "θέλῃ"
+    lemma: "ΘΕΛΩ"
+    morph: 3SPSA
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "ψυχὴν"
+    lemma: "ΨΥΧΗ"
+    morph: ASF
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "σῶσαι"
+    lemma: "ΣΩΖΩ"
+    morph: AAI
+  - form: "ἀπολέσει"
+    lemma: "ΑΠΟΛΛΥΜΙ"
+    morph: 3SFIA
+  - form: "αὐτήν·"
+    lemma: "ΑΥΤΟΣ"
+    morph: ASF
+  - form: "ὃς"
+    lemma: "ΟΣ"
+    morph: NSM
+  - form: "δ’"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "ἂν"
+    lemma: "ΑΝ"
+    morph: ""
+  - form: "ἀπολέσῃ"
+    lemma: "ΑΠΟΛΛΥΜΙ"
+    morph: 3SASA
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "ψυχὴν"
+    lemma: "ΨΥΧΗ"
+    morph: ASF
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "ἕνεκεν"
+    lemma: "ΕΝΕΚΑ"
+    morph: ""
+  - form: "ἐμοῦ"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "εὑρήσει"
+    lemma: "ΕΥΡΙΣΚΩ"
+    morph: 3SFIA
+  - form: "αὐτήν."
+    lemma: "ΑΥΤΟΣ"
+    morph: ASF
+---
+<span class="tok" title="ΟΣ — NSM">[[/Greek/Lexicon/ΟΣ|ὃς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΓΑΡ">[[/Greek/Lexicon/ΓΑΡ|γὰρ]]</span> <span class="tok" title="ΕΑΝ">[[/Greek/Lexicon/ΕΑΝ|ἐὰν]]</span> <span class="tok" title="ΘΕΛΩ — 3SPSA">[[/Greek/Lexicon/ΘΕΛΩ|θέλῃ]][[/Greek/Morphology/3SPSA|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΨΥΧΗ — ASF">[[/Greek/Lexicon/ΨΥΧΗ|ψυχὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΣΩΖΩ — AAI">[[/Greek/Lexicon/ΣΩΖΩ|σῶσαι]][[/Greek/Morphology/AAI|ˑ]]</span> <span class="tok" title="ΑΠΟΛΛΥΜΙ — 3SFIA">[[/Greek/Lexicon/ΑΠΟΛΛΥΜΙ|ἀπολέσει]][[/Greek/Morphology/3SFIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — ASF">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτήν·]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΟΣ — NSM">[[/Greek/Lexicon/ΟΣ|ὃς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δ’]]</span> <span class="tok" title="ΑΝ">[[/Greek/Lexicon/ΑΝ|ἂν]]</span> <span class="tok" title="ΑΠΟΛΛΥΜΙ — 3SASA">[[/Greek/Lexicon/ΑΠΟΛΛΥΜΙ|ἀπολέσῃ]][[/Greek/Morphology/3SASA|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΨΥΧΗ — ASF">[[/Greek/Lexicon/ΨΥΧΗ|ψυχὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΕΝΕΚΑ">[[/Greek/Lexicon/ΕΝΕΚΑ|ἕνεκεν]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|ἐμοῦ]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΕΥΡΙΣΚΩ — 3SFIA">[[/Greek/Lexicon/ΕΥΡΙΣΚΩ|εὑρήσει]][[/Greek/Morphology/3SFIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — ASF">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτήν.]][[/Greek/Morphology/ASF|ˑ]]</span>

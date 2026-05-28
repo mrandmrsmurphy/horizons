@@ -1,0 +1,32 @@
+---
+language: greek
+book: Nehemiah
+chapter: 7
+verse: 69
+tokens:
+  - form: "κάμηλοι"
+    lemma: "ΚΑΜΗΛΟΣ"
+    morph: NPM
+  - form: "τετρακόσιοι"
+    lemma: "ΤΕΤΡΑΚΟΣΙΟΙ"
+    morph: NPM
+  - form: "τριάκοντα"
+    lemma: "ΤΡΙΑΚΟΝΤΑ"
+    morph: ""
+  - form: "πέντε"
+    lemma: "ΠΕΝΤΕ"
+    morph: ""
+  - form: "ὄνοι"
+    lemma: "ΟΝΟΣ"
+    morph: NPM
+  - form: "ἑξακισχίλιοι"
+    lemma: "ΕΞΑΚΙΣΧΙΛΙΟΙ"
+    morph: NPM
+  - form: "ἑπτακόσιοι"
+    lemma: "ΕΠΤΑΚΟΣΙΟΙ"
+    morph: NPM
+  - form: "εἴκοσι"
+    lemma: "ΕΙΚΟΣΙ"
+    morph: ""
+---
+<span class="tok" title="ΚΑΜΗΛΟΣ — NPM">[[/Greek/Lexicon/ΚΑΜΗΛΟΣ|κάμηλοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΤΕΤΡΑΚΟΣΙΟΙ — NPM">[[/Greek/Lexicon/ΤΕΤΡΑΚΟΣΙΟΙ|τετρακόσιοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΤΡΙΑΚΟΝΤΑ">[[/Greek/Lexicon/ΤΡΙΑΚΟΝΤΑ|τριάκοντα]]</span> <span class="tok" title="ΠΕΝΤΕ">[[/Greek/Lexicon/ΠΕΝΤΕ|πέντε]]</span> <span class="tok" title="ΟΝΟΣ — NPM">[[/Greek/Lexicon/ΟΝΟΣ|ὄνοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΕΞΑΚΙΣΧΙΛΙΟΙ — NPM">[[/Greek/Lexicon/ΕΞΑΚΙΣΧΙΛΙΟΙ|ἑξακισχίλιοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΕΠΤΑΚΟΣΙΟΙ — NPM">[[/Greek/Lexicon/ΕΠΤΑΚΟΣΙΟΙ|ἑπτακόσιοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΕΙΚΟΣΙ">[[/Greek/Lexicon/ΕΙΚΟΣΙ|εἴκοσι]]</span>

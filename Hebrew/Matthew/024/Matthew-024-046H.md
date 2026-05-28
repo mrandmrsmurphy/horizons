@@ -1,0 +1,24 @@
+---
+language: hebrew
+book: Matthew
+chapter: 24
+verse: 46
+tokens:
+- form: אַשְׁרֵי
+  lemma: אֶשֶׁר
+  morph: ""
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: ""
+- form: אֲדֹנָיו
+  lemma: אדון
+  morph: MPC
+  suffix: ו
+- form: עֹשֶׂה
+  lemma: עָשָׂה
+  morph: QRMS
+- form: כֵּן
+  lemma: כֵּן
+  morph: ""
+---
+[[Hebrew/Lexicon/אֶשֶׁר|אַשְׁרֵי]] [[Hebrew/Lexicon/אֲשֶׁר|אֲשֶׁר]] [[Hebrew/Lexicon/אדון|אֲדֹנָיוו]][[Hebrew/Morphology/MPC|ˑ]] [[Hebrew/Lexicon/עָשָׂה|עֹשֶׂה]][[Hebrew/Morphology/QRMS|ˑ]] [[Hebrew/Lexicon/כֵּן|כֵּן]]

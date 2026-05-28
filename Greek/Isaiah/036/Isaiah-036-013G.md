@@ -1,0 +1,65 @@
+---
+language: greek
+book: Isaiah
+chapter: 36
+verse: 13
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἔστη"
+    lemma: "ΙΣΤΗΜΙ"
+    morph: 3SAIA
+  - form: "ραψακης"
+    lemma: "ΡΑΨΑΚΗΣ"
+    morph: NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐβόησεν"
+    lemma: "ΒΟΑΩ"
+    morph: 3SAIA
+  - form: "φωνῇ"
+    lemma: "ΦΩΝΗ"
+    morph: DSF
+  - form: "μεγάλῃ"
+    lemma: "ΜΕΓΑΣ"
+    morph: DSF
+  - form: "ιουδαϊστὶ"
+    lemma: "ΙΟΥΔΑΙΣΤΙ"
+    morph: ""
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἶπεν"
+    lemma: "ΛΕΓΩ"
+    morph: 3SAIA
+  - form: "ἀκούσατε"
+    lemma: "ΑΚΟΥΩ"
+    morph: 2PAMA
+  - form: "τοὺς"
+    lemma: "Ο"
+    morph: APM
+  - form: "λόγους"
+    lemma: "ΛΟΓΟΣ"
+    morph: APM
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "βασιλέως"
+    lemma: "ΒΑΣΙΛΕΥΣ"
+    morph: GSM
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "μεγάλου"
+    lemma: "ΜΕΓΑΣ"
+    morph: GSM
+  - form: "βασιλέως"
+    lemma: "ΒΑΣΙΛΕΥΣ"
+    morph: GSM
+  - form: "ἀσσυρίων"
+    lemma: "ΑΣΣΥΡΙΟΣ"
+    morph: GPM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΙΣΤΗΜΙ — 3SAIA">[[/Greek/Lexicon/ΙΣΤΗΜΙ|ἔστη]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΡΑΨΑΚΗΣ — NSM">[[/Greek/Lexicon/ΡΑΨΑΚΗΣ|ραψακης]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΒΟΑΩ — 3SAIA">[[/Greek/Lexicon/ΒΟΑΩ|ἐβόησεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΦΩΝΗ — DSF">[[/Greek/Lexicon/ΦΩΝΗ|φωνῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΜΕΓΑΣ — DSF">[[/Greek/Lexicon/ΜΕΓΑΣ|μεγάλῃ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΙΟΥΔΑΙΣΤΙ">[[/Greek/Lexicon/ΙΟΥΔΑΙΣΤΙ|ιουδαϊστὶ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΕΓΩ — 3SAIA">[[/Greek/Lexicon/ΛΕΓΩ|εἶπεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΚΟΥΩ — 2PAMA">[[/Greek/Lexicon/ΑΚΟΥΩ|ἀκούσατε]][[/Greek/Morphology/2PAMA|ˑ]]</span> <span class="tok" title="Ο — APM">[[/Greek/Lexicon/Ο|τοὺς]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="ΛΟΓΟΣ — APM">[[/Greek/Lexicon/ΛΟΓΟΣ|λόγους]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΣ — GSM">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΣ|βασιλέως]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΜΕΓΑΣ — GSM">[[/Greek/Lexicon/ΜΕΓΑΣ|μεγάλου]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΣ — GSM">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΣ|βασιλέως]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΑΣΣΥΡΙΟΣ — GPM">[[/Greek/Lexicon/ΑΣΣΥΡΙΟΣ|ἀσσυρίων]][[/Greek/Morphology/GPM|ˑ]]</span>

@@ -1,0 +1,59 @@
+---
+language: greek
+book: Matthew
+chapter: 19
+verse: 9
+tokens:
+  - form: "λέγω"
+    lemma: "ΛΕΓΩ"
+    morph: 1SPIA
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "ὑμῖν"
+    lemma: "ΣΥ"
+    morph: DP
+  - form: "ὅτι"
+    lemma: "ΟΤΙ"
+    morph: ""
+  - form: "ὃς"
+    lemma: "ΟΣ"
+    morph: NSM
+  - form: "ἂν"
+    lemma: "ΑΝ"
+    morph: ""
+  - form: "ἀπολύσῃ"
+    lemma: "ΑΠΟΛΥΩ"
+    morph: 3SASA
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "γυναῖκα"
+    lemma: "ΓΥΝΗ"
+    morph: ASF
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "μὴ"
+    lemma: "ΜΗ"
+    morph: ""
+  - form: "ἐπὶ"
+    lemma: "ΕΠΙ"
+    morph: ""
+  - form: "πορνείᾳ"
+    lemma: "ΠΟΡΝΕΙΑ"
+    morph: DSF
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "γαμήσῃ"
+    lemma: "ΓΑΜΕΩ"
+    morph: 3SASA
+  - form: "ἄλλην,"
+    lemma: "ΑΛΛΟΣ"
+    morph: ASF
+  - form: "μοιχᾶται."
+    lemma: "ΜΟΙΧΑΩ"
+    morph: 3SPIM
+---
+<span class="tok" title="ΛΕΓΩ — 1SPIA">[[/Greek/Lexicon/ΛΕΓΩ|λέγω]][[/Greek/Morphology/1SPIA|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="ΣΥ — DP">[[/Greek/Lexicon/ΣΥ|ὑμῖν]][[/Greek/Morphology/DP|ˑ]]</span> <span class="tok" title="ΟΤΙ">[[/Greek/Lexicon/ΟΤΙ|ὅτι]]</span> <span class="tok" title="ΟΣ — NSM">[[/Greek/Lexicon/ΟΣ|ὃς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΝ">[[/Greek/Lexicon/ΑΝ|ἂν]]</span> <span class="tok" title="ΑΠΟΛΥΩ — 3SASA">[[/Greek/Lexicon/ΑΠΟΛΥΩ|ἀπολύσῃ]][[/Greek/Morphology/3SASA|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΓΥΝΗ — ASF">[[/Greek/Lexicon/ΓΥΝΗ|γυναῖκα]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ|μὴ]]</span> <span class="tok" title="ΕΠΙ">[[/Greek/Lexicon/ΕΠΙ|ἐπὶ]]</span> <span class="tok" title="ΠΟΡΝΕΙΑ — DSF">[[/Greek/Lexicon/ΠΟΡΝΕΙΑ|πορνείᾳ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΓΑΜΕΩ — 3SASA">[[/Greek/Lexicon/ΓΑΜΕΩ|γαμήσῃ]][[/Greek/Morphology/3SASA|ˑ]]</span> <span class="tok" title="ΑΛΛΟΣ — ASF">[[/Greek/Lexicon/ΑΛΛΟΣ|ἄλλην,]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΜΟΙΧΑΩ — 3SPIM">[[/Greek/Lexicon/ΜΟΙΧΑΩ|μοιχᾶται.]][[/Greek/Morphology/3SPIM|ˑ]]</span>

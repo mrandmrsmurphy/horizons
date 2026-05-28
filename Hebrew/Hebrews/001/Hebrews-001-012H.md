@@ -1,0 +1,18 @@
+---
+language: hebrew
+book: Hebrews
+chapter: 1
+verse: 12
+tokens:
+- form: אַתָּה
+  lemma: אַתָּה
+  morph: ""
+  affixes: וְ
+- form: הוּא
+  lemma: הוא
+  morph: MS
+- form: לֹא
+  lemma: לא
+  morph: ""
+---
+[[Hebrew/Lexicon/וְ|וְ]][[Hebrew/Lexicon/אַתָּה|אַתָּה]] [[Hebrew/Lexicon/הוא|הוּא]][[Hebrew/Morphology/MS|ˑ]] [[Hebrew/Lexicon/לא|לֹא]]

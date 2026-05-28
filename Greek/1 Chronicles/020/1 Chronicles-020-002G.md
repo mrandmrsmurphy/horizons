@@ -1,0 +1,119 @@
+---
+language: greek
+book: 1 Chronicles
+chapter: 20
+verse: 2
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἔλαβεν"
+    lemma: "ΛΑΜΒΑΝΩ"
+    morph: 3SAIA
+  - form: "Δαυΐδ"
+    lemma: "ΔΑΥΙΔ"
+    morph: NSM
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "στέφανον"
+    lemma: "ΣΤΕΦΑΝΟΣ"
+    morph: ASM
+  - form: "μολχολ"
+    lemma: "ΜΟΛΧΟΛ"
+    morph: GSM
+  - form: "βασιλέως"
+    lemma: "ΒΑΣΙΛΕΥΣ"
+    morph: GSM
+  - form: "αὐτῶν"
+    lemma: "ΑΥΤΟΣ"
+    morph: GPM
+  - form: "ἀπὸ"
+    lemma: "ΑΠΟ"
+    morph: ""
+  - form: "τῆς"
+    lemma: "Ο"
+    morph: GSF
+  - form: "κεφαλῆς"
+    lemma: "ΚΕΦΑΛΗ"
+    morph: GSF
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εὑρέθη"
+    lemma: "ΕΥΡΙΣΚΩ"
+    morph: 3SAIP
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "σταθμὸς"
+    lemma: "ΣΤΑΘΜΟΣ"
+    morph: NSM
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "τάλαντον"
+    lemma: "ΤΑΛΑΝΤΟΝ"
+    morph: ASN
+  - form: "χρυσίου"
+    lemma: "ΧΡΥΣΙΟΝ"
+    morph: GSN
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "αὐτῷ"
+    lemma: "ΑΥΤΟΣ"
+    morph: DSM
+  - form: "λίθος"
+    lemma: "ΛΙΘΟΣ"
+    morph: NSM
+  - form: "τίμιος"
+    lemma: "ΤΙΜΙΟΣ"
+    morph: NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἦν"
+    lemma: "ΕΙΜΙ"
+    morph: 3SIIA
+  - form: "ἐπὶ"
+    lemma: "ΕΠΙ"
+    morph: ""
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "κεφαλὴν"
+    lemma: "ΚΕΦΑΛΗ"
+    morph: ASF
+  - form: "Δαυΐδ"
+    lemma: "ΔΑΥΙΔ"
+    morph: GSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "σκῦλα"
+    lemma: "ΣΚΥΛΟΝ"
+    morph: APN
+  - form: "τῆς"
+    lemma: "Ο"
+    morph: GSF
+  - form: "πόλεως"
+    lemma: "ΠΟΛΙΣ"
+    morph: GSF
+  - form: "ἐξήνεγκεν"
+    lemma: "ΕΚΦΕΡΩ"
+    morph: 3SAIA
+  - form: "πολλὰ"
+    lemma: "ΠΟΛΥΣ"
+    morph: APN
+  - form: "σφόδρα"
+    lemma: "ΣΦΟΔΡΑ"
+    morph: ""
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΑΜΒΑΝΩ — 3SAIA">[[/Greek/Lexicon/ΛΑΜΒΑΝΩ|ἔλαβεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΔΑΥΙΔ — NSM">[[/Greek/Lexicon/ΔΑΥΙΔ|Δαυΐδ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΣΤΕΦΑΝΟΣ — ASM">[[/Greek/Lexicon/ΣΤΕΦΑΝΟΣ|στέφανον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΜΟΛΧΟΛ — GSM">[[/Greek/Lexicon/ΜΟΛΧΟΛ|μολχολ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΣ — GSM">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΣ|βασιλέως]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GPM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΑΠΟ">[[/Greek/Lexicon/ΑΠΟ|ἀπὸ]]</span> <span class="tok" title="Ο — GSF">[[/Greek/Lexicon/Ο|τῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΚΕΦΑΛΗ — GSF">[[/Greek/Lexicon/ΚΕΦΑΛΗ|κεφαλῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΥΡΙΣΚΩ — 3SAIP">[[/Greek/Lexicon/ΕΥΡΙΣΚΩ|εὑρέθη]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΣΤΑΘΜΟΣ — NSM">[[/Greek/Lexicon/ΣΤΑΘΜΟΣ|σταθμὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΤΑΛΑΝΤΟΝ — ASN">[[/Greek/Lexicon/ΤΑΛΑΝΤΟΝ|τάλαντον]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΧΡΥΣΙΟΝ — GSN">[[/Greek/Lexicon/ΧΡΥΣΙΟΝ|χρυσίου]][[/Greek/Morphology/GSN|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΑΥΤΟΣ — DSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΛΙΘΟΣ — NSM">[[/Greek/Lexicon/ΛΙΘΟΣ|λίθος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΤΙΜΙΟΣ — NSM">[[/Greek/Lexicon/ΤΙΜΙΟΣ|τίμιος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΙΜΙ — 3SIIA">[[/Greek/Lexicon/ΕΙΜΙ|ἦν]][[/Greek/Morphology/3SIIA|ˑ]]</span> <span class="tok" title="ΕΠΙ">[[/Greek/Lexicon/ΕΠΙ|ἐπὶ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΚΕΦΑΛΗ — ASF">[[/Greek/Lexicon/ΚΕΦΑΛΗ|κεφαλὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΔΑΥΙΔ — GSM">[[/Greek/Lexicon/ΔΑΥΙΔ|Δαυΐδ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΣΚΥΛΟΝ — APN">[[/Greek/Lexicon/ΣΚΥΛΟΝ|σκῦλα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="Ο — GSF">[[/Greek/Lexicon/Ο|τῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΠΟΛΙΣ — GSF">[[/Greek/Lexicon/ΠΟΛΙΣ|πόλεως]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΕΚΦΕΡΩ — 3SAIA">[[/Greek/Lexicon/ΕΚΦΕΡΩ|ἐξήνεγκεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΠΟΛΥΣ — APN">[[/Greek/Lexicon/ΠΟΛΥΣ|πολλὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΣΦΟΔΡΑ">[[/Greek/Lexicon/ΣΦΟΔΡΑ|σφόδρα]]</span>

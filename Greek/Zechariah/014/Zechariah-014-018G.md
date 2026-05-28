@@ -1,0 +1,101 @@
+---
+language: greek
+book: Zechariah
+chapter: 14
+verse: 18
+tokens:
+  - form: "ἐὰν"
+    lemma: "ΕΑΝ"
+    morph: ""
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "φυλὴ"
+    lemma: "ΦΥΛΗ"
+    morph: NSF
+  - form: "αἰγύπτου"
+    lemma: "ΑΙΓΥΠΤΟΣ"
+    morph: GSF
+  - form: "μὴ"
+    lemma: "ΜΗ"
+    morph: ""
+  - form: "ἀναβῇ"
+    lemma: "ΑΝΑΒΑΙΝΩ"
+    morph: 3SASA
+  - form: "μηδὲ"
+    lemma: "ΜΗΔΕ"
+    morph: ""
+  - form: "ἔλθῃ"
+    lemma: "ΕΡΧΟΜΑΙ"
+    morph: 3SASA
+  - form: "ἐκεῖ"
+    lemma: "ΕΚΕΙ"
+    morph: ""
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐπὶ"
+    lemma: "ΕΠΙ"
+    morph: ""
+  - form: "τούτοις"
+    lemma: "ΟΥΤΟΣ"
+    morph: DPM
+  - form: "ἔσται"
+    lemma: "ΕΙΜΙ"
+    morph: 3SFIM
+  - form: "ἡ"
+    lemma: "Ο"
+    morph: NSF
+  - form: "πτῶσις"
+    lemma: "ΠΤΩΣΙΣ"
+    morph: NSF
+  - form: "ἣν"
+    lemma: "ΟΣ"
+    morph: ASF
+  - form: "πατάξει"
+    lemma: "ΠΑΤΑΣΣΩ"
+    morph: 3SFIA
+  - form: "κύριος"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: NSM
+  - form: "πάντα"
+    lemma: "ΠΑΣ"
+    morph: APN
+  - form: "τὰ"
+    lemma: "Ο"
+    morph: APN
+  - form: "ἔθνη"
+    lemma: "ΕΘΝΟΣ"
+    morph: APN
+  - form: "ὅσα"
+    lemma: "ΟΣΟΣ"
+    morph: APN
+  - form: "ἐὰν"
+    lemma: "ΕΑΝ"
+    morph: ""
+  - form: "μὴ"
+    lemma: "ΜΗ"
+    morph: ""
+  - form: "ἀναβῇ"
+    lemma: "ΑΝΑΒΑΙΝΩ"
+    morph: 3SASA
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSN
+  - form: "ἑορτάσαι"
+    lemma: "ΕΟΡΤΑΖΩ"
+    morph: AAI
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "ἑορτὴν"
+    lemma: "ΕΟΡΤΗ"
+    morph: ASF
+  - form: "τῆς"
+    lemma: "Ο"
+    morph: GSF
+  - form: "σκηνοπηγίας"
+    lemma: "ΣΚΗΝΟΠΗΓΙΑ"
+    morph: GSF
+---
+<span class="tok" title="ΕΑΝ">[[/Greek/Lexicon/ΕΑΝ|ἐὰν]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="ΦΥΛΗ — NSF">[[/Greek/Lexicon/ΦΥΛΗ|φυλὴ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΑΙΓΥΠΤΟΣ — GSF">[[/Greek/Lexicon/ΑΙΓΥΠΤΟΣ|αἰγύπτου]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ|μὴ]]</span> <span class="tok" title="ΑΝΑΒΑΙΝΩ — 3SASA">[[/Greek/Lexicon/ΑΝΑΒΑΙΝΩ|ἀναβῇ]][[/Greek/Morphology/3SASA|ˑ]]</span> <span class="tok" title="ΜΗΔΕ">[[/Greek/Lexicon/ΜΗΔΕ|μηδὲ]]</span> <span class="tok" title="ΕΡΧΟΜΑΙ — 3SASA">[[/Greek/Lexicon/ΕΡΧΟΜΑΙ|ἔλθῃ]][[/Greek/Morphology/3SASA|ˑ]]</span> <span class="tok" title="ΕΚΕΙ">[[/Greek/Lexicon/ΕΚΕΙ|ἐκεῖ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΠΙ">[[/Greek/Lexicon/ΕΠΙ|ἐπὶ]]</span> <span class="tok" title="ΟΥΤΟΣ — DPM">[[/Greek/Lexicon/ΟΥΤΟΣ|τούτοις]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΕΙΜΙ — 3SFIM">[[/Greek/Lexicon/ΕΙΜΙ|ἔσται]][[/Greek/Morphology/3SFIM|ˑ]]</span> <span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο|ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΠΤΩΣΙΣ — NSF">[[/Greek/Lexicon/ΠΤΩΣΙΣ|πτῶσις]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΟΣ — ASF">[[/Greek/Lexicon/ΟΣ|ἣν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΠΑΤΑΣΣΩ — 3SFIA">[[/Greek/Lexicon/ΠΑΤΑΣΣΩ|πατάξει]][[/Greek/Morphology/3SFIA|ˑ]]</span> <span class="tok" title="ΚΥΡΙΟΣ — NSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ|κύριος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΠΑΣ — APN">[[/Greek/Lexicon/ΠΑΣ|πάντα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="Ο — APN">[[/Greek/Lexicon/Ο|τὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΕΘΝΟΣ — APN">[[/Greek/Lexicon/ΕΘΝΟΣ|ἔθνη]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΟΣΟΣ — APN">[[/Greek/Lexicon/ΟΣΟΣ|ὅσα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΕΑΝ">[[/Greek/Lexicon/ΕΑΝ|ἐὰν]]</span> <span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ|μὴ]]</span> <span class="tok" title="ΑΝΑΒΑΙΝΩ — 3SASA">[[/Greek/Lexicon/ΑΝΑΒΑΙΝΩ|ἀναβῇ]][[/Greek/Morphology/3SASA|ˑ]]</span> <span class="tok" title="Ο — GSN">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSN|ˑ]]</span> <span class="tok" title="ΕΟΡΤΑΖΩ — AAI">[[/Greek/Lexicon/ΕΟΡΤΑΖΩ|ἑορτάσαι]][[/Greek/Morphology/AAI|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΕΟΡΤΗ — ASF">[[/Greek/Lexicon/ΕΟΡΤΗ|ἑορτὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="Ο — GSF">[[/Greek/Lexicon/Ο|τῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΣΚΗΝΟΠΗΓΙΑ — GSF">[[/Greek/Lexicon/ΣΚΗΝΟΠΗΓΙΑ|σκηνοπηγίας]][[/Greek/Morphology/GSF|ˑ]]</span>

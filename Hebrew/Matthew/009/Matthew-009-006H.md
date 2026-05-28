@@ -1,0 +1,59 @@
+---
+language: hebrew
+book: Matthew
+chapter: 9
+verse: 6
+tokens:
+- form: אַךְ
+  lemma: אַךְ
+  morph: ""
+- form: מַעַן
+  lemma: מען
+  morph: ""
+  affixes: לְ
+- form: כִּי
+  lemma: כִּי
+  morph: ""
+- form: בֶן
+  lemma: בֵּן
+  morph: MSC
+- form: אָדָם
+  lemma: אָדָם
+  morph: MS
+  affixes: הַ
+- form: יֶשׁ
+  lemma: יש
+  morph: ""
+- form: לוֹ
+  lemma: לא
+  morph: ""
+- form: אָרֶץ
+  lemma: ארץ
+  morph: FS
+  affixes: בְּ
+- form: יֹּאמֶר
+  lemma: אָמַר
+  morph: QW3MS
+  affixes: וְ
+- form: אֶל
+  lemma: אֶל
+  morph: ""
+- form: קוּם
+  lemma: קוּם
+  morph: QMMS
+- form: אֶת
+  lemma: אֵת
+  morph: ""
+- form: לֶךְ
+  lemma: הָלַךְ
+  morph: QMMS
+  affixes: וְ
+- form: ךָ
+  lemma: ךָ
+  morph: ""
+  affixes: לְ
+- form: אֶל
+  lemma: אֶל
+  morph: ""
+---
+[[Hebrew/Lexicon/אַךְ|אַךְ]] [[Hebrew/Lexicon/לְ|לְ]][[Hebrew/Lexicon/מען|מַעַן]] [[Hebrew/Lexicon/כִּי|כִּי]] [[Hebrew/Lexicon/בֵּן|בֶן]][[Hebrew/Morphology/MSC|ˑ]] [[Hebrew/Lexicon/הַ|הָ]][[Hebrew/Lexicon/אָדָם|אָדָם]][[Hebrew/Morphology/MS|ˑ]] [[Hebrew/Lexicon/יש|יֶשׁ]] [[Hebrew/Lexicon/לא|לוֹ]] [[Hebrew/Lexicon/בְּ|בָּ]][[Hebrew/Lexicon/ארץ|אָרֶץ]][[Hebrew/Morphology/FS|ˑ]] [[Hebrew/Lexicon/וְ|וַ]][[Hebrew/Lexicon/אָמַר|יֹּאמֶר]][[Hebrew/Morphology/QW3MS|ˑ]] [[Hebrew/Lexicon/אֶל|אֶל]] [[Hebrew/Lexicon/קוּם|קוּם]][[Hebrew/Morphology/QMMS|ˑ]] [[Hebrew/Lexicon/אֵת|אֶת]] [[Hebrew/Lexicon/וְ|וְ]][[Hebrew/Lexicon/הָלַךְ|לֶךְ]][[Hebrew/Morphology/QMMS|ˑ]] [[Hebrew/Lexicon/לְ|לְ]][[Hebrew/Lexicon/ךָ|ךָ]] [[Hebrew/Lexicon/אֶל|אֶל]]

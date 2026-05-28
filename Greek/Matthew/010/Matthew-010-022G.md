@@ -1,0 +1,56 @@
+---
+language: greek
+book: Matthew
+chapter: 10
+verse: 22
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἔσεσθε"
+    lemma: "ΕΙΜΙ"
+    morph: 2PFIM
+  - form: "μισούμενοι"
+    lemma: "ΜΙΣΕΩ"
+    morph: PMP/NPM
+  - form: "ὑπὸ"
+    lemma: "ΥΠΟ"
+    morph: ""
+  - form: "πάντων"
+    lemma: "ΠΑΣ"
+    morph: GPM
+  - form: "διὰ"
+    lemma: "ΔΙΑ"
+    morph: ""
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: ASN
+  - form: "ὄνομά"
+    lemma: "ΟΝΟΜΑ"
+    morph: ASN
+  - form: "μου·"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "ὑπομείνας"
+    lemma: "ΥΠΟΜΕΝΩ"
+    morph: AAP/NSM
+  - form: "εἰς"
+    lemma: "ΕΙΣ"
+    morph: ""
+  - form: "τέλος"
+    lemma: "ΤΕΛΟΣ"
+    morph: ASN
+  - form: "οὗτος"
+    lemma: "ΟΥΤΟΣ"
+    morph: NSM
+  - form: "σωθήσεται."
+    lemma: "ΣΩΖΩ"
+    morph: 3SFIP
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΙΜΙ — 2PFIM">[[/Greek/Lexicon/ΕΙΜΙ|ἔσεσθε]][[/Greek/Morphology/2PFIM|ˑ]]</span> <span class="tok" title="ΜΙΣΕΩ — PMP/NPM">[[/Greek/Lexicon/ΜΙΣΕΩ|μισούμενοι]][[/Greek/Morphology/PMP_NPM|ˑ]]</span> <span class="tok" title="ΥΠΟ">[[/Greek/Lexicon/ΥΠΟ|ὑπὸ]]</span> <span class="tok" title="ΠΑΣ — GPM">[[/Greek/Lexicon/ΠΑΣ|πάντων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΔΙΑ">[[/Greek/Lexicon/ΔΙΑ|διὰ]]</span> <span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΟΝΟΜΑ — ASN">[[/Greek/Lexicon/ΟΝΟΜΑ|ὄνομά]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου·]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="ΥΠΟΜΕΝΩ — AAP/NSM">[[/Greek/Lexicon/ΥΠΟΜΕΝΩ|ὑπομείνας]][[/Greek/Morphology/AAP_NSM|ˑ]]</span> <span class="tok" title="ΕΙΣ">[[/Greek/Lexicon/ΕΙΣ|εἰς]]</span> <span class="tok" title="ΤΕΛΟΣ — ASN">[[/Greek/Lexicon/ΤΕΛΟΣ|τέλος]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΟΥΤΟΣ — NSM">[[/Greek/Lexicon/ΟΥΤΟΣ|οὗτος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΣΩΖΩ — 3SFIP">[[/Greek/Lexicon/ΣΩΖΩ|σωθήσεται.]][[/Greek/Morphology/3SFIP|ˑ]]</span>

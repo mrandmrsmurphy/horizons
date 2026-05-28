@@ -1,0 +1,77 @@
+---
+language: greek
+book: Matthew
+chapter: 24
+verse: 32
+tokens:
+  - form: "Ἀπὸ"
+    lemma: "ΑΠΟ"
+    morph: ""
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "τῆς"
+    lemma: "Ο"
+    morph: GSF
+  - form: "συκῆς"
+    lemma: "ΣΥΚΗ"
+    morph: GSF
+  - form: "μάθετε"
+    lemma: "ΜΑΝΘΑΝΩ"
+    morph: 2PAMA
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "παραβολήν."
+    lemma: "ΠΑΡΑΒΟΛΗ"
+    morph: ASF
+  - form: "ὅταν"
+    lemma: "ΟΤΑΝ"
+    morph: ""
+  - form: "ἤδη"
+    lemma: "ΗΔΗ"
+    morph: ""
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "κλάδος"
+    lemma: "ΚΛΑΔΟΣ"
+    morph: NSM
+  - form: "αὐτῆς"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSF
+  - form: "γένηται"
+    lemma: "ΓΙΓΝΟΜΑΙ"
+    morph: 3SASM
+  - form: "ἁπαλὸς"
+    lemma: "ΑΠΑΛΟΣ"
+    morph: NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "τὰ"
+    lemma: "Ο"
+    morph: APN
+  - form: "φύλλα"
+    lemma: "ΦΥΛΛΟΝ"
+    morph: APN
+  - form: "ἐκφύῃ,"
+    lemma: "ΕΚΦΥΩ"
+    morph: 3SPSA
+  - form: "γινώσκετε"
+    lemma: "ΓΙΓΝΩΣΚΩ"
+    morph: 2PPIA
+  - form: "ὅτι"
+    lemma: "ΟΤΙ"
+    morph: ""
+  - form: "ἐγγὺς"
+    lemma: "ΕΓΓΥΣ"
+    morph: ""
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: NSN
+  - form: "θέρος·"
+    lemma: "ΘΕΡΟΣ"
+    morph: NSN
+---
+<span class="tok" title="ΑΠΟ">[[/Greek/Lexicon/ΑΠΟ|Ἀπὸ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="Ο — GSF">[[/Greek/Lexicon/Ο|τῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΣΥΚΗ — GSF">[[/Greek/Lexicon/ΣΥΚΗ|συκῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΜΑΝΘΑΝΩ — 2PAMA">[[/Greek/Lexicon/ΜΑΝΘΑΝΩ|μάθετε]][[/Greek/Morphology/2PAMA|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΠΑΡΑΒΟΛΗ — ASF">[[/Greek/Lexicon/ΠΑΡΑΒΟΛΗ|παραβολήν.]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΟΤΑΝ">[[/Greek/Lexicon/ΟΤΑΝ|ὅταν]]</span> <span class="tok" title="ΗΔΗ">[[/Greek/Lexicon/ΗΔΗ|ἤδη]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΛΑΔΟΣ — NSM">[[/Greek/Lexicon/ΚΛΑΔΟΣ|κλάδος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSF">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΓΙΓΝΟΜΑΙ — 3SASM">[[/Greek/Lexicon/ΓΙΓΝΟΜΑΙ|γένηται]][[/Greek/Morphology/3SASM|ˑ]]</span> <span class="tok" title="ΑΠΑΛΟΣ — NSM">[[/Greek/Lexicon/ΑΠΑΛΟΣ|ἁπαλὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — APN">[[/Greek/Lexicon/Ο|τὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΦΥΛΛΟΝ — APN">[[/Greek/Lexicon/ΦΥΛΛΟΝ|φύλλα]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΕΚΦΥΩ — 3SPSA">[[/Greek/Lexicon/ΕΚΦΥΩ|ἐκφύῃ,]][[/Greek/Morphology/3SPSA|ˑ]]</span> <span class="tok" title="ΓΙΓΝΩΣΚΩ — 2PPIA">[[/Greek/Lexicon/ΓΙΓΝΩΣΚΩ|γινώσκετε]][[/Greek/Morphology/2PPIA|ˑ]]</span> <span class="tok" title="ΟΤΙ">[[/Greek/Lexicon/ΟΤΙ|ὅτι]]</span> <span class="tok" title="ΕΓΓΥΣ">[[/Greek/Lexicon/ΕΓΓΥΣ|ἐγγὺς]]</span> <span class="tok" title="Ο — NSN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="ΘΕΡΟΣ — NSN">[[/Greek/Lexicon/ΘΕΡΟΣ|θέρος·]][[/Greek/Morphology/NSN|ˑ]]</span>

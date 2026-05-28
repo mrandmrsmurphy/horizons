@@ -1,0 +1,80 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 27
+verse: 1
+tokens:
+  - form: "υἱὸς"
+    lemma: "ΥΙΟΣ"
+    morph: NSM
+  - form: "εἴκοσι"
+    lemma: "ΕΙΚΟΣΙ"
+    morph: ""
+  - form: "πέντε"
+    lemma: "ΠΕΝΤΕ"
+    morph: ""
+  - form: "ἐτῶν"
+    lemma: "ΕΤΟΣ"
+    morph: GPN
+  - form: "ιωαθαμ"
+    lemma: "ΙΩΑΘΑΜ"
+    morph: NSM
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSN
+  - form: "βασιλεῦσαι"
+    lemma: "ΒΑΣΙΛΕΥΩ"
+    morph: AAI
+  - form: "αὐτὸν"
+    lemma: "ΑΥΤΟΣ"
+    morph: ASM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "δέκα"
+    lemma: "ΔΕΚΑ"
+    morph: ""
+  - form: "ἓξ"
+    lemma: "ΕΞ"
+    morph: ""
+  - form: "ἔτη"
+    lemma: "ΕΤΟΣ"
+    morph: APN
+  - form: "ἐβασίλευσεν"
+    lemma: "ΒΑΣΙΛΕΥΩ"
+    morph: 3SAIA
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "Ἱερουσαλὴμ"
+    lemma: "ΙΕΡΟΥΣΑΛΗΜ"
+    morph: DSF
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ὄνομα"
+    lemma: "ΟΝΟΜΑ"
+    morph: NSN
+  - form: "τῆς"
+    lemma: "Ο"
+    morph: GSF
+  - form: "μητρὸς"
+    lemma: "ΜΗΤΗΡ"
+    morph: GSF
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "ιερουσα"
+    lemma: "ΙΕΡΟΥΣΑ"
+    morph: NSF
+  - form: "θυγάτηρ"
+    lemma: "ΘΥΓΑΤΗΡ"
+    morph: NSF
+  - form: "σαδωκ"
+    lemma: "ΣΑΔΩΚ"
+    morph: GSM
+---
+<span class="tok" title="ΥΙΟΣ — NSM">[[/Greek/Lexicon/ΥΙΟΣ|υἱὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΙΚΟΣΙ">[[/Greek/Lexicon/ΕΙΚΟΣΙ|εἴκοσι]]</span> <span class="tok" title="ΠΕΝΤΕ">[[/Greek/Lexicon/ΠΕΝΤΕ|πέντε]]</span> <span class="tok" title="ΕΤΟΣ — GPN">[[/Greek/Lexicon/ΕΤΟΣ|ἐτῶν]][[/Greek/Morphology/GPN|ˑ]]</span> <span class="tok" title="ΙΩΑΘΑΜ — NSM">[[/Greek/Lexicon/ΙΩΑΘΑΜ|ιωαθαμ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="Ο — DSN">[[/Greek/Lexicon/Ο|τῷ]][[/Greek/Morphology/DSN|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΩ — AAI">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΩ|βασιλεῦσαι]][[/Greek/Morphology/AAI|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — ASM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΔΕΚΑ">[[/Greek/Lexicon/ΔΕΚΑ|δέκα]]</span> <span class="tok" title="ΕΞ">[[/Greek/Lexicon/ΕΞ|ἓξ]]</span> <span class="tok" title="ΕΤΟΣ — APN">[[/Greek/Lexicon/ΕΤΟΣ|ἔτη]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΩ — 3SAIA">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΩ|ἐβασίλευσεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΙΕΡΟΥΣΑΛΗΜ — DSF">[[/Greek/Lexicon/ΙΕΡΟΥΣΑΛΗΜ|Ἱερουσαλὴμ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΟΝΟΜΑ — NSN">[[/Greek/Lexicon/ΟΝΟΜΑ|ὄνομα]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="Ο — GSF">[[/Greek/Lexicon/Ο|τῆς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΜΗΤΗΡ — GSF">[[/Greek/Lexicon/ΜΗΤΗΡ|μητρὸς]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΙΕΡΟΥΣΑ — NSF">[[/Greek/Lexicon/ΙΕΡΟΥΣΑ|ιερουσα]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΘΥΓΑΤΗΡ — NSF">[[/Greek/Lexicon/ΘΥΓΑΤΗΡ|θυγάτηρ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΣΑΔΩΚ — GSM">[[/Greek/Lexicon/ΣΑΔΩΚ|σαδωκ]][[/Greek/Morphology/GSM|ˑ]]</span>

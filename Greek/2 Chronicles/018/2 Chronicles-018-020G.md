@@ -1,0 +1,62 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 18
+verse: 20
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐξῆλθεν"
+    lemma: "ΕΞΕΡΧΟΜΑΙ"
+    morph: 3SAIA
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: NSN
+  - form: "πνεῦμα"
+    lemma: "ΠΝΕΥΜΑ"
+    morph: NSN
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἔστη"
+    lemma: "ΙΣΤΗΜΙ"
+    morph: 3SAIA
+  - form: "ἐνώπιον"
+    lemma: "ΕΝΩΠΙΟΝ"
+    morph: ""
+  - form: "κυρίου"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: GSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἶπεν"
+    lemma: "ΛΕΓΩ"
+    morph: 3SAIA
+  - form: "ἐγὼ"
+    lemma: "ΕΓΩ"
+    morph: NS
+  - form: "ἀπατήσω"
+    lemma: "ΑΠΑΤΑΩ"
+    morph: 1SFIA
+  - form: "αὐτόν"
+    lemma: "ΑΥΤΟΣ"
+    morph: ASM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἶπεν"
+    lemma: "ΛΕΓΩ"
+    morph: 3SAIA
+  - form: "κύριος"
+    lemma: "ΚΥΡΙΟΣ"
+    morph: NSM
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "τίνι"
+    lemma: "What"
+    morph: DSN
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΞΕΡΧΟΜΑΙ — 3SAIA">[[/Greek/Lexicon/ΕΞΕΡΧΟΜΑΙ|ἐξῆλθεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="Ο — NSN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="ΠΝΕΥΜΑ — NSN">[[/Greek/Lexicon/ΠΝΕΥΜΑ|πνεῦμα]][[/Greek/Morphology/NSN|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΙΣΤΗΜΙ — 3SAIA">[[/Greek/Lexicon/ΙΣΤΗΜΙ|ἔστη]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΕΝΩΠΙΟΝ">[[/Greek/Lexicon/ΕΝΩΠΙΟΝ|ἐνώπιον]]</span> <span class="tok" title="ΚΥΡΙΟΣ — GSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ|κυρίου]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΕΓΩ — 3SAIA">[[/Greek/Lexicon/ΛΕΓΩ|εἶπεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΕΓΩ — NS">[[/Greek/Lexicon/ΕΓΩ|ἐγὼ]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΑΠΑΤΑΩ — 1SFIA">[[/Greek/Lexicon/ΑΠΑΤΑΩ|ἀπατήσω]][[/Greek/Morphology/1SFIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — ASM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτόν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΕΓΩ — 3SAIA">[[/Greek/Lexicon/ΛΕΓΩ|εἶπεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΚΥΡΙΟΣ — NSM">[[/Greek/Lexicon/ΚΥΡΙΟΣ|κύριος]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="What — DSN">[[/Greek/Lexicon/What|τίνι]][[/Greek/Morphology/DSN|ˑ]]</span>

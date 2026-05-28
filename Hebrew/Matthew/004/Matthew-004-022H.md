@@ -1,0 +1,19 @@
+---
+language: hebrew
+book: Matthew
+chapter: 4
+verse: 22
+tokens:
+- form: אֶת
+  lemma: אֵת
+  morph: ""
+- form: אֶת
+  lemma: אֵת
+  morph: ""
+  affixes: וְ
+- form: יֵּלְכוּ
+  lemma: ילך
+  morph: QW3MP
+  affixes: וְ
+---
+[[Hebrew/Lexicon/אֵת|אֶת]] [[Hebrew/Lexicon/וְ|וְ]][[Hebrew/Lexicon/אֵת|אֶת]] [[Hebrew/Lexicon/וְ|וַ]][[Hebrew/Lexicon/ילך|יֵּלְכוּ]][[Hebrew/Morphology/QW3MP|ˑ]]

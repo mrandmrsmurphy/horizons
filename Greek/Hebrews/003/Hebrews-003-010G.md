@@ -1,0 +1,62 @@
+---
+language: greek
+book: Hebrews
+chapter: 3
+verse: 10
+tokens:
+  - form: "διὸ"
+    lemma: "ΔΙΟ"
+    morph: ""
+  - form: "προσώχθισα"
+    lemma: "ΠΡΟΣΟΧΘΙΖΩ"
+    morph: 1SAIA
+  - form: "τῇ"
+    lemma: "Ο"
+    morph: DSF
+  - form: "γενεᾷ"
+    lemma: "ΓΕΝΕΑ"
+    morph: DSF
+  - form: "ταύτῃ"
+    lemma: "ΟΥΤΟΣ"
+    morph: DSF
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "εἶπον,"
+    lemma: "ΛΕΓΩ"
+    morph: 1SAIA
+  - form: "ἀεὶ"
+    lemma: "ΑΕΙ"
+    morph: ""
+  - form: "πλανῶνται"
+    lemma: "ΠΛΑΝΑΩ"
+    morph: 3PPIM
+  - form: "τῇ"
+    lemma: "Ο"
+    morph: DSF
+  - form: "καρδίᾳ·"
+    lemma: "ΚΑΡΔΙΑ"
+    morph: DSF
+  - form: "αὐτοὶ"
+    lemma: "ΑΥΤΟΣ"
+    morph: NPM
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "οὐκ"
+    lemma: "ΟΥ"
+    morph: ""
+  - form: "ἔγνωσαν"
+    lemma: "ΓΙΓΝΩΣΚΩ"
+    morph: 3PAIA
+  - form: "τὰς"
+    lemma: "Ο"
+    morph: APF
+  - form: "ὁδούς"
+    lemma: "ΟΔΟΣ"
+    morph: APF
+  - form: "μου,"
+    lemma: "ΕΓΩ"
+    morph: GS
+---
+<span class="tok" title="ΔΙΟ">[[/Greek/Lexicon/ΔΙΟ|διὸ]]</span> <span class="tok" title="ΠΡΟΣΟΧΘΙΖΩ — 1SAIA">[[/Greek/Lexicon/ΠΡΟΣΟΧΘΙΖΩ|προσώχθισα]][[/Greek/Morphology/1SAIA|ˑ]]</span> <span class="tok" title="Ο — DSF">[[/Greek/Lexicon/Ο|τῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΓΕΝΕΑ — DSF">[[/Greek/Lexicon/ΓΕΝΕΑ|γενεᾷ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΟΥΤΟΣ — DSF">[[/Greek/Lexicon/ΟΥΤΟΣ|ταύτῃ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΕΓΩ — 1SAIA">[[/Greek/Lexicon/ΛΕΓΩ|εἶπον,]][[/Greek/Morphology/1SAIA|ˑ]]</span> <span class="tok" title="ΑΕΙ">[[/Greek/Lexicon/ΑΕΙ|ἀεὶ]]</span> <span class="tok" title="ΠΛΑΝΑΩ — 3PPIM">[[/Greek/Lexicon/ΠΛΑΝΑΩ|πλανῶνται]][[/Greek/Morphology/3PPIM|ˑ]]</span> <span class="tok" title="Ο — DSF">[[/Greek/Lexicon/Ο|τῇ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΚΑΡΔΙΑ — DSF">[[/Greek/Lexicon/ΚΑΡΔΙΑ|καρδίᾳ·]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — NPM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοὶ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ|οὐκ]]</span> <span class="tok" title="ΓΙΓΝΩΣΚΩ — 3PAIA">[[/Greek/Lexicon/ΓΙΓΝΩΣΚΩ|ἔγνωσαν]][[/Greek/Morphology/3PAIA|ˑ]]</span> <span class="tok" title="Ο — APF">[[/Greek/Lexicon/Ο|τὰς]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="ΟΔΟΣ — APF">[[/Greek/Lexicon/ΟΔΟΣ|ὁδούς]][[/Greek/Morphology/APF|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου,]][[/Greek/Morphology/GS|ˑ]]</span>

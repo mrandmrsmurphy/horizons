@@ -1,0 +1,26 @@
+---
+language: greek
+book: Nehemiah
+chapter: 7
+verse: 12
+tokens:
+  - form: "υἱοὶ"
+    lemma: "ΥΙΟΣ"
+    morph: NPM
+  - form: "αιλαμ"
+    lemma: "ΑΙΛΑΜ"
+    morph: GSM
+  - form: "χίλιοι"
+    lemma: "ΧΙΛΙΟΙ"
+    morph: NPM
+  - form: "διακόσιοι"
+    lemma: "ΔΙΑΚΟΣΙΟΙ"
+    morph: NPM
+  - form: "πεντήκοντα"
+    lemma: "ΠΕΝΤΗΚΟΝΤΑ"
+    morph: ""
+  - form: "τέσσαρες"
+    lemma: "ΤΕΣΣΑΡΕΣ"
+    morph: NPM
+---
+<span class="tok" title="ΥΙΟΣ — NPM">[[/Greek/Lexicon/ΥΙΟΣ|υἱοὶ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΑΙΛΑΜ — GSM">[[/Greek/Lexicon/ΑΙΛΑΜ|αιλαμ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΧΙΛΙΟΙ — NPM">[[/Greek/Lexicon/ΧΙΛΙΟΙ|χίλιοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΔΙΑΚΟΣΙΟΙ — NPM">[[/Greek/Lexicon/ΔΙΑΚΟΣΙΟΙ|διακόσιοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΠΕΝΤΗΚΟΝΤΑ">[[/Greek/Lexicon/ΠΕΝΤΗΚΟΝΤΑ|πεντήκοντα]]</span> <span class="tok" title="ΤΕΣΣΑΡΕΣ — NPM">[[/Greek/Lexicon/ΤΕΣΣΑΡΕΣ|τέσσαρες]][[/Greek/Morphology/NPM|ˑ]]</span>

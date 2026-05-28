@@ -1,0 +1,98 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 34
+verse: 25
+tokens:
+  - form: "ἀνθ'"
+    lemma: "ΑΝΤΙ"
+    morph: ""
+  - form: "ὧν"
+    lemma: "ΟΣ"
+    morph: GPM
+  - form: "ἐγκατέλιπόν"
+    lemma: "ΕΓΚΑΤΑΛΕΙΠΩ"
+    morph: 3PAIA
+  - form: "με"
+    lemma: "ΕΓΩ"
+    morph: AS
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐθυμίασαν"
+    lemma: "ΘΥΜΙΑΩ"
+    morph: 3PAIA
+  - form: "θεοῖς"
+    lemma: "ΘΕΟΣ"
+    morph: DPM
+  - form: "ἀλλοτρίοις"
+    lemma: "ΑΛΛΟΤΡΙΟΣ"
+    morph: DPM
+  - form: "ἵνα"
+    lemma: "ΙΝΑ"
+    morph: ""
+  - form: "παροργίσωσίν"
+    lemma: "ΠΑΡΟΡΓΙΖΩ"
+    morph: 3PASA
+  - form: "με"
+    lemma: "ΕΓΩ"
+    morph: AS
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "πᾶσιν"
+    lemma: "ΠΑΣ"
+    morph: DPN
+  - form: "τοῖς"
+    lemma: "Ο"
+    morph: DPN
+  - form: "ἔργοις"
+    lemma: "ΕΡΓΟΝ"
+    morph: DPN
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPF
+  - form: "χειρῶν"
+    lemma: "ΧΕΙΡ"
+    morph: GPF
+  - form: "αὐτῶν"
+    lemma: "ΑΥΤΟΣ"
+    morph: GPM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐξεκαύθη"
+    lemma: "ΕΚΚΑΙΩ"
+    morph: 3SAIP
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "θυμός"
+    lemma: "ΘΥΜΟΣ"
+    morph: NSM
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSM
+  - form: "τόπῳ"
+    lemma: "ΤΟΠΟΣ"
+    morph: DSM
+  - form: "τούτῳ"
+    lemma: "ΟΥΤΟΣ"
+    morph: DSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "οὐ"
+    lemma: "ΟΥ"
+    morph: ""
+  - form: "σβεσθήσεται"
+    lemma: "ΣΒΕΝΝΥΜΙ"
+    morph: 3SFIP
+---
+<span class="tok" title="ΑΝΤΙ">[[/Greek/Lexicon/ΑΝΤΙ|ἀνθ']]</span> <span class="tok" title="ΟΣ — GPM">[[/Greek/Lexicon/ΟΣ|ὧν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΕΓΚΑΤΑΛΕΙΠΩ — 3PAIA">[[/Greek/Lexicon/ΕΓΚΑΤΑΛΕΙΠΩ|ἐγκατέλιπόν]][[/Greek/Morphology/3PAIA|ˑ]]</span> <span class="tok" title="ΕΓΩ — AS">[[/Greek/Lexicon/ΕΓΩ|με]][[/Greek/Morphology/AS|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΘΥΜΙΑΩ — 3PAIA">[[/Greek/Lexicon/ΘΥΜΙΑΩ|ἐθυμίασαν]][[/Greek/Morphology/3PAIA|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — DPM">[[/Greek/Lexicon/ΘΕΟΣ|θεοῖς]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΑΛΛΟΤΡΙΟΣ — DPM">[[/Greek/Lexicon/ΑΛΛΟΤΡΙΟΣ|ἀλλοτρίοις]][[/Greek/Morphology/DPM|ˑ]]</span> <span class="tok" title="ΙΝΑ">[[/Greek/Lexicon/ΙΝΑ|ἵνα]]</span> <span class="tok" title="ΠΑΡΟΡΓΙΖΩ — 3PASA">[[/Greek/Lexicon/ΠΑΡΟΡΓΙΖΩ|παροργίσωσίν]][[/Greek/Morphology/3PASA|ˑ]]</span> <span class="tok" title="ΕΓΩ — AS">[[/Greek/Lexicon/ΕΓΩ|με]][[/Greek/Morphology/AS|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΠΑΣ — DPN">[[/Greek/Lexicon/ΠΑΣ|πᾶσιν]][[/Greek/Morphology/DPN|ˑ]]</span> <span class="tok" title="Ο — DPN">[[/Greek/Lexicon/Ο|τοῖς]][[/Greek/Morphology/DPN|ˑ]]</span> <span class="tok" title="ΕΡΓΟΝ — DPN">[[/Greek/Lexicon/ΕΡΓΟΝ|ἔργοις]][[/Greek/Morphology/DPN|ˑ]]</span> <span class="tok" title="Ο — GPF">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPF|ˑ]]</span> <span class="tok" title="ΧΕΙΡ — GPF">[[/Greek/Lexicon/ΧΕΙΡ|χειρῶν]][[/Greek/Morphology/GPF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GPM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΚΚΑΙΩ — 3SAIP">[[/Greek/Lexicon/ΕΚΚΑΙΩ|ἐξεκαύθη]][[/Greek/Morphology/3SAIP|ˑ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΘΥΜΟΣ — NSM">[[/Greek/Lexicon/ΘΥΜΟΣ|θυμός]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο|τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΤΟΠΟΣ — DSM">[[/Greek/Lexicon/ΤΟΠΟΣ|τόπῳ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΟΥΤΟΣ — DSM">[[/Greek/Lexicon/ΟΥΤΟΣ|τούτῳ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΟΥ">[[/Greek/Lexicon/ΟΥ|οὐ]]</span> <span class="tok" title="ΣΒΕΝΝΥΜΙ — 3SFIP">[[/Greek/Lexicon/ΣΒΕΝΝΥΜΙ|σβεσθήσεται]][[/Greek/Morphology/3SFIP|ˑ]]</span>

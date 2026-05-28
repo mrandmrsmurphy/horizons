@@ -1,0 +1,22 @@
+---
+language: hebrew
+book: 2 Corinthians
+chapter: 9
+verse: 9
+tokens:
+- form: נָתַן
+  lemma: נָתַן
+  morph: QP3MS
+- form: צִדְקָת
+  lemma: צדקה
+  morph: FSC
+  suffix: וֹ
+- form: עֹמֶדֶת
+  lemma: עָמַד
+  morph: QRFS
+- form: עַד
+  lemma: עַד
+  morph: MS
+  affixes: לְ
+---
+[[Hebrew/Lexicon/נָתַן|נָתַן]][[Hebrew/Morphology/QP3MS|ˑ]] [[Hebrew/Lexicon/צדקה|צִדְקָתוֹ]][[Hebrew/Morphology/FSC|ˑ]] [[Hebrew/Lexicon/עָמַד|עֹמֶדֶת]][[Hebrew/Morphology/QRFS|ˑ]] [[Hebrew/Lexicon/לְ|לָ]][[Hebrew/Lexicon/עַד|עַד]][[Hebrew/Morphology/MS|ˑ]]

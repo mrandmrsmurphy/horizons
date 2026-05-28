@@ -1,0 +1,32 @@
+---
+language: greek
+book: Matthew
+chapter: 18
+verse: 2
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "προσκαλεσάμενος"
+    lemma: "ΠΡΟΣΚΑΛΕΩ"
+    morph: AMP/NSM
+  - form: "παιδίον"
+    lemma: "ΠΑΙΔΙΟΝ"
+    morph: ASN
+  - form: "ἔστησεν"
+    lemma: "ΙΣΤΗΜΙ"
+    morph: 3SAIA
+  - form: "αὐτὸ"
+    lemma: "ΑΥΤΟΣ"
+    morph: ASN
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "μέσῳ"
+    lemma: "ΜΕΣΟΣ"
+    morph: DSN
+  - form: "αὐτῶν"
+    lemma: "ΑΥΤΟΣ"
+    morph: GPM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΠΡΟΣΚΑΛΕΩ — AMP/NSM">[[/Greek/Lexicon/ΠΡΟΣΚΑΛΕΩ|προσκαλεσάμενος]][[/Greek/Morphology/AMP_NSM|ˑ]]</span> <span class="tok" title="ΠΑΙΔΙΟΝ — ASN">[[/Greek/Lexicon/ΠΑΙΔΙΟΝ|παιδίον]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΙΣΤΗΜΙ — 3SAIA">[[/Greek/Lexicon/ΙΣΤΗΜΙ|ἔστησεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — ASN">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΜΕΣΟΣ — DSN">[[/Greek/Lexicon/ΜΕΣΟΣ|μέσῳ]][[/Greek/Morphology/DSN|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GPM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῶν]][[/Greek/Morphology/GPM|ˑ]]</span>

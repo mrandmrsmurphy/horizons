@@ -1,0 +1,59 @@
+---
+language: greek
+book: 1 Chronicles
+chapter: 19
+verse: 11
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: ASN
+  - form: "κατάλοιπον"
+    lemma: "ΚΑΤΑΛΟΙΠΟΣ"
+    morph: ASM
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "λαοῦ"
+    lemma: "ΛΑΟΣ"
+    morph: GSM
+  - form: "ἔδωκεν"
+    lemma: "ΔΙΔΩΜΙ"
+    morph: 3SAIA
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "χειρὶ"
+    lemma: "ΧΕΙΡ"
+    morph: DSF
+  - form: "αβεσσα"
+    lemma: "ΑΒΕΣΣΑ"
+    morph: GSM
+  - form: "ἀδελφοῦ"
+    lemma: "ΑΔΕΛΦΟΣ"
+    morph: GSM
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "παρετάξαντο"
+    lemma: "ΠΑΡΑΤΑΣΣΩ"
+    morph: 3PAIM
+  - form: "ἐξ"
+    lemma: "ΕΚ"
+    morph: ""
+  - form: "ἐναντίας"
+    lemma: "ΕΝΑΝΤΙΟΣ"
+    morph: GSF
+  - form: "υἱῶν"
+    lemma: "ΥΙΟΣ"
+    morph: GPM
+  - form: "αμμων"
+    lemma: "ΑΜΜΩΝ"
+    morph: GSM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΚΑΤΑΛΟΙΠΟΣ — ASM">[[/Greek/Lexicon/ΚΑΤΑΛΟΙΠΟΣ|κατάλοιπον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΛΑΟΣ — GSM">[[/Greek/Lexicon/ΛΑΟΣ|λαοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΔΙΔΩΜΙ — 3SAIA">[[/Greek/Lexicon/ΔΙΔΩΜΙ|ἔδωκεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΧΕΙΡ — DSF">[[/Greek/Lexicon/ΧΕΙΡ|χειρὶ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΑΒΕΣΣΑ — GSM">[[/Greek/Lexicon/ΑΒΕΣΣΑ|αβεσσα]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΑΔΕΛΦΟΣ — GSM">[[/Greek/Lexicon/ΑΔΕΛΦΟΣ|ἀδελφοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΠΑΡΑΤΑΣΣΩ — 3PAIM">[[/Greek/Lexicon/ΠΑΡΑΤΑΣΣΩ|παρετάξαντο]][[/Greek/Morphology/3PAIM|ˑ]]</span> <span class="tok" title="ΕΚ">[[/Greek/Lexicon/ΕΚ|ἐξ]]</span> <span class="tok" title="ΕΝΑΝΤΙΟΣ — GSF">[[/Greek/Lexicon/ΕΝΑΝΤΙΟΣ|ἐναντίας]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΥΙΟΣ — GPM">[[/Greek/Lexicon/ΥΙΟΣ|υἱῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΑΜΜΩΝ — GSM">[[/Greek/Lexicon/ΑΜΜΩΝ|αμμων]][[/Greek/Morphology/GSM|ˑ]]</span>

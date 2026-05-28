@@ -1,0 +1,17 @@
+---
+language: hebrew
+book: Matthew
+chapter: 24
+verse: 41
+tokens:
+- form: שְׁתַּיִם
+  lemma: שנים
+  morph: FD
+- form: אַחַת
+  lemma: אֶחָד
+  morph: FS
+- form: אַחַת
+  lemma: אֶחָד
+  morph: FS
+---
+[[Hebrew/Lexicon/שנים|שְׁתַּיִם]][[Hebrew/Morphology/FD|ˑ]] [[Hebrew/Lexicon/אֶחָד|אַחַת]][[Hebrew/Morphology/FS|ˑ]] [[Hebrew/Lexicon/אֶחָד|אַחַת]][[Hebrew/Morphology/FS|ˑ]]

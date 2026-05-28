@@ -1,0 +1,65 @@
+---
+language: greek
+book: Jeremiah
+chapter: 52
+verse: 32
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐλάλησεν"
+    lemma: "ΛΑΛΕΩ"
+    morph: 3SAIA
+  - form: "αὐτῷ"
+    lemma: "ΑΥΤΟΣ"
+    morph: DSM
+  - form: "χρηστὰ"
+    lemma: "ΧΡΗΣΤΟΣ"
+    morph: APN
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἔδωκεν"
+    lemma: "ΔΙΔΩΜΙ"
+    morph: 3SAIA
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "θρόνον"
+    lemma: "ΘΡΟΝΟΣ"
+    morph: ASM
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "ἐπάνω"
+    lemma: "ΕΠΑΝΩ"
+    morph: ""
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPM
+  - form: "θρόνων"
+    lemma: "ΘΡΟΝΟΣ"
+    morph: GPM
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPM
+  - form: "βασιλέων"
+    lemma: "ΒΑΣΙΛΕΥΣ"
+    morph: GPM
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPM
+  - form: "μετ'"
+    lemma: "ΜΕΤΑ"
+    morph: ""
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "βαβυλῶνι"
+    lemma: "ΒΑΒΥΛΩΝ"
+    morph: DSF
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΑΛΕΩ — 3SAIA">[[/Greek/Lexicon/ΛΑΛΕΩ|ἐλάλησεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — DSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΧΡΗΣΤΟΣ — APN">[[/Greek/Lexicon/ΧΡΗΣΤΟΣ|χρηστὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΔΙΔΩΜΙ — 3SAIA">[[/Greek/Lexicon/ΔΙΔΩΜΙ|ἔδωκεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΘΡΟΝΟΣ — ASM">[[/Greek/Lexicon/ΘΡΟΝΟΣ|θρόνον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΕΠΑΝΩ">[[/Greek/Lexicon/ΕΠΑΝΩ|ἐπάνω]]</span> <span class="tok" title="Ο — GPM">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΘΡΟΝΟΣ — GPM">[[/Greek/Lexicon/ΘΡΟΝΟΣ|θρόνων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="Ο — GPM">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΣ — GPM">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΣ|βασιλέων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="Ο — GPM">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΜΕΤΑ">[[/Greek/Lexicon/ΜΕΤΑ|μετ']]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΒΑΒΥΛΩΝ — DSF">[[/Greek/Lexicon/ΒΑΒΥΛΩΝ|βαβυλῶνι]][[/Greek/Morphology/DSF|ˑ]]</span>

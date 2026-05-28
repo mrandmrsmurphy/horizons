@@ -1,0 +1,62 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 26
+verse: 2
+tokens:
+  - form: "αὐτὸς"
+    lemma: "ΑΥΤΟΣ"
+    morph: NSM
+  - form: "ᾠκοδόμησεν"
+    lemma: "ΟΙΚΟΔΟΜΕΩ"
+    morph: 3SAIA
+  - form: "τὴν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "αιλαθ"
+    lemma: "ΑΙΛΑΘ"
+    morph: ASF
+  - form: "αὐτὸς"
+    lemma: "ΑΥΤΟΣ"
+    morph: NSM
+  - form: "ἐπέστρεψεν"
+    lemma: "ΕΠΙΣΤΡΕΦΩ"
+    morph: 3SAIA
+  - form: "αὐτὴν"
+    lemma: "ΑΥΤΟΣ"
+    morph: ASF
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSM
+  - form: "ιουδα"
+    lemma: "ΙΟΥΔΑΣ"
+    morph: DSM
+  - form: "μετὰ"
+    lemma: "ΜΕΤΑ"
+    morph: ""
+  - form: "τὸ"
+    lemma: "Ο"
+    morph: ASN
+  - form: "κοιμηθῆναι"
+    lemma: "ΚΟΙΜΑΩ"
+    morph: API
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "βασιλέα"
+    lemma: "ΒΑΣΙΛΕΥΣ"
+    morph: ASM
+  - form: "μετὰ"
+    lemma: "ΜΕΤΑ"
+    morph: ""
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPM
+  - form: "πατέρων"
+    lemma: "ΠΑΤΗΡ"
+    morph: GPM
+  - form: "αὐτοῦ"
+    lemma: "ΑΥΤΟΣ"
+    morph: GSM
+---
+<span class="tok" title="ΑΥΤΟΣ — NSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΟΙΚΟΔΟΜΕΩ — 3SAIA">[[/Greek/Lexicon/ΟΙΚΟΔΟΜΕΩ|ᾠκοδόμησεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΑΙΛΑΘ — ASF">[[/Greek/Lexicon/ΑΙΛΑΘ|αιλαθ]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — NSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΕΠΙΣΤΡΕΦΩ — 3SAIA">[[/Greek/Lexicon/ΕΠΙΣΤΡΕΦΩ|ἐπέστρεψεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — ASF">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτὴν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο|τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΙΟΥΔΑΣ — DSM">[[/Greek/Lexicon/ΙΟΥΔΑΣ|ιουδα]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΜΕΤΑ">[[/Greek/Lexicon/ΜΕΤΑ|μετὰ]]</span> <span class="tok" title="Ο — ASN">[[/Greek/Lexicon/Ο|τὸ]][[/Greek/Morphology/ASN|ˑ]]</span> <span class="tok" title="ΚΟΙΜΑΩ — API">[[/Greek/Lexicon/ΚΟΙΜΑΩ|κοιμηθῆναι]][[/Greek/Morphology/API|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΥΣ — ASM">[[/Greek/Lexicon/ΒΑΣΙΛΕΥΣ|βασιλέα]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΜΕΤΑ">[[/Greek/Lexicon/ΜΕΤΑ|μετὰ]]</span> <span class="tok" title="Ο — GPM">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΠΑΤΗΡ — GPM">[[/Greek/Lexicon/ΠΑΤΗΡ|πατέρων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — GSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοῦ]][[/Greek/Morphology/GSM|ˑ]]</span>

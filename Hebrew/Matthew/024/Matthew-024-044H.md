@@ -1,0 +1,37 @@
+---
+language: hebrew
+book: Matthew
+chapter: 24
+verse: 44
+tokens:
+- form: כֵן
+  lemma: כֵּן
+  morph: ""
+  affixes: לְ
+- form: הֱיוּ
+  lemma: הָיָה
+  morph: QMMP
+- form: גַּם
+  lemma: גם
+  morph: ""
+- form: אַתֶּם
+  lemma: אַתָּה
+  morph: MP
+- form: כִּי
+  lemma: כִּי
+  morph: ""
+- form: אֲשֶׁר
+  lemma: אֲשֶׁר
+  morph: ""
+- form: לֹא
+  lemma: לא
+  morph: ""
+- form: בֶּן
+  lemma: בֵּן
+  morph: MSC
+- form: אָדָם
+  lemma: אָדָם
+  morph: MS
+  affixes: הַ
+---
+[[Hebrew/Lexicon/לְ|לָ]][[Hebrew/Lexicon/כֵּן|כֵן]] [[Hebrew/Lexicon/הָיָה|הֱיוּ]][[Hebrew/Morphology/QMMP|ˑ]] [[Hebrew/Lexicon/גם|גַּם]] [[Hebrew/Lexicon/אַתָּה|אַתֶּם]][[Hebrew/Morphology/MP|ˑ]] [[Hebrew/Lexicon/כִּי|כִּי]] [[Hebrew/Lexicon/אֲשֶׁר|אֲשֶׁר]] [[Hebrew/Lexicon/לא|לֹא]] [[Hebrew/Lexicon/בֵּן|בֶּן]][[Hebrew/Morphology/MSC|ˑ]] [[Hebrew/Lexicon/הַ|הָ]][[Hebrew/Lexicon/אָדָם|אָדָם]][[Hebrew/Morphology/MS|ˑ]]

@@ -1,0 +1,80 @@
+---
+language: greek
+book: Isaiah
+chapter: 37
+verse: 12
+tokens:
+  - form: "μὴ"
+    lemma: "ΜΗ"
+    morph: ""
+  - form: "ἐρρύσαντο"
+    lemma: "ΡΥΟΜΑΙ"
+    morph: 3PAIM
+  - form: "αὐτοὺς"
+    lemma: "ΑΥΤΟΣ"
+    morph: APM
+  - form: "οἱ"
+    lemma: "Ο"
+    morph: NPM
+  - form: "θεοὶ"
+    lemma: "ΘΕΟΣ"
+    morph: NPM
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPN
+  - form: "ἐθνῶν"
+    lemma: "ΕΘΝΟΣ"
+    morph: GPN
+  - form: "οὓς"
+    lemma: "ΟΣ"
+    morph: APM
+  - form: "οἱ"
+    lemma: "Ο"
+    morph: NPM
+  - form: "πατέρες"
+    lemma: "ΠΑΤΗΡ"
+    morph: NPM
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ἀπώλεσαν"
+    lemma: "ΑΠΟΛΛΥΜΙ"
+    morph: 3PAIA
+  - form: "τήν"
+    lemma: "Ο"
+    morph: ASF
+  - form: "τε"
+    lemma: "ΤΕ"
+    morph: ""
+  - form: "γωζαν"
+    lemma: "ΓΩΖΑ"
+    morph: ASF
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "χαρραν"
+    lemma: "ΧΑΡΡΑΝ"
+    morph: ASF
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ραφες"
+    lemma: "ΡΑΦΕΣ"
+    morph: AS
+  - form: "αἵ"
+    lemma: "ΟΣ"
+    morph: NPF
+  - form: "εἰσιν"
+    lemma: "ΕΙΜΙ"
+    morph: 3PPIA
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "χώρᾳ"
+    lemma: "ΧΩΡΑ"
+    morph: DSF
+  - form: "θεμαδ"
+    lemma: "ΘΕΜΑΔ"
+    morph: ""
+---
+<span class="tok" title="ΜΗ">[[/Greek/Lexicon/ΜΗ|μὴ]]</span> <span class="tok" title="ΡΥΟΜΑΙ — 3PAIM">[[/Greek/Lexicon/ΡΥΟΜΑΙ|ἐρρύσαντο]][[/Greek/Morphology/3PAIM|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — APM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτοὺς]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="Ο — NPM">[[/Greek/Lexicon/Ο|οἱ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — NPM">[[/Greek/Lexicon/ΘΕΟΣ|θεοὶ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="Ο — GPN">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPN|ˑ]]</span> <span class="tok" title="ΕΘΝΟΣ — GPN">[[/Greek/Lexicon/ΕΘΝΟΣ|ἐθνῶν]][[/Greek/Morphology/GPN|ˑ]]</span> <span class="tok" title="ΟΣ — APM">[[/Greek/Lexicon/ΟΣ|οὓς]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="Ο — NPM">[[/Greek/Lexicon/Ο|οἱ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΠΑΤΗΡ — NPM">[[/Greek/Lexicon/ΠΑΤΗΡ|πατέρες]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΑΠΟΛΛΥΜΙ — 3PAIA">[[/Greek/Lexicon/ΑΠΟΛΛΥΜΙ|ἀπώλεσαν]][[/Greek/Morphology/3PAIA|ˑ]]</span> <span class="tok" title="Ο — ASF">[[/Greek/Lexicon/Ο|τήν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΤΕ">[[/Greek/Lexicon/ΤΕ|τε]]</span> <span class="tok" title="ΓΩΖΑ — ASF">[[/Greek/Lexicon/ΓΩΖΑ|γωζαν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΧΑΡΡΑΝ — ASF">[[/Greek/Lexicon/ΧΑΡΡΑΝ|χαρραν]][[/Greek/Morphology/ASF|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΡΑΦΕΣ — AS">[[/Greek/Lexicon/ΡΑΦΕΣ|ραφες]][[/Greek/Morphology/AS|ˑ]]</span> <span class="tok" title="ΟΣ — NPF">[[/Greek/Lexicon/ΟΣ|αἵ]][[/Greek/Morphology/NPF|ˑ]]</span> <span class="tok" title="ΕΙΜΙ — 3PPIA">[[/Greek/Lexicon/ΕΙΜΙ|εἰσιν]][[/Greek/Morphology/3PPIA|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΧΩΡΑ — DSF">[[/Greek/Lexicon/ΧΩΡΑ|χώρᾳ]][[/Greek/Morphology/DSF|ˑ]]</span> <span class="tok" title="ΘΕΜΑΔ">[[/Greek/Lexicon/ΘΕΜΑΔ|θεμαδ]]</span>

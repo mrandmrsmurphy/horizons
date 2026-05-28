@@ -1,0 +1,89 @@
+---
+language: greek
+book: 2 Chronicles
+chapter: 6
+verse: 15
+tokens:
+  - form: "ἃ"
+    lemma: "ΟΣ"
+    morph: APN
+  - form: "ἐφύλαξας"
+    lemma: "ΦΥΛΑΣΣΩ"
+    morph: 2SAIA
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSM
+  - form: "παιδί"
+    lemma: "ΠΑΙΣ"
+    morph: DSM
+  - form: "σου"
+    lemma: "ΣΥ"
+    morph: GS
+  - form: "Δαυΐδ"
+    lemma: "ΔΑΥΙΔ"
+    morph: DSM
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSM
+  - form: "πατρί"
+    lemma: "ΠΑΤΗΡ"
+    morph: DSM
+  - form: "μου"
+    lemma: "ΕΓΩ"
+    morph: GS
+  - form: "ἃ"
+    lemma: "ΟΣ"
+    morph: APN
+  - form: "ἐλάλησας"
+    lemma: "ΛΑΛΕΩ"
+    morph: 2SAIA
+  - form: "αὐτῷ"
+    lemma: "ΑΥΤΟΣ"
+    morph: DSM
+  - form: "λέγων"
+    lemma: "ΛΕΓΩ"
+    morph: PAP/NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐλάλησας"
+    lemma: "ΛΑΛΕΩ"
+    morph: 2SAIA
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "στόματί"
+    lemma: "ΣΤΟΜΑ"
+    morph: DSN
+  - form: "σου"
+    lemma: "ΣΥ"
+    morph: GS
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "χερσίν"
+    lemma: "ΧΕΙΡ"
+    morph: DPF
+  - form: "σου"
+    lemma: "ΣΥ"
+    morph: GS
+  - form: "ἐπλήρωσας"
+    lemma: "ΠΛΗΡΟΩ"
+    morph: 2SAIA
+  - form: "ὡς"
+    lemma: "ΩΣ"
+    morph: ""
+  - form: "ἡ"
+    lemma: "Ο"
+    morph: NSF
+  - form: "ἡμέρα"
+    lemma: "ΗΜΕΡΑ"
+    morph: NSF
+  - form: "αὕτη"
+    lemma: "ΟΥΤΟΣ"
+    morph: NSF
+---
+<span class="tok" title="ΟΣ — APN">[[/Greek/Lexicon/ΟΣ|ἃ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΦΥΛΑΣΣΩ — 2SAIA">[[/Greek/Lexicon/ΦΥΛΑΣΣΩ|ἐφύλαξας]][[/Greek/Morphology/2SAIA|ˑ]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο|τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΠΑΙΣ — DSM">[[/Greek/Lexicon/ΠΑΙΣ|παιδί]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΣΥ — GS">[[/Greek/Lexicon/ΣΥ|σου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΔΑΥΙΔ — DSM">[[/Greek/Lexicon/ΔΑΥΙΔ|Δαυΐδ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο|τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΠΑΤΗΡ — DSM">[[/Greek/Lexicon/ΠΑΤΗΡ|πατρί]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — GS">[[/Greek/Lexicon/ΕΓΩ|μου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΟΣ — APN">[[/Greek/Lexicon/ΟΣ|ἃ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΛΑΛΕΩ — 2SAIA">[[/Greek/Lexicon/ΛΑΛΕΩ|ἐλάλησας]][[/Greek/Morphology/2SAIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — DSM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΛΕΓΩ — PAP/NSM">[[/Greek/Lexicon/ΛΕΓΩ|λέγων]][[/Greek/Morphology/PAP_NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΛΑΛΕΩ — 2SAIA">[[/Greek/Lexicon/ΛΑΛΕΩ|ἐλάλησας]][[/Greek/Morphology/2SAIA|ˑ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΣΤΟΜΑ — DSN">[[/Greek/Lexicon/ΣΤΟΜΑ|στόματί]][[/Greek/Morphology/DSN|ˑ]]</span> <span class="tok" title="ΣΥ — GS">[[/Greek/Lexicon/ΣΥ|σου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΧΕΙΡ — DPF">[[/Greek/Lexicon/ΧΕΙΡ|χερσίν]][[/Greek/Morphology/DPF|ˑ]]</span> <span class="tok" title="ΣΥ — GS">[[/Greek/Lexicon/ΣΥ|σου]][[/Greek/Morphology/GS|ˑ]]</span> <span class="tok" title="ΠΛΗΡΟΩ — 2SAIA">[[/Greek/Lexicon/ΠΛΗΡΟΩ|ἐπλήρωσας]][[/Greek/Morphology/2SAIA|ˑ]]</span> <span class="tok" title="ΩΣ">[[/Greek/Lexicon/ΩΣ|ὡς]]</span> <span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο|ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΗΜΕΡΑ — NSF">[[/Greek/Lexicon/ΗΜΕΡΑ|ἡμέρα]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΟΥΤΟΣ — NSF">[[/Greek/Lexicon/ΟΥΤΟΣ|αὕτη]][[/Greek/Morphology/NSF|ˑ]]</span>

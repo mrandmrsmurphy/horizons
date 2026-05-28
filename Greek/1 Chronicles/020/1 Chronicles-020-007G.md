@@ -1,0 +1,44 @@
+---
+language: greek
+book: 1 Chronicles
+chapter: 20
+verse: 7
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ὠνείδισεν"
+    lemma: "ΟΝΕΙΔΙΖΩ"
+    morph: 3SAIA
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "Ἰσραήλ"
+    lemma: "ΙΣΡΑΗΛ"
+    morph: ASM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἐπάταξεν"
+    lemma: "ΠΑΤΑΣΣΩ"
+    morph: 3SAIA
+  - form: "αὐτὸν"
+    lemma: "ΑΥΤΟΣ"
+    morph: ASM
+  - form: "ιωναθαν"
+    lemma: "ΙΩΝΑΘΑΝ"
+    morph: NSM
+  - form: "υἱὸς"
+    lemma: "ΥΙΟΣ"
+    morph: NSM
+  - form: "σαμαα"
+    lemma: "ΣΑΜΑΑ"
+    morph: GSM
+  - form: "ἀδελφοῦ"
+    lemma: "ΑΔΕΛΦΟΣ"
+    morph: GSM
+  - form: "Δαυΐδ"
+    lemma: "ΔΑΥΙΔ"
+    morph: GSM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΟΝΕΙΔΙΖΩ — 3SAIA">[[/Greek/Lexicon/ΟΝΕΙΔΙΖΩ|ὠνείδισεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΙΣΡΑΗΛ — ASM">[[/Greek/Lexicon/ΙΣΡΑΗΛ|Ἰσραήλ]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΠΑΤΑΣΣΩ — 3SAIA">[[/Greek/Lexicon/ΠΑΤΑΣΣΩ|ἐπάταξεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΑΥΤΟΣ — ASM">[[/Greek/Lexicon/ΑΥΤΟΣ|αὐτὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΙΩΝΑΘΑΝ — NSM">[[/Greek/Lexicon/ΙΩΝΑΘΑΝ|ιωναθαν]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΥΙΟΣ — NSM">[[/Greek/Lexicon/ΥΙΟΣ|υἱὸς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΣΑΜΑΑ — GSM">[[/Greek/Lexicon/ΣΑΜΑΑ|σαμαα]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΑΔΕΛΦΟΣ — GSM">[[/Greek/Lexicon/ΑΔΕΛΦΟΣ|ἀδελφοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΔΑΥΙΔ — GSM">[[/Greek/Lexicon/ΔΑΥΙΔ|Δαυΐδ]][[/Greek/Morphology/GSM|ˑ]]</span>

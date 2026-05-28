@@ -1,0 +1,26 @@
+---
+language: greek
+book: Genesis
+chapter: 35
+verse: 24
+tokens:
+  - form: "υἱοὶ"
+    lemma: "ΥΙΟΣ"
+    morph: NPM
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "ραχηλ"
+    lemma: "ΡΑΧΗΛ"
+    morph: GSF
+  - form: "ιωσηφ"
+    lemma: "ΙΩΣΗΦ"
+    morph: NSM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "βενιαμιν"
+    lemma: "ΒΕΝΙΑΜΙΝ"
+    morph: NSM
+---
+<span class="tok" title="ΥΙΟΣ — NPM">[[/Greek/Lexicon/ΥΙΟΣ|υἱοὶ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="ΡΑΧΗΛ — GSF">[[/Greek/Lexicon/ΡΑΧΗΛ|ραχηλ]][[/Greek/Morphology/GSF|ˑ]]</span> <span class="tok" title="ΙΩΣΗΦ — NSM">[[/Greek/Lexicon/ΙΩΣΗΦ|ιωσηφ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΒΕΝΙΑΜΙΝ — NSM">[[/Greek/Lexicon/ΒΕΝΙΑΜΙΝ|βενιαμιν]][[/Greek/Morphology/NSM|ˑ]]</span>

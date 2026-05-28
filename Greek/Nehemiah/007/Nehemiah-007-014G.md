@@ -1,0 +1,20 @@
+---
+language: greek
+book: Nehemiah
+chapter: 7
+verse: 14
+tokens:
+  - form: "υἱοὶ"
+    lemma: "ΥΙΟΣ"
+    morph: NPM
+  - form: "ζακχου"
+    lemma: "ΖΑΚΧΟΥ"
+    morph: GSM
+  - form: "ἑπτακόσιοι"
+    lemma: "ΕΠΤΑΚΟΣΙΟΙ"
+    morph: NPM
+  - form: "ἑξήκοντα"
+    lemma: "ΕΞΗΚΟΝΤΑ"
+    morph: ""
+---
+<span class="tok" title="ΥΙΟΣ — NPM">[[/Greek/Lexicon/ΥΙΟΣ|υἱοὶ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΖΑΚΧΟΥ — GSM">[[/Greek/Lexicon/ΖΑΚΧΟΥ|ζακχου]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΕΠΤΑΚΟΣΙΟΙ — NPM">[[/Greek/Lexicon/ΕΠΤΑΚΟΣΙΟΙ|ἑπτακόσιοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΕΞΗΚΟΝΤΑ">[[/Greek/Lexicon/ΕΞΗΚΟΝΤΑ|ἑξήκοντα]]</span>

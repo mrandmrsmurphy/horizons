@@ -1,0 +1,74 @@
+---
+language: greek
+book: Isaiah
+chapter: 37
+verse: 2
+tokens:
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ἀπέστειλεν"
+    lemma: "ΑΠΟΣΤΕΛΛΩ"
+    morph: 3SAIA
+  - form: "ελιακιμ"
+    lemma: "ΕΛΙΑΚΙΜ"
+    morph: NSM
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "οἰκονόμον"
+    lemma: "ΟΙΚΟΝΟΜΟΣ"
+    morph: ASM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "σομναν"
+    lemma: "ΣΟΜΝΑΣ"
+    morph: ASM
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "γραμματέα"
+    lemma: "ΓΡΑΜΜΑΤΕΥΣ"
+    morph: ASM
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "τοὺς"
+    lemma: "Ο"
+    morph: APM
+  - form: "πρεσβυτέρους"
+    lemma: "ΠΡΕΣΒΥΣ"
+    morph: C/APM
+  - form: "τῶν"
+    lemma: "Ο"
+    morph: GPM
+  - form: "ἱερέων"
+    lemma: "ΙΕΡΕΥΣ"
+    morph: GPM
+  - form: "περιβεβλημένους"
+    lemma: "ΠΕΡΙΒΑΛΛΩ"
+    morph: RMP/APM
+  - form: "σάκκους"
+    lemma: "ΣΑΚΚΟΣ"
+    morph: APM
+  - form: "πρὸς"
+    lemma: "ΠΡΟΣ"
+    morph: ""
+  - form: "ησαιαν"
+    lemma: "ΗΣΑΙΑΣ"
+    morph: ASM
+  - form: "υἱὸν"
+    lemma: "ΥΙΟΣ"
+    morph: ASM
+  - form: "αμως"
+    lemma: "ΑΜΩΣ"
+    morph: GSM
+  - form: "τὸν"
+    lemma: "Ο"
+    morph: ASM
+  - form: "προφήτην"
+    lemma: "ΠΡΟΦΗΤΗΣ"
+    morph: ASM
+---
+<span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΑΠΟΣΤΕΛΛΩ — 3SAIA">[[/Greek/Lexicon/ΑΠΟΣΤΕΛΛΩ|ἀπέστειλεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΕΛΙΑΚΙΜ — NSM">[[/Greek/Lexicon/ΕΛΙΑΚΙΜ|ελιακιμ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΟΙΚΟΝΟΜΟΣ — ASM">[[/Greek/Lexicon/ΟΙΚΟΝΟΜΟΣ|οἰκονόμον]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="ΣΟΜΝΑΣ — ASM">[[/Greek/Lexicon/ΣΟΜΝΑΣ|σομναν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΓΡΑΜΜΑΤΕΥΣ — ASM">[[/Greek/Lexicon/ΓΡΑΜΜΑΤΕΥΣ|γραμματέα]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — APM">[[/Greek/Lexicon/Ο|τοὺς]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="ΠΡΕΣΒΥΣ — C/APM">[[/Greek/Lexicon/ΠΡΕΣΒΥΣ|πρεσβυτέρους]][[/Greek/Morphology/C_APM|ˑ]]</span> <span class="tok" title="Ο — GPM">[[/Greek/Lexicon/Ο|τῶν]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΙΕΡΕΥΣ — GPM">[[/Greek/Lexicon/ΙΕΡΕΥΣ|ἱερέων]][[/Greek/Morphology/GPM|ˑ]]</span> <span class="tok" title="ΠΕΡΙΒΑΛΛΩ — RMP/APM">[[/Greek/Lexicon/ΠΕΡΙΒΑΛΛΩ|περιβεβλημένους]][[/Greek/Morphology/RMP_APM|ˑ]]</span> <span class="tok" title="ΣΑΚΚΟΣ — APM">[[/Greek/Lexicon/ΣΑΚΚΟΣ|σάκκους]][[/Greek/Morphology/APM|ˑ]]</span> <span class="tok" title="ΠΡΟΣ">[[/Greek/Lexicon/ΠΡΟΣ|πρὸς]]</span> <span class="tok" title="ΗΣΑΙΑΣ — ASM">[[/Greek/Lexicon/ΗΣΑΙΑΣ|ησαιαν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΥΙΟΣ — ASM">[[/Greek/Lexicon/ΥΙΟΣ|υἱὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΑΜΩΣ — GSM">[[/Greek/Lexicon/ΑΜΩΣ|αμως]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="Ο — ASM">[[/Greek/Lexicon/Ο|τὸν]][[/Greek/Morphology/ASM|ˑ]]</span> <span class="tok" title="ΠΡΟΦΗΤΗΣ — ASM">[[/Greek/Lexicon/ΠΡΟΦΗΤΗΣ|προφήτην]][[/Greek/Morphology/ASM|ˑ]]</span>

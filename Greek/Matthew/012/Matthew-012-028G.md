@@ -1,0 +1,59 @@
+---
+language: greek
+book: Matthew
+chapter: 12
+verse: 28
+tokens:
+  - form: "εἰ"
+    lemma: "ΕΙ"
+    morph: ""
+  - form: "δὲ"
+    lemma: "ΔΕ"
+    morph: ""
+  - form: "ἐν"
+    lemma: "ΕΝ"
+    morph: ""
+  - form: "πνεύματι"
+    lemma: "ΠΝΕΥΜΑ"
+    morph: DSN
+  - form: "Θεοῦ"
+    lemma: "ΘΕΟΣ"
+    morph: GSM
+  - form: "ἐγὼ"
+    lemma: "ΕΓΩ"
+    morph: NS
+  - form: "ἐκβάλλω"
+    lemma: "ΕΚΒΑΛΛΩ"
+    morph: 1SPIA
+  - form: "τὰ"
+    lemma: "Ο"
+    morph: APN
+  - form: "δαιμόνια,"
+    lemma: "ΔΑΙΜΟΝΙΟΝ"
+    morph: APN
+  - form: "ἄρα"
+    lemma: "ΑΡΑ"
+    morph: ""
+  - form: "ἔφθασεν"
+    lemma: "ΦΘΑΝΩ"
+    morph: 3SAIA
+  - form: "ἐφ’"
+    lemma: "ΕΠΙ"
+    morph: ""
+  - form: "ὑμᾶς"
+    lemma: "ΣΥ"
+    morph: AP
+  - form: "ἡ"
+    lemma: "Ο"
+    morph: NSF
+  - form: "βασιλεία"
+    lemma: "ΒΑΣΙΛΕΙΑ"
+    morph: NSF
+  - form: "τοῦ"
+    lemma: "Ο"
+    morph: GSM
+  - form: "Θεοῦ."
+    lemma: "ΘΕΟΣ"
+    morph: GSM
+---
+<span class="tok" title="ΕΙ">[[/Greek/Lexicon/ΕΙ|εἰ]]</span> <span class="tok" title="ΔΕ">[[/Greek/Lexicon/ΔΕ|δὲ]]</span> <span class="tok" title="ΕΝ">[[/Greek/Lexicon/ΕΝ|ἐν]]</span> <span class="tok" title="ΠΝΕΥΜΑ — DSN">[[/Greek/Lexicon/ΠΝΕΥΜΑ|πνεύματι]][[/Greek/Morphology/DSN|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — GSM">[[/Greek/Lexicon/ΘΕΟΣ|Θεοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΕΓΩ — NS">[[/Greek/Lexicon/ΕΓΩ|ἐγὼ]][[/Greek/Morphology/NS|ˑ]]</span> <span class="tok" title="ΕΚΒΑΛΛΩ — 1SPIA">[[/Greek/Lexicon/ΕΚΒΑΛΛΩ|ἐκβάλλω]][[/Greek/Morphology/1SPIA|ˑ]]</span> <span class="tok" title="Ο — APN">[[/Greek/Lexicon/Ο|τὰ]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΔΑΙΜΟΝΙΟΝ — APN">[[/Greek/Lexicon/ΔΑΙΜΟΝΙΟΝ|δαιμόνια,]][[/Greek/Morphology/APN|ˑ]]</span> <span class="tok" title="ΑΡΑ">[[/Greek/Lexicon/ΑΡΑ|ἄρα]]</span> <span class="tok" title="ΦΘΑΝΩ — 3SAIA">[[/Greek/Lexicon/ΦΘΑΝΩ|ἔφθασεν]][[/Greek/Morphology/3SAIA|ˑ]]</span> <span class="tok" title="ΕΠΙ">[[/Greek/Lexicon/ΕΠΙ|ἐφ’]]</span> <span class="tok" title="ΣΥ — AP">[[/Greek/Lexicon/ΣΥ|ὑμᾶς]][[/Greek/Morphology/AP|ˑ]]</span> <span class="tok" title="Ο — NSF">[[/Greek/Lexicon/Ο|ἡ]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="ΒΑΣΙΛΕΙΑ — NSF">[[/Greek/Lexicon/ΒΑΣΙΛΕΙΑ|βασιλεία]][[/Greek/Morphology/NSF|ˑ]]</span> <span class="tok" title="Ο — GSM">[[/Greek/Lexicon/Ο|τοῦ]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΘΕΟΣ — GSM">[[/Greek/Lexicon/ΘΕΟΣ|Θεοῦ.]][[/Greek/Morphology/GSM|ˑ]]</span>

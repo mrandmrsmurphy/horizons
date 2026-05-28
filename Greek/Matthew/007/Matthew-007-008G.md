@@ -1,0 +1,47 @@
+---
+language: greek
+book: Matthew
+chapter: 7
+verse: 8
+tokens:
+  - form: "πᾶς"
+    lemma: "ΠΑΣ"
+    morph: NSM
+  - form: "γὰρ"
+    lemma: "ΓΑΡ"
+    morph: ""
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "αἰτῶν"
+    lemma: "ΑΙΤΕΩ"
+    morph: PAP/NSM
+  - form: "λαμβάνει"
+    lemma: "ΛΑΜΒΑΝΩ"
+    morph: 3SPIA
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "ὁ"
+    lemma: "Ο"
+    morph: NSM
+  - form: "ζητῶν"
+    lemma: "ΖΗΤΕΩ"
+    morph: PAP/NSM
+  - form: "εὑρίσκει"
+    lemma: "ΕΥΡΙΣΚΩ"
+    morph: 3SPIA
+  - form: "καὶ"
+    lemma: "ΚΑΙ"
+    morph: ""
+  - form: "τῷ"
+    lemma: "Ο"
+    morph: DSM
+  - form: "κρούοντι"
+    lemma: "ΚΡΟΥΩ"
+    morph: PAP/DSM
+  - form: "ἀνοιγήσεται."
+    lemma: "ΑΝΟΙΓΩ"
+    morph: 3SFIP
+---
+<span class="tok" title="ΠΑΣ — NSM">[[/Greek/Lexicon/ΠΑΣ|πᾶς]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΓΑΡ">[[/Greek/Lexicon/ΓΑΡ|γὰρ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΑΙΤΕΩ — PAP/NSM">[[/Greek/Lexicon/ΑΙΤΕΩ|αἰτῶν]][[/Greek/Morphology/PAP_NSM|ˑ]]</span> <span class="tok" title="ΛΑΜΒΑΝΩ — 3SPIA">[[/Greek/Lexicon/ΛΑΜΒΑΝΩ|λαμβάνει]][[/Greek/Morphology/3SPIA|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — NSM">[[/Greek/Lexicon/Ο|ὁ]][[/Greek/Morphology/NSM|ˑ]]</span> <span class="tok" title="ΖΗΤΕΩ — PAP/NSM">[[/Greek/Lexicon/ΖΗΤΕΩ|ζητῶν]][[/Greek/Morphology/PAP_NSM|ˑ]]</span> <span class="tok" title="ΕΥΡΙΣΚΩ — 3SPIA">[[/Greek/Lexicon/ΕΥΡΙΣΚΩ|εὑρίσκει]][[/Greek/Morphology/3SPIA|ˑ]]</span> <span class="tok" title="ΚΑΙ">[[/Greek/Lexicon/ΚΑΙ|καὶ]]</span> <span class="tok" title="Ο — DSM">[[/Greek/Lexicon/Ο|τῷ]][[/Greek/Morphology/DSM|ˑ]]</span> <span class="tok" title="ΚΡΟΥΩ — PAP/DSM">[[/Greek/Lexicon/ΚΡΟΥΩ|κρούοντι]][[/Greek/Morphology/PAP_DSM|ˑ]]</span> <span class="tok" title="ΑΝΟΙΓΩ — 3SFIP">[[/Greek/Lexicon/ΑΝΟΙΓΩ|ἀνοιγήσεται.]][[/Greek/Morphology/3SFIP|ˑ]]</span>

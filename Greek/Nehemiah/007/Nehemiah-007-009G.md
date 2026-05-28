@@ -1,0 +1,23 @@
+---
+language: greek
+book: Nehemiah
+chapter: 7
+verse: 9
+tokens:
+  - form: "υἱοὶ"
+    lemma: "ΥΙΟΣ"
+    morph: NPM
+  - form: "σαφατια"
+    lemma: "ΣΑΦΑΤΙΑ"
+    morph: GSM
+  - form: "τριακόσιοι"
+    lemma: "ΤΡΙΑΚΟΣΙΟΙ"
+    morph: NPM
+  - form: "ἑβδομήκοντα"
+    lemma: "ΕΒΔΟΜΗΚΟΝΤΑ"
+    morph: ""
+  - form: "δύο"
+    lemma: "ΔΥΟ"
+    morph: ""
+---
+<span class="tok" title="ΥΙΟΣ — NPM">[[/Greek/Lexicon/ΥΙΟΣ|υἱοὶ]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΣΑΦΑΤΙΑ — GSM">[[/Greek/Lexicon/ΣΑΦΑΤΙΑ|σαφατια]][[/Greek/Morphology/GSM|ˑ]]</span> <span class="tok" title="ΤΡΙΑΚΟΣΙΟΙ — NPM">[[/Greek/Lexicon/ΤΡΙΑΚΟΣΙΟΙ|τριακόσιοι]][[/Greek/Morphology/NPM|ˑ]]</span> <span class="tok" title="ΕΒΔΟΜΗΚΟΝΤΑ">[[/Greek/Lexicon/ΕΒΔΟΜΗΚΟΝΤΑ|ἑβδομήκοντα]]</span> <span class="tok" title="ΔΥΟ">[[/Greek/Lexicon/ΔΥΟ|δύο]]</span>
