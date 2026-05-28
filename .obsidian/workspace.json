@@ -183,6 +183,10 @@
   },
   "active": "5781ca7758156cae",
   "lastOpenFiles": [
+    "__pycache__/extract_greek.cpython-314.pyc",
+    "__pycache__",
+    "extract_greek.py",
+    "extract_greek.py.tmp.34834.b5e6fb3ba843",
     "greek.xml",
     "Greek/Lexicon/Α.md",
     "Greek/Strongs/0000.md",
