@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "CLAUDE.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -181,10 +181,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5781ca7758156cae",
   "lastOpenFiles": [
-    "TODO.md.tmp.1823.54ecdb483d29",
     "Home.md",
+    "CLAUDE.md",
+    "Hebrew/Proverbs/020/Proverbs-020-018H.md",
+    "Greek/1 Chronicles/001/1 Chronicles-001-002G.md",
+    "Bible/Acts/8/Acts-8-37.md",
+    "Bible/Leviticus/5/Leviticus-5-26.md",
+    "Bible/Proverbs/20/Proverbs-20-18.md",
+    "TODO.md",
+    "TODO.md.tmp.1823.54ecdb483d29",
     "Bible/1 Chronicles/10/1 Chronicles-10-1.md",
     "Bible/1 Chronicles/3/1 Chronicles-3-5.md",
     "Bible/1 Chronicles/1/1 Chronicles-1-1.md",
@@ -203,12 +210,6 @@
     "Greek/Luke/009/Luke-009-002G.md",
     "Greek/Luke/008/Luke-008-056G.md",
     "Greek/Luke/008/Luke-008-055G.md",
-    "Greek/Luke/008/Luke-008-054G.md",
-    "Greek/Luke/008/Luke-008-053G.md",
-    "Greek/Luke/008/Luke-008-052G.md",
-    "Greek/Luke/008/Luke-008-051G.md",
-    "Greek/Luke/008/Luke-008-050G.md",
-    "Greek/Luke/008/Luke-008-049G.md",
     "Greek/Morphology",
     "__pycache__/extract_greek.cpython-314.pyc",
     "__pycache__",
